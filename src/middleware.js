@@ -142,14 +142,11 @@ export function middleware(request) {
   });
 }
 
-export const config = {
+export const config = {  
   // matcher: [
-  //   // Skip all internal Next.js files and root URL
-  //   "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|^\\/redirect|^\\/$).*)",
-  // matcher: [
-  //   "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|^\\/redirect|^\\/cocktaillink^\\/cocktail|^\\/$).*)",   
+  //   "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|^\\/redirect|^\\/cocktaillink^\\/cocktail|^\\/test|^\\/$).*)",
   // ],
   matcher: [
-    "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|^\\/redirect|^\\/cocktaillink^\\/cocktail|^\\/test|^\\/$).*)",
+    "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|^\\/redirect|^\\/cocktaillink^\\/cocktail|^\\/test|^\\/$)(.|\\$))",
   ],
 };
