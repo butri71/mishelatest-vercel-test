@@ -1,35 +1,42 @@
 import React from "react";
 import { Megaphone, Users, MessageSquare, Mail } from "lucide-react";
 import initTranslations from '@/i18n'
-import { getBaseUrl } from "@/utils/urls";
+// import { getBaseUrl } from "@/utils/urls";
 
 import "./GetInTouch.css";
 
-export async function generateMetadata({ params }) {
-  const { lang } = await params;
-  const { t  } = await initTranslations(lang, ['contact'])     
-  const baseUrl = getBaseUrl();
+// export async function generateMetadata({ params }) {
+//   const { lang } = await params;
+//   const { t  } = await initTranslations(lang, ['contact'])     
+//   const baseUrl = getBaseUrl();
 
-  return {
-    title: `${t('contact.title')}`, 
-    description: t('contact.seoDescription'),
-    keywords: t('contact.seoKeywords'),
-    openGraph: {
-      title: `${t('contact.title')}`, 
-      description: t('contact.seoDescription'),
-      type: 'website',
-      locale: lang
-    },
-    alternates: {
-      // canonical: `/${lang}/contact`,
-      languages: {
-        'en': `${baseUrl}/en/contact`,
-        'es': `${baseUrl}/es/contact`,
-        'it': `${baseUrl}/it/contact`,
-        'x-default': `${baseUrl}/en/contact`,
-      }
-    }
-  };
+//   return {
+//     title: `${t('contact.title')}`, 
+//     description: t('contact.seoDescription'),
+//     keywords: t('contact.seoKeywords'),
+//     openGraph: {
+//       title: `${t('contact.title')}`, 
+//       description: t('contact.seoDescription'),
+//       type: 'website',
+//       locale: lang
+//     },
+//     alternates: {
+//       // canonical: `/${lang}/contact`,
+//       languages: {
+//         'en': `${baseUrl}/en/contact`,
+//         'es': `${baseUrl}/es/contact`,
+//         'it': `${baseUrl}/it/contact`,
+//         'x-default': `${baseUrl}/en/contact`,
+//       }
+//     }
+//   };
+// }
+export async function generateStaticParams() {
+  return [
+    { lang: 'en' },
+    { lang: 'es' },
+    { lang: 'it' },
+  ]
 }
 
 export default async function GetInTouch({ params }) {
@@ -45,6 +52,7 @@ export default async function GetInTouch({ params }) {
 
   return (
     <div className="container">
+      {/* <h1 className="title">Contact us</h1> */}
       <h1 className="title">{t('contact.title')}</h1>
       <p className="subtitle">{t('contact.subtitle')}</p>
       <div className="categories-grid">
