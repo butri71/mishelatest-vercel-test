@@ -10,5 +10,5 @@ export function getBaseUrl() {
   }
 
   // Fallback for development
-  return "http://localhost:4000";
+  return "http://localhost:8000";
 }
