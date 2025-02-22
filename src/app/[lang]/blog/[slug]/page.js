@@ -1,8 +1,9 @@
 // BLOG POST SCREEN
 import Image from "next/image";
+import { Suspense } from "react";
 import { FaArrowDownShortWide, FaRegComment } from "react-icons/fa6";
 import { getBaseUrl } from "@/utils/urls";
-import initTranslations from '@/i18n'
+import initTranslations from "@/i18n";
 
 import RatingComponent from "../../components/RatingComponent";
 import CommentSection from "../../components/CommentSection";
@@ -46,7 +47,6 @@ function generateSEOContent(
   ratingAverage,
   ratingVotes
 ) {
-
   const localeRecipe = {
     en: "recipe",
     es: "receta",
@@ -100,7 +100,7 @@ function generateSEOContent(
     .filter(Boolean); // Remove any undefined mappings
 
   return {
-    // Use existing content where possible    
+    // Use existing content where possible
     title: `${cleanTitle}`,
     description: cleanDescription.slice(0, 160),
     keywords: baseKeywords,
@@ -142,9 +142,10 @@ function generateSEOContent(
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: ratingItem?.ratingAvg || ratingAverage, // Calculated average
-        reviewCount: ratingVotes || userReviews?.length // Number of reviews
+        reviewCount: ratingVotes || userReviews?.length, // Number of reviews
       },
-      recipeCuisine: localeCountry && localeCountry.trim() ? localeCountry : "USA",
+      recipeCuisine:
+        localeCountry && localeCountry.trim() ? localeCountry : "USA",
       suitableForDiet: suitableForDiet.length > 0 ? suitableForDiet : undefined,
       url: `${getBaseUrl()}/${lang}/blog/${slug}`,
       recipeYield: "1 cocktail",
@@ -168,7 +169,7 @@ export async function generateMetadata({ params }) {
     preparation,
     localeCountry,
     ratingAverage,
-    ratingVotes
+    ratingVotes,
   } = getCocktailPostData(slug, lang);
   // const post = Object.values(posts).find((post) => post[lang].slug === slug);
 
@@ -195,7 +196,7 @@ export async function generateMetadata({ params }) {
     ratingVotes
   );
   const baseUrl = getBaseUrl();
-  // console.log("ratingItem: ", ratingItem) 
+  // console.log("ratingItem: ", ratingItem)
   return {
     title: seoContent.title,
     description: seoContent.description,
@@ -223,7 +224,7 @@ export async function generateMetadata({ params }) {
         en: `${baseUrl}/en/blog/${article.slugs.en}`,
         es: `${baseUrl}/es/blog/${article.slugs.es}`,
         it: `${baseUrl}/it/blog/${article.slugs.it}`,
-        'x-default': `${baseUrl}/en/blog/${article.slugs.en}`
+        "x-default": `${baseUrl}/en/blog/${article.slugs.en}`,
       },
     },
     // Add this so it can be used in BlogPost
@@ -233,7 +234,7 @@ export async function generateMetadata({ params }) {
 
 export default async function BlogPost({ params }) {
   const { lang, slug } = await params;
-  const { t } = await initTranslations(lang, ['blog'])
+  const { t } = await initTranslations(lang, ["blog"]);
 
   const {
     post,
@@ -251,7 +252,7 @@ export default async function BlogPost({ params }) {
     preparation,
     country,
     ratingAverage,
-    ratingVotes
+    ratingVotes,
   } = getCocktailPostData(slug, lang);
   const ratingItem = getRatingItem(post.cocktailId);
   // console.log("BlogPost ratingAverage: ", ratingAverage)
@@ -276,7 +277,7 @@ export default async function BlogPost({ params }) {
   const totalTime = preparation.length + 1;
   const ratingAvg = ratingItem?.ratingAvg || ratingAverage;
   const ratingCount = ratingItem?.votes || ratingVotes;
-  const fullRating = { ratingAvg, ratingCount }
+  const fullRating = { ratingAvg, ratingCount };
   // console.log("ratingItem: ", ratingItem)
   // console.log("ratingAverage: ", ratingAverage)
   // console.log("fullRating: ", fullRating)
@@ -326,17 +327,17 @@ export default async function BlogPost({ params }) {
           <h1 className="upper">{title}</h1>
           <div className="article-meta use-geist-mono">
             <p className="author">
-              {t('blog.by')}
+              {t("blog.by")}
               {post.author}
             </p>
             <span className="separator">•</span>
             <p className="publish-date">
-              <span>{t('blog.published')}</span>{" "}
+              <span>{t("blog.published")}</span>{" "}
               <span>{formatIntDate(post.published, lang)}</span>
             </p>
             <span className="separator">•</span>
             <a href="#recipe-section" className="jump-to-recipe">
-              <FaArrowDownShortWide className="icon" /> {t('blog.jump_recipe')}
+              <FaArrowDownShortWide className="icon" /> {t("blog.jump_recipe")}
             </a>
           </div>
           <div className="article-plain-content use-geist">
@@ -351,12 +352,12 @@ export default async function BlogPost({ params }) {
               </div>
               <div>
                 <a href="#comment-section">
-                  <FaRegComment className="icon" /> {t('blog.comment')}
+                  <FaRegComment className="icon" /> {t("blog.comment")}
                 </a>
               </div>
               {iba && (
                 <div className="dietary-icons-box">
-                  <div className="iba-box">{t('blog.iba')}</div>
+                  <div className="iba-box">{t("blog.iba")}</div>
                 </div>
               )}
             </div>
@@ -375,7 +376,7 @@ export default async function BlogPost({ params }) {
             />
           </div>
           <div className="article-plain-content use-geist">
-            <MarkdownParagraph language={lang}>{description}</MarkdownParagraph>            
+            <MarkdownParagraph language={lang}>{description}</MarkdownParagraph>
           </div>
 
           {/* QUOTE */}
@@ -387,15 +388,15 @@ export default async function BlogPost({ params }) {
               cocktail={overallName}
               quote={quote}
               invented={invented}
-              headerInvented={t('blog.who_invented')}
-              headerGuess={t('blog.did_you_know')}
+              headerInvented={t("blog.who_invented")}
+              headerGuess={t("blog.did_you_know")}
               lang={lang}
             />
           </div>
 
           {/* HISTORY */}
           <LineHeaderLeft
-            title={`${t('blog.history_tab')} "${overallName}"`}
+            title={`${t("blog.history_tab")} "${overallName}"`}
             icon={"History"}
           />
           <div className="article-content use-geist mb-30">
@@ -407,7 +408,7 @@ export default async function BlogPost({ params }) {
           <AppBannerSmall lang={lang} />
 
           {/* BARTENDER TIPS */}
-          <LineHeaderLeft title={`${t('blog.tips_tab')}  "${overallName}"`} />
+          <LineHeaderLeft title={`${t("blog.tips_tab")}  "${overallName}"`} />
           <div className="article-content use-geist">
             {tips?.intro && <div className="mb-10">{tips.intro}</div>}
             <ul className="ingredients-list">
@@ -423,37 +424,40 @@ export default async function BlogPost({ params }) {
 
           {/* RECIPE*/}
           <div id="recipe-section">
-            <RecipeCard
-              cocktail={overallName}
-              // statement={post[lang].statement}
-              tags={tags}
-              dosage={dosage}
-              garnish={garnish}
-              preparation={preparation}
-              vegetarian={dietaryInfo.vegetarian}
-              vegan={dietaryInfo.vegan}
-              glutenfree={dietaryInfo.glutenFree}
-              dairyfree={dietaryInfo.dairyFree}
-              calories={calories}
-              prepTime={prepTime}
-              totalTime={totalTime}
-              abv={abv}
-              country={localeCountry}
-              lang={lang}
-              img={post.image}
-              caller={"blog"}
-            />
+            <Suspense fallback={<div>Loading Recipe Card...</div>}>
+              <RecipeCard
+                cocktail={overallName}
+                // statement={post[lang].statement}
+                tags={tags}
+                dosage={dosage}
+                garnish={garnish}
+                preparation={preparation}
+                vegetarian={dietaryInfo.vegetarian}
+                vegan={dietaryInfo.vegan}
+                glutenfree={dietaryInfo.glutenFree}
+                dairyfree={dietaryInfo.dairyFree}
+                calories={calories}
+                prepTime={prepTime}
+                totalTime={totalTime}
+                abv={abv}
+                country={localeCountry}
+                lang={lang}
+                img={post.image}
+                caller={"blog"}
+              />
+            </Suspense>
           </div>
 
           {/* VARIATIONS */}
-          {variations.length > 0 &&
+          {variations.length > 0 && (
             <LineHeaderLeft
               title={
                 lang === "en"
-                  ? `"${overallName}" ${t('blog.variations_tab')}`
-                  : `${t('blog.variations_tab')} "${overallName}"`
+                  ? `"${overallName}" ${t("blog.variations_tab")}`
+                  : `${t("blog.variations_tab")} "${overallName}"`
               }
-            />}
+            />
+          )}
           <div className="article-content use-geist">
             <ul className="ingredients-list">
               {variations.map((item, index) => (
