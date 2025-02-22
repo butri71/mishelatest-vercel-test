@@ -14,32 +14,40 @@ import liqueurs from "../../../data/liqueurs.json";
 import MarkdownParagraph from "../../utils/MarkdownParagraph";
 import "./css/homepage.css";
 
-export async function generateMetadata({ params }) {
-  const { lang } = await params;
-  const { t } = await initTranslations(lang, ["homepage"]);
+// export async function generateMetadata({ params }) {
+//   const { lang } = await params;
+//   const { t } = await initTranslations(lang, ["homepage"]);
 
-  const baseUrl = getBaseUrl();
+//   const baseUrl = getBaseUrl();
 
-  return {
-    title: t("homepage.homeTitle"),
-    description: t("homepage.homeDescription"),
-    keywords: t("homepage.keywords"),
-    openGraph: {
-      title: t("homepage.homeTitle"),
-      description: t("homepage.homeDescription"),
-      type: "website",
-      locale: lang,
-    },
-    alternates: {
-      // canonical: `${baseUrl}/${lang}`,
-      languages: {
-        en: `${baseUrl}/en`,
-        es: `${baseUrl}/es`,
-        it: `${baseUrl}/it`,
-        "x-default": `${baseUrl}/en`,
-      },
-    },
-  };
+//   return {
+//     title: t("homepage.homeTitle"),
+//     description: t("homepage.homeDescription"),
+//     keywords: t("homepage.keywords"),
+//     openGraph: {
+//       title: t("homepage.homeTitle"),
+//       description: t("homepage.homeDescription"),
+//       type: "website",
+//       locale: lang,
+//     },
+//     alternates: {
+//       // canonical: `${baseUrl}/${lang}`,
+//       languages: {
+//         en: `${baseUrl}/en`,
+//         es: `${baseUrl}/es`,
+//         it: `${baseUrl}/it`,
+//         "x-default": `${baseUrl}/en`,
+//       },
+//     },
+//   };
+// }
+
+export async function generateStaticParams() {
+  return [
+    { lang: 'en' },
+    { lang: 'es' },
+    { lang: 'it' },
+  ]
 }
 
 export default async function Home({ params }) {
