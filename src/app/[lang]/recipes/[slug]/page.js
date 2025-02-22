@@ -387,7 +387,7 @@ export default async function BlogPost({ params, searchParams }) {
           <div className="recipe-content">
             <MarkdownParagraph language={lang}>{description}</MarkdownParagraph>
           </div>
-          <div className="top-recipe-container">
+          {/* <div className="top-recipe-container">
             <div
               className="recipe-image-container"
               style={{ backgroundColor: dataAll[`rgb-${type.value}`] }}
@@ -402,7 +402,7 @@ export default async function BlogPost({ params, searchParams }) {
               />
             </div>
             <div className="glass-side-wrapper">
-              {/*  top right box */}
+              
               <div className="cocktail-tags">
                 {tags && (
                   <div>
@@ -414,8 +414,6 @@ export default async function BlogPost({ params, searchParams }) {
                   </div>
                 )}
               </div>
-
-              {/*  middle right  */}
               <div className="middle-right">
                 <div className="side-image-container">
                   {iba && (
@@ -447,21 +445,21 @@ export default async function BlogPost({ params, searchParams }) {
                       </div>
                     </div>
                   )}
-                  {/* <RatingDisplay
+                  <RatingDisplay
                     ratingAvg={ratingAvg}
                     votes={ratingCount}
                     message={t("blog.alert_rating_msm")}
-                  /> */}
+                  /> 
                 </div>
-                {/* QR CODE GENERATION */}
+                
                 <div className="side-image-container">
                   {isQRcode && <QrCodeGenerator drinkId={cocktailId} />}
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           {/* BLOG LINK BUTTON */}
-          {postRecord && postRecord[lang]?.slug && (
+          {/* {postRecord && postRecord[lang]?.slug && (
             <div className="blog-banner-container">
               <div className="btnBanner">
                 <Link
@@ -472,7 +470,7 @@ export default async function BlogPost({ params, searchParams }) {
                 </Link>
               </div>
             </div>
-          )}
+          )} */}
 
           {/* RECIPE*/}
           <div id="recipe-section">
