@@ -1,6 +1,7 @@
 // BLOG SINGLE RECIPE SCREEN
 import Image from "next/image";
 import Link from "next/link";
+import { Suspense } from "react";
 import initTranslations from "@/i18n";
 
 import { country as countryTranslations } from "../../components/translations/countries";
@@ -294,9 +295,9 @@ export async function generateMetadata({ params, searchParams }) {
   };
 }
 
-// export async function generateStaticParams() {
-//   return [{ lang: "en" }, { lang: "es" }, { lang: "it" }];
-// }
+export async function generateStaticParams() {
+  return [{ lang: "en" }, { lang: "es" }, { lang: "it" }];
+}
 
 export default async function BlogPost({ params, searchParams }) {
   const { lang, slug } = params;
@@ -366,7 +367,7 @@ export default async function BlogPost({ params, searchParams }) {
     ratingAverage,
     ratingVotes
   );
-  
+
   // console.log("Recipe description: ", description)
   return (
     <>
@@ -475,25 +476,27 @@ export default async function BlogPost({ params, searchParams }) {
 
           {/* RECIPE*/}
           <div id="recipe-section">
-            <RecipeCard
-              cocktail={overallName}
-              tags={tags}
-              dosage={dosage}
-              garnish={garnish}
-              preparation={preparation}
-              vegetarian={dietaryInfo.vegetarian}
-              vegan={dietaryInfo.vegan}
-              glutenfree={dietaryInfo.glutenFree}
-              dairyfree={dietaryInfo.dairyFree}
-              calories={calories}
-              prepTime={prepTime}
-              totalTime={totalTime}
-              abv={abv}
-              country={localeCountry}
-              lang={lang}
-              img={glassImage}
-              caller={"glasses"}
-            />
+            <Suspense fallback={<div>Loading Recipe Card...</div>}>
+              <RecipeCard
+                cocktail={overallName}
+                tags={tags}
+                dosage={dosage}
+                garnish={garnish}
+                preparation={preparation}
+                vegetarian={dietaryInfo.vegetarian}
+                vegan={dietaryInfo.vegan}
+                glutenfree={dietaryInfo.glutenFree}
+                dairyfree={dietaryInfo.dairyFree}
+                calories={calories}
+                prepTime={prepTime}
+                totalTime={totalTime}
+                abv={abv}
+                country={localeCountry}
+                lang={lang}
+                img={glassImage}
+                caller={"glasses"}
+              />
+            </Suspense>
           </div>
 
           {/* APP PROMO SECTION */}
