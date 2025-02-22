@@ -161,7 +161,7 @@ export default async function Home({ params }) {
 
             <div className="featured-box-img">
               {/* <Link href={`/${lang}/blog/${cocktailMonth.slug}`}> */}
-              {/* <Link href={`/${lang}/recipes`}> */}
+              <Link href={`/${lang}/recipes`}>
                 <Image
                   src="/images/blog/cocktail-month.jpg"
                   alt="three cocktails city blog"
@@ -175,7 +175,7 @@ export default async function Home({ params }) {
                     {t("homepage.sidebarTitle4")}
                   </div>
                 </div>
-              {/* </Link> */}
+              </Link>
             </div>
 
             <div className="featured-box-img">
