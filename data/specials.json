@@ -1,0 +1,1333 @@
+{
+    "1001": {
+        "en": {
+            "title": "Valentine’s Cocktails - Create the perfect Experience",
+            "subtitle": "10 Unforgettable Valentine’s Day Cocktails to Impress Your Partner",
+            "shortIntro": "Discover romantic cocktail ideas to make your Valentine's Day an unforgettable moment.",
+            "description": "**Valentine's Day** is the perfect occasion to indulge in cocktails that are not only delicious but also exude romance. A well-made drink says, “I put effort into this,” whether it’s a frothy Raspberry Dream or a smoky Persephone.\n\nPlus, the act of sharing a cocktail fosters connection; clinking glasses is the modern-day version of carving initials into a tree.\n\nRemember that drinks aren’t just beverages; they’re conversation starters and mood-setters.",
+            "sections": [
+                {
+                    "header": "Selecting the Right Cocktails for a Romantic Moment",
+                    "content": "**Valentine’s cocktails** should be a sensory experience: visually stunning, balanced in flavor, and easy to share.\n\nThink sweet, floral, or indulgent profiles like raspberries, chocolate, champagne paired with eye-catching colors (**pink, red, gold**) and playful garnishes (**edible flowers, heart-shaped ice**).\n\nThese elements not only please the palate but also add a visual appeal that enhances the romantic atmosphere. For instance, a **Raspberry Martini** combines the tartness of fresh raspberries with the smoothness of vodka, creating a delightful balance that's both refreshing and indulgent."
+                },
+                {
+                    "header": "What Drinks to Avoid",
+                    "content": "Skip anything overly strong (like a **Long Island Iced Tea**) or visually jarring (**neon-green shots**).\n\nDrinks with harsh flavors like a traditional [Negroni], known for its strong and bitter profile, or messy presentations such as **Bloody Marys** with celery stalks, can disrupt the romantic vibe.\n\nStick to elegant, approachable options that won’t leave you hiccupping through dessert. Still unsure? Go for **bubbles**; you’ll never go wrong…"
+                },
+                {
+                    "header": "Prepare the Perfect Romantic Night",
+                    "content": [
+                        "**Lighting & Ambiance:** Set the mood with soft lighting, such as candles or fairy lights. Incorporate themed glassware and fresh flowers to elevate the aesthetic. Playing a curated playlist of your favorite love songs in the background can also enhance the romantic atmosphere.",
+                        "**Making Cocktails at Home:** Preparing cocktails at home can be a fun and intimate activity. Choose recipes with simple ingredients and straightforward steps to avoid stress. Setting up a 'mix your own cocktail' station with various ingredients can also add an interactive element to your evening.",
+                        "**Themed Glassware:** Use coupe glasses or gold-rimmed tumblers (**heart-shaped ice cubes add whimsy!**).",
+                        "**Prep Ahead:** Pre-mix syrups, chill ingredients, and garnish-ready fruits. No one wants to watch you muddle mint mid-date."
+                    ]
+                },
+                {
+                    "header": "Get the Timing Right: When to Serve What",
+                    "content": [
+                        "**Aperitif:** Start light! A [Paloma] or [Bellini] primes the palate.",
+                        "**During Dinner:** Pair with the meal; a **Pink Lady** complements seafood, while a **Valentine Sour** shines with spicy dishes.",
+                        "**After Dinner:** Go decadent. A **Chocolate Martini** or spiked hot cocoa feels like dessert in a glass."
+                    ]
+                },
+                {
+                    "header": "Dining Out?",
+                    "content": "Opt for a venue known for its signature **romantic cocktails** and ask for “something floral or fruity” — bartenders love a creative challenge."
+                }
+            ],
+            "recommendations": {
+                "header": "Top 10 Valentine's Cocktails Recommended by Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1379,
+                        "header": "Clover Club",
+                        "content": "**A pre-Prohibition era cocktail**, the Clover Club mixes gin, raspberry syrup, lemon juice, and egg white. The result is a frothy, pink drink that's both tart and sweet, embodying timeless elegance.",
+                        "image": "clover-club-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1225,
+                        "header": "Kir Royale",
+                        "content": "**The Kir Royale** is a sophisticated French aperitif that combines crème de cassis, a blackcurrant liqueur, with Champagne.\n\nThis elegant cocktail offers a delightful balance of sweet and bubbly, making it a perfect choice for celebrations.",
+                        "image": "kir-royale-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1172,
+                        "header": "French Martini",
+                        "content": "**A modern classic**, the French Martini blends vodka, Chambord (a raspberry liqueur), and pineapple juice.\n\nThis cocktail delivers a fruity and slightly sweet flavor profile, with a smooth finish, making it a popular choice for various occasions.",
+                        "image": "french-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1465,
+                        "header": "Chocolate Martini",
+                        "content": "**An indulgent dessert**, the Chocolate Martini combines vodka, chocolate liqueur, and cream.\n\nThis rich and velvety drink offers a luxurious chocolate flavor, making it a perfect treat for special occasions.",
+                        "image": "chocolate-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1799,
+                        "header": "The Persephone",
+                        "content": "For the bold: **pomegranate syrup, rosemary, and gin** with a smoky finish.\n\nMythological vibes meet modern mixology.",
+                        "image": "persephone-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1682,
+                        "header": "Passion Fruit Martini",
+                        "content": "Also known as the **Pornstar Martini**, this vibrant cocktail combines vanilla vodka, passion fruit purée, and lime juice.\n\nIts exotic and fruity flavors are often complemented by a side of sparkling wine, adding a touch of sophistication.",
+                        "image": "porn-star-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1205,
+                        "header": "Bellini",
+                        "content": "**Originating from Venice**, the Bellini is a delightful mix of peach purée and Prosecco.\n\nThis elegant cocktail offers a sweet and bubbly experience, making it a popular choice for celebrations and brunches.",
+                        "image": "bellini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1348,
+                        "header": "Paloma",
+                        "content": "**A refreshing Mexican classic**, the Paloma blends tequila with grapefruit soda and a splash of lime juice.\n\nIts light, citrusy profile makes it an ideal thirst-quencher, perfect for warm evenings.",
+                        "image": "paloma-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1655,
+                        "header": "Pink Lady",
+                        "content": "**The Pink Lady** is a classic cocktail that combines gin, applejack, lemon juice, grenadine, and egg white.\n\nIts delicate pink hue and balanced sweet-tart flavor make it a charming choice for romantic occasions.",
+                        "image": "pink-lady-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 9999,
+                        "header": "Valentine Sour",
+                        "content": "**A romantic twist** on the traditional sour, the Valentine Sour features flavored gin, lemon juice, raspberry syrup, cream, and egg white.\n\nThis creamy, tangy cocktail offers a luscious texture and a delightful balance of flavors, perfect for special occasions.",
+                        "image": "valentine-sour-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "valentine-day-best-10-cocktails",
+            "slugs": {
+                "en": "valentine-day-best-10-cocktails",
+                "es": "10-mejores-cocteles-san-valentin",
+                "it": "10-migliori-cocktail-san-valentino"
+            },
+            "keywords": "Valentine's cocktails, romantic drinks, Valentine's Day recipes, perfect date cocktails, cocktail night ideas, Valentine's cocktail scene, romantic cocktail recipes, love-themed drinks, Valentine's Day mixology, sweet and sparkling cocktails",
+            "name": "Valentine’s Day"
+        },
+        "es": {
+            "title": "Cócteles para San Valentín - Crea la Experiencia Perfecta",
+            "subtitle": "10 Inolvidables Cócteles para Sorprender a Tu Pareja en San Valentín",
+            "shortIntro": "Descubre ideas de cócteles románticos para hacer de tu San Valentín un momento inolvidable.",
+            "description": "**El Día de San Valentín** es la ocasión perfecta para disfrutar de cócteles que no solo sean deliciosos, sino que también irradien romance. Un buen cóctel dice: \u201cMe he esforzado en esto\u201d, ya sea un sueño de frambuesa espumosa o un Persephone ahumado.\n\nAdemás, el acto de compartir un cóctel fomenta la conexión; chocar las copas es la versión moderna de grabar iniciales en un árbol.\n\nRecuerda que las bebidas no son solo bebidas; son iniciadores de conversación y creadores de ambiente.",
+            "sections": [
+                {
+                    "header": "Seleccionar los Cócteles Adecuados para un Momento Romántico",
+                    "content": "**Los cócteles para San Valentín** deben ser una experiencia sensorial: visualmente impactantes, equilibrados en sabor y fáciles de compartir.\n\nPiensa en perfiles dulces, florales o indulgentes como frambuesas, chocolate, champán combinado con colores llamativos (**rosado, rojo, dorado**) y adornos divertidos (**flores comestibles, cubos de hielo en forma de corazón**).\n\nEstos elementos no solo deleitan el paladar, sino que también añaden un atractivo visual que mejora el ambiente romántico. Por ejemplo, un **Martini de Frambuesa** combina el sabor ácido de las frambuesas frescas con la suavidad del vodka, creando un equilibrio encantador que es refrescante e indulgente."
+                },
+                {
+                    "header": "Qué Bebidas Evitar",
+                    "content": "Evita cualquier cosa demasiado fuerte (como un **Long Island Iced Tea**) o visualmente chocante (**chupitos de color verde neón**).\n\nLas bebidas con sabores fuertes, como un [Negroni] tradicional, conocido por su perfil fuerte y amargo, o presentaciones desordenadas como los **Bloody Marys** con ramas de apio, pueden romper el ambiente romántico.\n\nOpta por opciones elegantes y accesibles que no te dejen con hipo durante el postre. ¿Aún no estás seguro? Elige **burbujas**; nunca te equivocarás..."
+                },
+                {
+                    "header": "Prepara la Noche Romántica Perfecta",
+                    "content": [
+                        "**Iluminación y Ambiente:** Crea el ambiente con luces suaves, como velas o luces de hadas. Incorpora cristalería temática y flores frescas para realzar la estética. Reproducir una lista de canciones de amor favoritas también puede mejorar el ambiente romántico.",
+                        "**Preparar Cócteles en Casa:** Preparar cócteles en casa puede ser una actividad divertida e íntima. Elige recetas con ingredientes simples y pasos sencillos para evitar el estrés. Configurar una estación de \"haz tu propio cóctel\" con varios ingredientes también puede añadir un elemento interactivo a tu velada.",
+                        "**Cristalería Temática:** Usa copas coupe o vasos con bordes dorados (**los cubos de hielo en forma de corazón añaden un toque divertido**).",
+                        "**Prepárate con Anticipación:** Premezcla jarabes, enfría ingredientes y prepara frutas para decorar. Nadie quiere verte triturando menta a mitad de la cita."
+                    ]
+                },
+                {
+                    "header": "Elige el Momento Ideal: Cuándo Servir Qué",
+                    "content": [
+                        "**Aperitivo:** Comienza ligero. Un [Paloma] o un [Bellini] preparan el paladar.",
+                        "**Durante la Cena:** Combina con la comida; un **Pink Lady** complementa el marisco, mientras que un **Valentine Sour** brilla con platos picantes.",
+                        "**Después de la Cena:** Ve por lo decadente. Un **Chocolate Martini** o un cacao caliente con un toque de licor se sienten como un postre en un vaso."
+                    ]
+                },
+                {
+                    "header": "¿Salir a Cenar?",
+                    "content": "Opta por un lugar conocido por sus **cócteles románticos** y pide \"algo floral o afrutado\". A los bartenders les encanta un desafío creativo."
+                }
+            ],
+            "recommendations": {
+                "header": "Los 10 Mejores Cócteles para San Valentín Recomendados por Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1379,
+                        "header": "Clover Club",
+                        "content": "**Un cóctel de la era de la Prohibición**, el Clover Club mezcla ginebra, jarabe de frambuesa, jugo de limón y clara de huevo. El resultado es una bebida espumosa y rosa que es tanto ácida como dulce, encarnando una elegancia atemporal.",
+                        "image": "clover-club-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1225,
+                        "header": "Kir Royale",
+                        "content": "**El Kir Royale** es un aperitivo francés sofisticado que combina crème de cassis, un licor de grosella negra, con champán.\n\nEste cóctel elegante ofrece un equilibrio encantador de dulce y burbujeante, lo que lo convierte en una elección perfecta para celebraciones.",
+                        "image": "kir-royale-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1172,
+                        "header": "French Martini",
+                        "content": "**Un clásico moderno**, el French Martini combina vodka, Chambord (un licor de frambuesa) y jugo de piña.\n\nEste cóctel ofrece un perfil de sabor afrutado y ligeramente dulce, con un acabado suave, lo que lo convierte en una elección popular para diversas ocasiones.",
+                        "image": "french-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1465,
+                        "header": "Chocolate Martini",
+                        "content": "**Un postre indulgente**, el Chocolate Martini combina vodka, licor de chocolate y crema.\n\nEsta bebida rica y aterciopelada ofrece un sabor a chocolate lujoso, lo que la convierte en un regalo perfecto para ocasiones especiales.",
+                        "image": "chocolate-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1799,
+                        "header": "The Persephone",
+                        "content": "Para los audaces: **jarabe de granada, romero y ginebra** con un acabado ahumado.\n\nVibras mitológicas se encuentran con la mixología moderna.",
+                        "image": "persephone-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1682,
+                        "header": "Passion Fruit Martini",
+                        "content": "Tambien conocido como el **Pornstar Martini**, este vibrante cóctel combina vodka de vainilla, puré de fruta de la pasión y jugo de lima.\n\nSus sabores exóticos y afrutados a menudo se complementan con un lado de vino espumoso, agregando un toque de sofisticación.",
+                        "image": "porn-star-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1205,
+                        "header": "Bellini",
+                        "content": "**Originario de Venecia**, el Bellini es una mezcla deliciosa de puré de durazno y Prosecco.\n\nEste elegante cóctel ofrece una experiencia dulce y burbujeante, lo que lo convierte en una elección popular para celebraciones y brunches.",
+                        "image": "bellini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1348,
+                        "header": "Paloma",
+                        "content": "**Un clásico mexicano refrescante**, la Paloma mezcla tequila con refresco de toronja y un chorrito de jugo de lima.\n\nSu perfil ligero y cítrico lo convierte en un excelente refrescante, perfecto para las tardes cálidas.",
+                        "image": "paloma-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1655,
+                        "header": "Pink Lady",
+                        "content": "**La Pink Lady** es un cóctel clásico que combina ginebra, applejack, jugo de limón, granadina y clara de huevo.\n\nSu delicado tono rosado y su equilibrado sabor agridulce lo convierten en una elección encantadora para ocasiones románticas.",
+                        "image": "pink-lady-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1402,
+                        "header": "Valentine Sour",
+                        "content": "**Un giro romántico** al sour tradicional, el Valentine Sour presenta ginebra aromatizada, jugo de limón, jarabe de frambuesa, crema y clara de huevo.\n\nEste cóctel cremoso y ácido ofrece una textura deliciosa y un equilibrio encantador de sabores, perfecto para ocasiones especiales.",
+                        "image": "valentine-sour-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "10-mejores-cocteles-san-valentin",
+            "slugs": {
+                "en": "valentine-day-best-10-cocktails",
+                "es": "10-mejores-cocteles-san-valentin",
+                "it": "10-migliori-cocktail-san-valentino"
+            },
+            "keywords": "cócteles de San Valentín, bebidas románticas, recetas para San Valentín, cócteles para una cita perfecta, ideas de noche de cócteles, escena de cócteles para San Valentín, recetas de cócteles románticos, bebidas temáticas de amor, mixología para San Valentín, cócteles dulces y espumosos",
+            "name": "San Valentín"
+        },
+        "it": {
+            "title": "Cocktail per San Valentino - Crea l'Esperienza Perfetta",
+            "subtitle": "10 Indimenticabili Cocktail di San Valentino per Stupire il Tuo Partner",
+            "shortIntro": "Scopri idee romantiche di cocktail per rendere il tuo San Valentino indimenticabile.",
+            "description": "**San Valentino** è l'occasione perfetta per godersi cocktail che non sono solo deliziosi ma anche carichi di romanticismo. Un cocktail ben preparato dice: \u201cMi sono impegnato per questo\u201d, che sia un Sogno di Lampone spumoso o un Persefone affumicato.\n\nInoltre, condividere un cocktail favorisce la connessione; brindare è la versione moderna di incidere iniziali su un albero.\n\nRicorda che le bevande non sono solo bevande; sono iniziatori di conversazioni e creatori di atmosfera.",
+            "sections": [
+                {
+                    "header": "Selezionare i Cocktail Giusti per un Momento Romantico",
+                    "content": "**I cocktail di San Valentino** devono essere un'esperienza sensoriale: visivamente accattivanti, bilanciati nel sapore e facili da condividere.\n\nPensa a profili dolci, floreali o indulgenti come lamponi, cioccolato, champagne abbinati a colori vivaci (**rosa, rosso, oro**) e guarnizioni giocose (**fiori commestibili, cubetti di ghiaccio a forma di cuore**).\n\nQuesti elementi non solo soddisfano il palato ma aggiungono anche un'attrattiva visiva che migliora l'atmosfera romantica. Ad esempio, un **Martini al Lampone** combina l'acidità dei lamponi freschi con la morbidezza della vodka, creando un equilibrio delizioso che è sia rinfrescante che indulgente."
+                },
+                {
+                    "header": "Quali Bevande Evitare",
+                    "content": "Evita qualsiasi cosa troppo forte (come un **Long Island Iced Tea**) o visivamente appariscente (**shot verde neon**).\n\nBevande dai sapori forti, come un [Negroni] tradizionale, noto per il suo profilo deciso e amaro, o presentazioni disordinate come i **Bloody Mary** con gambi di sedano, possono rovinare l'atmosfera romantica.\n\nScegli opzioni eleganti e accessibili che non ti lascino con il singhiozzo durante il dessert. Non sei sicuro? Opta per le **bollicine**; non sbaglierai mai..."
+                },
+                {
+                    "header": "Prepara la Serata Romantica Perfetta",
+                    "content": [
+                        "**Illuminazione e Atmosfera:** Crea l'atmosfera con luci soffuse, come candele o luci a filo. Usa bicchieri a tema e fiori freschi per arricchire l'estetica. Riprodurre una playlist con le tue canzoni d'amore preferite può anche migliorare l'atmosfera romantica.",
+                        "**Preparare Cocktail a Casa:** Preparare cocktail a casa può essere un'attività divertente e intima. Scegli ricette con ingredienti semplici e passaggi facili per evitare stress. Configurare una postazione \"crea il tuo cocktail\" con vari ingredienti può anche aggiungere un elemento interattivo alla tua serata.",
+                        "**Bicchieri Tematici:** Usa bicchieri coupé o tumbler con bordi dorati (**i cubetti di ghiaccio a forma di cuore aggiungono un tocco divertente**).",
+                        "**Prepara in Anticipo:** Prepara gli sciroppi, raffredda gli ingredienti e disponi la frutta per decorare. Nessuno vuole vederti pestare la menta a metà appuntamento."
+                    ]
+                },
+                {
+                    "header": "Scegli il Momento Giusto: Quando Servire Cosa",
+                    "content": [
+                        "**Aperitivo:** Inizia con leggerezza! Un [Paloma] o un [Bellini] aprono il palato.",
+                        "**Durante la Cena:** Abbina il cocktail al pasto; un **Pink Lady** si sposa bene con i frutti di mare, mentre un **Valentine Sour** si distingue con piatti speziati.",
+                        "**Dopo Cena:** Punta al decadente. Un **Chocolate Martini** o una cioccolata calda speziata con liquore sono come un dessert in un bicchiere."
+                    ]
+                },
+                {
+                    "header": "Cenare Fuori?",
+                    "content": "Scegli un locale noto per i suoi **cocktail romantici** e chiedi \"qualcosa di floreale o fruttato\". I bartender adorano le sfide creative."
+                }
+            ],
+            "recommendations": {
+                "header": "I 10 Migliori Cocktail di San Valentino suggeriti da Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1379,
+                        "header": "Clover Club",
+                        "content": "**Un cocktail dell'era del Proibizionismo**, il Clover Club combina gin, sciroppo di lampone, succo di limone e albume d'uovo. Il risultato è una bevanda spumosa e rosa, sia acidula che dolce, che incarna un'eleganza senza tempo.",
+                        "image": "clover-club-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1225,
+                        "header": "Kir Royale",
+                        "content": "**Il Kir Royale** è un aperitivo francese sofisticato che combina crème de cassis, un liquore di ribes nero, con Champagne.\n\nQuesto cocktail elegante offre un equilibrio incantevole di dolce e frizzante, rendendolo una scelta perfetta per le celebrazioni.",
+                        "image": "kir-royale-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1172,
+                        "header": "French Martini",
+                        "content": "**Un classico moderno**, il French Martini combina vodka, Chambord (un liquore al lampone) e succo d'ananas.\n\nQuesto cocktail offre un profilo aromatico fruttato e leggermente dolce, con una finitura morbida, rendendolo una scelta popolare per diverse occasioni.",
+                        "image": "french-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1465,
+                        "header": "Chocolate Martini",
+                        "content": "**Un dessert indulgente**, il Chocolate Martini combina vodka, liquore al cioccolato e crema.\n\nQuesta bevanda ricca e vellutata offre un sapore di cioccolato lussuoso, rendendola un regalo perfetto per occasioni speciali.",
+                        "image": "chocolate-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1799,
+                        "header": "The Persephone",
+                        "content": "Per i più audaci: **sciroppo di melograno, rosmarino e gin** con una finitura affumicata.\n\nVibrazioni mitologiche incontrano la mixologia moderna.",
+                        "image": "persephone-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1682,
+                        "header": "Passion Fruit Martini",
+                        "content": "Conosciuto anche come **Pornstar Martini**, questo cocktail vibrante combina vodka alla vaniglia, purea di frutto della passione e succo di lime.\n\nI suoi sapori esotici e fruttati sono spesso completati da un lato di vino frizzante, aggiungendo un tocco di raffinatezza.",
+                        "image": "porn-star-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1205,
+                        "header": "Bellini",
+                        "content": "**Originario di Venezia**, il Bellini è una deliziosa miscela di purea di pesca e Prosecco.\n\nQuesto cocktail elegante offre un'esperienza dolce e frizzante, rendendolo una scelta popolare per celebrazioni e brunch.",
+                        "image": "bellini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1348,
+                        "header": "Paloma",
+                        "content": "**Un classico messicano rinfrescante**, il Paloma mescola tequila con soda al pompelmo e un tocco di succo di lime.\n\nIl suo profilo leggero e agrumato lo rende un eccellente dissetante, perfetto per le serate calde.",
+                        "image": "paloma-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1655,
+                        "header": "Pink Lady",
+                        "content": "**La Pink Lady** è un cocktail classico che combina gin, applejack, succo di limone, granatina e albume d'uovo.\n\nLa sua delicata tonalità rosa e il sapore dolce-acidulo equilibrato lo rendono una scelta affascinante per occasioni romantiche.",
+                        "image": "pink-lady-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1402,
+                        "header": "Valentine Sour",
+                        "content": "**Una svolta romantica** sul sour tradizionale, il Valentine Sour presenta gin aromatizzato, succo di limone, sciroppo di lampone, crema e albume d'uovo.\n\nQuesto cocktail cremoso e acidulo offre una consistenza deliziosa e un equilibrio incantevole di sapori, perfetto per occasioni speciali.",
+                        "image": "valentine-sour-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "10-migliori-cocktail-san-valentino",
+            "slugs": {
+                "en": "valentine-day-best-10-cocktails",
+                "es": "10-mejores-cocteles-san-valentin",
+                "it": "10-migliori-cocktail-san-valentino"
+            },
+            "keywords": "cocktail di San Valentino, bevande romantiche, ricette per San Valentino, cocktail per una serata perfetta, idee per una serata di cocktail, scena cocktail di San Valentino, ricette di cocktail romantici, drink a tema d’amore, mixologia per San Valentino, cocktail dolci e frizzanti",
+            "name": "San Valentino"
+        },
+        "image": "valentine-day-cocktail.jpg",
+        "author": "Alicia Kerr",
+        "creator": "",
+        "published": "1710282178000",
+        "category": "Classics",
+        "name": "Valentine Day"
+    },
+    "1002": {
+        "en": {
+            "title": "The Art of Sour Cocktails: A Zesty Journey Through Flavor",
+            "subtitle": "10 Irresistible Sour Cocktails to Elevate Your Mixology Game",
+            "shortIntro": "Discover the world of sour cocktails, their history, and 10 must-try recipes.",
+            "description": "**Sour cocktails** have been a cornerstone of mixology for centuries, offering a perfect harmony between sweet, sour, and spirituous flavors. These zesty drinks are beloved for their versatility, rich history, and creative potential. Whether you're a home bartender or a cocktail enthusiast, mastering sour cocktails opens the door to an array of delightful recipes that balance tartness with smoothness.",
+            "sections": [
+                {
+                    "header": "A Brief History of Sour Cocktails",
+                    "content": "The origins of **sour cocktails** trace back to the sailors of the 18th century, who used citrus juices to prevent scurvy. Over time, these rudimentary drinks evolved, paving the way for iconic recipes like the [Whiskey Sour] and [Pisco Sour]. By the 19th century, sour cocktails became a staple in bars worldwide, admired for their simplicity and balance. Sour cocktails’ influence grew through the years, finding a place in cocktail books like Jerry Thomas’ *Bartender's Guide* and shaping the foundation for modern mixology."
+                },
+                {
+                    "header": "The Essentials of Sour Mixology",
+                    "content": "Crafting the perfect sour cocktail requires understanding balance. The traditional ratio is 2:1:1 — two parts spirit, one part sour (like lemon or lime juice), and one part sweetener (simple syrup or flavored syrups). This framework provides endless possibilities for customization."
+                },
+                {
+                    "header": "Sour Cocktail Techniques",
+                    "content": [
+                        "**Egg White or Aquafaba?** Adding a frothy layer is a hallmark of sour cocktails. Egg whites have long been used to give drinks like the Whiskey Sour their iconic foam. For a vegan alternative, aquafaba (the liquid from canned chickpeas) delivers a similar texture and is gaining popularity.",
+                        "**The Science of Shaking:** Shaking is key to a perfectly balanced sour cocktail. A two-step process is often used:\n- **Dry Shake:** Shake the ingredients without ice to emulsify the egg white or aquafaba.\n- **Wet Shake:** Add ice and shake vigorously to chill and dilute the drink for a smooth finish.",
+                        "**The Importance of Ice:** Use large, dense ice cubes for shaking to control dilution and temperature. Poor-quality ice can lead to over-diluted drinks, compromising the cocktail’s flavor."
+                    ]
+                },
+                {
+                    "header": "Innovations and Variations",
+                    "content": "Sour cocktails offer a playground for innovation. Modern mixologists experiment with alternative sweeteners like honey or agave syrup, and unique sour elements like yuzu or tamarind juice. Techniques such as infusing spirits with botanicals or incorporating barrel-aged syrups further elevate these timeless drinks."
+                },
+                {
+                    "header": "Why Sour Cocktails Deserve a Spot in Your Repertoire",
+                    "content": "Sour cocktails are more than just drinks; they’re an art form. Their balance of flavors, combined with endless customization options, makes them a favorite among bartenders and enthusiasts alike. Experiment with different spirits, garnishes, and techniques to find your signature sour.\n\n**Pro Tip:** Always use fresh citrus juice for the brightest flavors and a well-chilled shaker for optimal results."
+                }
+            ],
+            "recommendations": {
+                "header": "Top 10 Sour Cocktails Recommended by Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1187,
+                        "header": "Amaretto Sour",
+                        "content": "This sweet-and-sour delight combines amaretto liqueur, lemon juice, and a touch of simple syrup, often enhanced with a frothy egg white layer for extra indulgence.",
+                        "image": "amaretto-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1183,
+                        "header": "Whiskey Sour",
+                        "content": "A timeless classic, the Whiskey Sour features bourbon, lemon juice, and simple syrup. Add an egg white for a creamy texture that elevates its bold flavor.",
+                        "image": "whiskey-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1209,
+                        "header": "Pisco Sour",
+                        "content": "Hailing from Peru, this vibrant cocktail blends pisco, lime juice, simple syrup, and egg white, finished with a dash of Angostura bitters for aromatic complexity.",
+                        "image": "pisco-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1379,
+                        "header": "Clover Club",
+                        "content": "A pre-Prohibition gem, the Clover Club mixes gin, raspberry syrup, lemon juice, and egg white for a frothy, pink, and tangy delight.",
+                        "image": "clover-club-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1250,
+                        "header": "Brandy Sour",
+                        "content": "A Cypriot classic, the Brandy Sour combines brandy, lemon juice, and soda water for a refreshingly light twist on the sour formula.",
+                        "image": "brandy-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1671,
+                        "header": "Frangelico Sour",
+                        "content": "This nutty variation uses Frangelico, a hazelnut liqueur, paired with lemon juice and simple syrup. It's a rich, indulgent take on the sour cocktail family.",
+                        "image": "frangelico-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1375,
+                        "header": "Bramble",
+                        "content": "A modern classic, the Bramble combines gin, lemon juice, simple syrup, and crème de mûre (blackberry liqueur) for a fruity and zesty experience.",
+                        "image": "bramble-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1229,
+                        "header": "Irish Maid",
+                        "content": "This sophisticated drink pairs Irish whiskey with elderflower liqueur, lemon juice, and simple syrup for a floral twist on the traditional sour.",
+                        "image": "irish-maid-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1710,
+                        "header": "Gin Fizz",
+                        "content": "This fizzy favorite combines gin, lemon juice, sugar, soda water, and egg white for a light and refreshing variation of the sour cocktail family.",
+                        "image": "gin-fizz-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1750,
+                        "header": "Mezcal Pineapple Sour",
+                        "content": "A smoky take on the classic sour, this cocktail uses mezcal, pineapple juice, lime juice, agave syrup, and a frothy egg white top for an unforgettable finish.",
+                        "image": "mezcal-pineapple-sour-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "top-10-best-sour-cocktails",
+            "slugs": {
+                "en": "top-10-best-sour-cocktails",
+                "es": "10-mejores-cocteles-sour",
+                "it": "10-migliori-cocktail-sour"
+            },
+            "keywords": "sour cocktails, cocktail recipes, mixology, egg white cocktails, sour drinks, aquafaba drinks",
+            "name": "Sour Cocktails"
+        },
+        "es": {
+            "title": "El Arte de los Cócteles Sour: Un Viaje Cítrico por el Sabor",
+            "subtitle": "10 Irresistibles Cócteles Sour para Elevar tu Juego de Mixología",
+            "shortIntro": "Descubre el mundo de los cócteles sour, su historia y 10 recetas imperdibles.",
+            "description": "**Los cócteles sour** han sido un pilar de la mixología durante siglos, ofreciendo una perfecta armonía entre sabores dulces, ácidos y espirituosos. Estas bebidas cítricas son apreciadas por su versatilidad, rica historia y potencial creativo. Ya seas un bartender casero o un entusiasta de los cócteles, dominar los cócteles sour abre la puerta a una gama de recetas deliciosas que equilibran el toque ácido con suavidad.",
+            "sections": [
+                {
+                    "header": "Un Breve Repaso a la Historia de los Cócteles Sour",
+                    "content": "Los orígenes de los **cócteles sour** se remontan a los marineros del siglo XVIII, quienes usaban jugos cítricos para prevenir el escorbuto. Con el tiempo, estas bebidas rudimentarias evolucionaron, allanando el camino para recetas icónicas como el [Whiskey Sour] y el [Pisco Sour]. Para el siglo XIX, los cócteles sour se convirtieron en un básico en los bares de todo el mundo, admirados por su simplicidad y equilibrio. Su influencia creció a lo largo de los años, encontrando un lugar en libros de coctelería como la *Guía del Bartender* de Jerry Thomas, y estableciendo las bases de la mixología moderna."
+                },
+                {
+                    "header": "Los Esenciales de la Mixología Sour",
+                    "content": "Crear el cóctel sour perfecto requiere entender el equilibrio. La proporción tradicional es 2:1:1: dos partes de licor, una parte de ácido (como jugo de limón o lima) y una parte de endulzante (almíbar simple o siropes aromatizados). Este marco ofrece posibilidades infinitas para la personalización."
+                },
+                {
+                    "header": "Técnicas de los Cócteles Sour",
+                    "content": [
+                        "**¿Clara de Huevo o Aquafaba?** Añadir una capa espumosa es un distintivo de los cócteles sour. La clara de huevo se ha utilizado durante mucho tiempo para dar a bebidas como el Whiskey Sour su espuma icónica. Para una alternativa vegana, el aquafaba (el líquido de los garbanzos enlatados) ofrece una textura similar y está ganando popularidad.",
+                        "**La Ciencia del Agitado:** Agitar es clave para un cóctel sour perfectamente equilibrado. A menudo se utiliza un proceso de dos pasos:\n- **Agitado en Seco:** Agita los ingredientes sin hielo para emulsionar la clara de huevo o el aquafaba.\n- **Agitado con Hielo:** Añade hielo y agita vigorosamente para enfriar y diluir la bebida, logrando un acabado suave.",
+                        "**La Importancia del Hielo:** Utiliza cubos de hielo grandes y densos para controlar la dilución y la temperatura. El hielo de baja calidad puede llevar a bebidas demasiado diluidas, comprometiendo el sabor del cóctel."
+                    ]
+                },
+                {
+                    "header": "Innovaciones y Variaciones",
+                    "content": "Los cócteles sour ofrecen un terreno de juego para la innovación. Los mixólogos modernos experimentan con endulzantes alternativos como miel o jarabe de agave, y elementos ácidos únicos como el jugo de yuzu o tamarindo. Técnicas como infusionar licores con botánicos o incorporar jarabes envejecidos en barril elevan aún más estas bebidas atemporales."
+                },
+                {
+                    "header": "Por Qué los Cócteles Sour Merecen un Lugar en Tu Repertorio",
+                    "content": "Los cócteles sour son más que simples bebidas; son una forma de arte. Su equilibrio de sabores, combinado con opciones de personalización infinitas, los convierte en un favorito entre bartenders y entusiastas. Experimenta con diferentes licores, adornos y técnicas para encontrar tu sour característico.\n\n**Consejo Profesional:** Utiliza siempre jugo de cítricos frescos para obtener los sabores más brillantes y una coctelera bien enfriada para obtener resultados óptimos."
+                }
+            ],
+            "recommendations": {
+                "header": "Top 10 Sour Cocktails Recommended by Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1187,
+                        "header": "Amaretto Sour",
+                        "content": "Este deleite dulce y ácido combina licor de amaretto, jugo de limón y un toque de almíbar simple, a menudo realzado con una capa espumosa de clara de huevo para mayor indulgencia.",
+                        "image": "amaretto-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1183,
+                        "header": "Whiskey Sour",
+                        "content": "Un clásico atemporal, el Whiskey Sour presenta bourbon, jugo de limón y almíbar simple. Añade clara de huevo para una textura cremosa que eleva su audaz sabor.",
+                        "image": "whiskey-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1209,
+                        "header": "Pisco Sour",
+                        "content": "Originario de Perú, este vibrante cóctel mezcla pisco, jugo de lima, almíbar simple y clara de huevo, terminado con un toque de amargos de Angostura para una complejidad aromática.",
+                        "image": "pisco-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1379,
+                        "header": "Clover Club",
+                        "content": "Una joya de la era de la Prohibición, el Clover Club combina ginebra, jarabe de frambuesa, jugo de limón y clara de huevo para un deleite espumoso, rosa y ácido.",
+                        "image": "clover-club-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1250,
+                        "header": "Brandy Sour",
+                        "content": "Un clásico chipriota, el Brandy Sour combina brandy, jugo de limón y agua con gas para un giro refrescante en la fórmula sour.",
+                        "image": "brandy-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1671,
+                        "header": "Frangelico Sour",
+                        "content": "Esta variante con nueces utiliza Frangelico, un licor de avellana, combinado con jugo de limón y almíbar simple. Es una versión rica e indulgente de la familia de cócteles sour.",
+                        "image": "frangelico-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1375,
+                        "header": "Bramble",
+                        "content": "Un clásico moderno, el Bramble combina ginebra, jugo de limón, almíbar simple y crème de mûre (licor de mora) para una experiencia frutal y ácida.",
+                        "image": "bramble-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1229,
+                        "header": "Irish Maid",
+                        "content": "Esta sofisticada bebida combina whisky irlandés con licor de flor de saúco, jugo de limón y almíbar simple para un giro floral al sour tradicional.",
+                        "image": "irish-maid-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1710,
+                        "header": "Gin Fizz",
+                        "content": "Este favorito espumoso combina ginebra, jugo de limón, azúcar, agua con gas y clara de huevo para una variación ligera y refrescante de la familia de cócteles sour.",
+                        "image": "gin-fizz-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1750,
+                        "header": "Mezcal Pineapple Sour",
+                        "content": "Una versión ahumada del sour clásico, este cóctel utiliza mezcal, jugo de lima, jarabe de agave y una capa espumosa de clara de huevo para un acabado inolvidable.",
+                        "image": "mezcal-pineapple-sour-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "10-mejores-cocteles-sour",
+            "slugs": {
+                "en": "top-10-best-sour-cocktails",
+                "es": "10-mejores-cocteles-sour",
+                "it": "10-migliori-cocktail-sour"
+            },
+            "keywords": "cócteles sour, recetas de cócteles, mixología, cócteles con clara de huevo, bebidas sour, bebidas con aquafaba",
+            "name": "Cócteles Sour"
+        },
+        "it": {
+            "title": "L'Arte dei Cocktail Sour: Un Viaggio Frizzante nel Gusto",
+            "subtitle": "10 Irresistibili Cocktail Sour per Elevare la Tua Mixologia",
+            "shortIntro": "Scopri il mondo dei cocktail sour, la loro storia e 10 ricette imperdibili.",
+            "description": "**I cocktail sour** sono stati una pietra miliare della mixologia per secoli, offrendo un'armonia perfetta tra sapori dolci, aspri e alcolici. Queste bevande agrumate sono amate per la loro versatilità, la ricca storia e il potenziale creativo. Che tu sia un bartender casalingo o un appassionato di cocktail, padroneggiare i cocktail sour apre la porta a una varietà di ricette deliziose che bilanciano l'acidità con la morbidezza.",
+            "sections": [
+                {
+                    "header": "Una Breve Storia dei Cocktail Sour",
+                    "content": "Le origini dei **cocktail sour** risalgono ai marinai del XVIII secolo, che usavano succhi di agrumi per prevenire lo scorbuto. Col tempo, queste bevande rudimentali si sono evolute, spianando la strada a ricette iconiche come il [Whiskey Sour] e il [Pisco Sour]. Nel XIX secolo, i cocktail sour sono diventati un pilastro nei bar di tutto il mondo, ammirati per la loro semplicità ed equilibrio. L'influenza dei cocktail sour è cresciuta nel corso degli anni, trovando spazio in libri di cocktail come il *Bartender's Guide* di Jerry Thomas e plasmando le fondamenta della mixologia moderna."
+                },
+                {
+                    "header": "Gli Elementi Essenziali della Mixologia Sour",
+                    "content": "Preparare il cocktail sour perfetto richiede la comprensione dell'equilibrio. Il rapporto tradizionale è 2:1:1 — due parti di distillato, una parte di elemento acido (come succo di limone o lime) e una parte di dolcificante (sciroppo semplice o aromatizzato). Questo schema offre infinite possibilità di personalizzazione."
+                },
+                {
+                    "header": "Tecniche per Cocktail Sour",
+                    "content": [
+                        "**Albume o Aquafaba?** Aggiungere uno strato spumoso è un tratto distintivo dei cocktail sour. L'albume è stato a lungo utilizzato per dare a bevande come il Whiskey Sour la loro schiuma iconica. Per un'alternativa vegana, l'aquafaba (il liquido dei ceci in scatola) offre una consistenza simile ed è sempre più popolare.",
+                        "**La Scienza dello Shakerare:** Shakerare è fondamentale per un cocktail sour perfettamente bilanciato. Spesso viene utilizzato un processo in due fasi:\n- **Dry Shake:** Shakera gli ingredienti senza ghiaccio per emulsionare l'albume o l'aquafaba.\n- **Wet Shake:** Aggiungi il ghiaccio e shakera vigorosamente per raffreddare e diluire la bevanda ottenendo una consistenza liscia.",
+                        "**L'Importanza del Ghiaccio:** Usa cubetti di ghiaccio grandi e densi per controllare la diluizione e la temperatura. Il ghiaccio di bassa qualità può portare a bevande troppo diluite, compromettendo il sapore del cocktail."
+                    ]
+                },
+                {
+                    "header": "Innovazioni e Varianti",
+                    "content": "I cocktail sour offrono un terreno di gioco per l'innovazione. I mixologi moderni sperimentano con dolcificanti alternativi come miele o sciroppo d'agave, ed elementi acidi unici come il succo di yuzu o tamarindo. Tecniche come l'infusione di distillati con botanici o l'incorporazione di sciroppi invecchiati in botte elevano ulteriormente queste bevande senza tempo."
+                },
+                {
+                    "header": "Perché i Cocktail Sour Meritano un Posto nel Tuo Repertorio",
+                    "content": "I cocktail sour sono più di semplici bevande; sono una forma d'arte. Il loro equilibrio di sapori, combinato con infinite opzioni di personalizzazione, li rende un favorito tra i bartender e gli appassionati. Sperimenta con diversi distillati, guarnizioni e tecniche per trovare il tuo sour caratteristico.\n\n**Consiglio Pro:** Usa sempre succo di agrumi fresco per i sapori più brillanti e uno shaker ben raffreddato per risultati ottimali."
+                }
+            ],
+            "recommendations": {
+                "header": "I 10 Migliori Cocktail Sour Raccomandati da Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1187,
+                        "header": "Amaretto Sour",
+                        "content": "Questo delizioso mix agrodolce combina amaretto, succo di limone e un tocco di sciroppo semplice, spesso arricchito da uno strato spumoso di albume per un tocco extra di golosità.",
+                        "image": "amaretto-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1183,
+                        "header": "Whiskey Sour",
+                        "content": "Un classico intramontabile, il Whiskey Sour presenta bourbon, succo di limone e sciroppo semplice. Aggiungi albume per una consistenza cremosa che esalta il suo sapore audace.",
+                        "image": "whiskey-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1209,
+                        "header": "Pisco Sour",
+                        "content": "Proveniente dal Perù, questo vibrante cocktail mescola pisco, succo di lime, sciroppo semplice e albume, completato con una spruzzata di Angostura bitters per una complessità aromatica.",
+                        "image": "pisco-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1379,
+                        "header": "Clover Club",
+                        "content": "Un gioiello pre-Proibizionismo, il Clover Club mescola gin, sciroppo di lampone, succo di limone e albume per un piacere spumoso, rosa e agrumato.",
+                        "image": "clover-club-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1250,
+                        "header": "Brandy Sour",
+                        "content": "Un classico cipriota, il Brandy Sour combina brandy, succo di limone e acqua frizzante per un tocco rinfrescante sulla formula sour.",
+                        "image": "brandy-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1671,
+                        "header": "Frangelico Sour",
+                        "content": "Questa variazione alla nocciola utilizza Frangelico, un liquore alla nocciola, combinato con succo di limone e sciroppo semplice. È una versione ricca e indulgente della famiglia di cocktail sour.",
+                        "image": "frangelico-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1375,
+                        "header": "Bramble",
+                        "content": "Un classico moderno, il Bramble combina gin, succo di limone, sciroppo semplice e crème de mûre (liquore di mora) per un'esperienza fruttata e agrumata.",
+                        "image": "bramble-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1229,
+                        "header": "Irish Maid",
+                        "content": "Questa sofisticata bevanda abbina whiskey irlandese con liquore di sambuco, succo di limone e sciroppo semplice per un tocco floreale al sour tradizionale.",
+                        "image": "irish-maid-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1710,
+                        "header": "Gin Fizz",
+                        "content": "Questo preferito frizzante combina gin, succo di limone, zucchero, acqua frizzante e albume per una variazione leggera e rinfrescante della famiglia di cocktail sour.",
+                        "image": "gin-fizz-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1750,
+                        "header": "Mezcal Pineapple Sour",
+                        "content": "Una versione affumicata del classico sour, questo cocktail utilizza mezcal, succo d'ananas, succo di lime, sciroppo d'agave e uno strato spumoso di albume per un finale indimenticabile.",
+                        "image": "mezcal-pineapple-sour-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "10-migliori-cocktail-sour",
+            "slugs": {
+                "en": "top-10-best-sour-cocktails",
+                "es": "10-mejores-cocteles-sour",
+                "it": "10-migliori-cocktail-sour"
+            },
+            "keywords": "cocktail sour, ricette cocktail, mixologia, cocktail con albume, bevande sour, bevande con aquafaba",
+            "name": "Cocktail Sour"
+        },
+        "image": "sour-cocktails.jpg",
+        "author": "Alicia Kerr",
+        "creator": "",
+        "published": "1706127718000",
+        "category": "Classics",
+        "name": "Sour Cocktails"
+    },
+    "1003": {
+        "en": {
+            "title": "The Art of Gin Cocktails: Exploring the World’s Most Versatile Spirit",
+            "subtitle": "10 Irresistible Gin Cocktails for Every Occasion",
+            "shortIntro": "Discover gin’s rich history, global diversity, and 10 must-try cocktail recipes.",
+            "description": "**Gin**, a versatile spirit infused with botanicals, spices, and herbs, has a storied history and a boundless future. From its origins in the **Netherlands** to its modern-day renaissance, Gin continues to inspire creativity in cocktail culture and beyond.",
+            "sections": [
+                {
+                    "header": "A Journey Through Gin’s Evolution",
+                    "content": "Gin’s origins date back to the **17th century**, when it was first distilled in **Holland** as a medicinal tonic known as genever. With its core flavor derived from juniper berries, genever quickly spread across Europe, becoming particularly popular in England. The \u201cGin Craze\u201d of the 18th century cemented gin’s place in British culture. Modern Gin distillers now craft styles ranging from classic London Dry to innovative gins infused with exotic botanicals, ensuring its enduring popularity."
+                },
+                {
+                    "header": "Different Types of Gin",
+                    "content": [
+                        "**London Dry Gin:** Crisp, juniper-forward, with subtle citrus notes. Ideal for classics like the Martini.",
+                        "**Flavored Gin:** Infused with unique botanicals like elderflower or butterfly pea flowers.",
+                        "**Old Tom Gin:** Slightly sweeter with caramel and spice. Perfect for vintage cocktails.",
+                        "**Plymouth Gin:** Earthy and smooth, with balanced citrus and spice.",
+                        "**Genever:** The original Gin, malty and robust, ideal for sipping or historical cocktails.",
+                        "**Modern Gin:** Highlights creative botanicals like cucumber or lavender.",
+                        "**Sloe Gin:** Infused with sloe berries for a rich, fruity flavor and deep red hue."
+                    ]
+                },
+                {
+                    "header": "Gin’s Global Diversity",
+                    "content": "Today, Gin reflects the regions and cultures that produce it. From traditional English gins like Beefeater to the herbaceous **Japanese Roku**, each bottle tells a unique story. Modern distillers in the US and Australia craft gins with native botanicals like eucalyptus and saffron, while color-changing gins have captured imaginations globally."
+                },
+                {
+                    "header": "Choose the Right Gin for Your Cocktails",
+                    "content": [
+                        "**Match Flavor Profiles:** Pair citrus-forward gins with fresh fruits or spiced gins with winter drinks.",
+                        "**Focus on Garnishes:** Use rosemary or cucumber for aroma and presentation.",
+                        "**Experiment with Mixers:** Premium tonics or infused syrups elevate your cocktails."
+                    ]
+                }
+            ],
+            "recommendations": {
+                "header": "Top 10 Gin Cocktails Recommended by Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1011,
+                        "header": "Classic Martini",
+                        "content": "A timeless masterpiece combining dry gin and vermouth, served chilled with an olive or lemon twist. Its clean flavors highlight gin’s botanical complexity, making it a sophisticated choice. This drink showcases the versatility of gin, allowing its botanical notes to shine through beautifully in a harmonious blend.",
+                        "image": "classic-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1102,
+                        "header": "Negroni",
+                        "content": "Bold and balanced, the Negroni blends gin, Campari, and sweet vermouth for a bittersweet profile accented with citrus. Served over ice with an orange twist. This drink showcases the versatility of gin, allowing its botanical notes to shine through beautifully in a harmonious blend. Enjoy its vibrant flavors.",
+                        "image": "negroni-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1224,
+                        "header": "French 75",
+                        "content": "A sparkling delight with gin, champagne, lemon juice, and sugar. Effervescent and celebratory, perfect for toasts and special occasions. This drink showcases the versatility of gin, allowing its botanical notes to shine through beautifully in a harmonious blend. Enjoy its vibrant flavors as you savor its sophistication.",
+                        "image": "french-75-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1204,
+                        "header": "The Aviation",
+                        "content": "This stunning cocktail combines gin, maraschino liqueur, Crème de Violette, and lemon juice. Its pale lavender hue and delicate flavors make it unforgettable. This drink showcases the versatility of gin, allowing its botanical notes to shine through beautifully in a harmonious blend. Enjoy its elegance.",
+                        "image": "aviation-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1015,
+                        "header": "Tom Collins",
+                        "content": "Refreshing and tangy, the Tom Collins mixes gin, lemon juice, sugar, and soda water. Served tall over ice with a lemon wheel. This drink showcases the versatility of gin, allowing its botanical notes to shine through beautifully in a harmonious blend. A timeless classic for casual occasions.",
+                        "image": "tom-collins-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1164,
+                        "header": "Singapore Sling",
+                        "content": "A tropical gin cocktail with a rich history, the Singapore Sling combines gin, cherry brandy, Cointreau, lime juice, pineapple juice, grenadine, and bitters. This vibrant and fruity drink is served over ice in a tall glass, topped with soda water. Its balanced sweetness and refreshing complexity make it perfect for warm evenings or celebrations.",
+                        "image": "singapore-sling-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1471,
+                        "header": "Bees Knees",
+                        "content": "A Prohibition-era classic of gin, lemon juice, and honey. Bright, smooth, and slightly sweet, served in a coupe glass. This drink showcases the versatility of gin, allowing its botanical notes to shine through beautifully in a harmonious blend. Enjoy its vibrant flavors in every sip.",
+                        "image": "bees-knees-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1018,
+                        "header": "Cucumber Cooler",
+                        "content": "Refreshing and herbaceous, this cocktail pairs gin with cucumber, mint, lime juice, and soda water. Perfect for warm days. This drink showcases the versatility of gin, allowing its botanical notes to shine through beautifully in a harmonious blend. A modern favorite for light and refreshing enjoyment.",
+                        "image": "cucumber-cooler-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1686,
+                        "header": "Gin Basil Smash",
+                        "content": "A contemporary mix of gin, fresh basil, lemon juice, and simple syrup. Bright and herbal, garnished with basil leaves. This drink showcases the versatility of gin, allowing its botanical notes to shine through beautifully in a harmonious blend. A zesty and aromatic delight.",
+                        "image": "gin-basil-smash-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1213,
+                        "header": "Bronx",
+                        "content": "A pre-Prohibition classic, the Bronx blends gin, dry vermouth, sweet vermouth, and freshly squeezed orange juice. This citrusy and smooth cocktail is served chilled, offering a delightful balance of sweetness and herbal notes. Perfect for aperitif lovers, it’s a flavorful nod to the golden age of cocktails",
+                        "image": "bronx-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "top-10-best-gin-cocktails",
+            "slugs": {
+                "en": "top-10-best-gin-cocktails",
+                "es": "10-mejores-cocteles-de-ginebra",
+                "it": "10-migliori-cocktail-con-gin"
+            },
+            "keywords": "gin cocktails, cocktail recipes, gin mixology, martini, negroni, flavored gin drinks, gin and tonic",
+            "name": "Gin Cocktails"
+        },
+        "es": {
+            "title": "El Arte de los Cócteles de Ginebra: Explorando el Espíritu Más Versátil del Mundo",
+            "subtitle": "10 Cócteles Irresistibles de Ginebra para Cualquier Ocasión",
+            "shortIntro": "Descubre la rica historia de la ginebra, su diversidad global y 10 recetas imprescindibles.",
+            "description": "**La Ginebra**, un espíritu versátil infusionado con botánicos, especias y hierbas, tiene una historia rica y un futuro ilimitado. Desde sus orígenes en los **Países Bajos** hasta su renacimiento moderno, la ginebra continúa inspirando creatividad en la cultura de los cócteles.",
+            "sections": [
+                {
+                    "header": "Un Viaje por la Evolución de la Ginebra",
+                    "content": "Los orígenes de la **Ginebra** se remontan al **siglo XVII**, cuando se destiló por primera vez en **Holanda** como un tónico medicinal conocido como genever. Con su sabor principal derivado de las bayas de enebro, el genever se expandió rápidamente por Europa, siendo especialmente popular en Inglaterra. La \"Locura por la Ginebra\" del siglo XVIII consolidó su lugar en la cultura británica. Hoy en día, los destiladores modernos crean estilos que van desde el clásico London Dry hasta ginebras innovadoras infusionadas con botánicos exóticos, asegurando su popularidad duradera."
+                },
+                {
+                    "header": "Diferentes Tipos de Ginebra",
+                    "content": [
+                        "**London Dry Gin:** Nítida, dominada por el enebro, con sutiles notas cítricas. Ideal para clásicos como el Martini.",
+                        "**Ginebra Saborizada:** Infusionada con botánicos únicos como flor de saúco o flores de guisante mariposa.",
+                        "**Old Tom Gin:** Un poco más dulce, con notas de caramelo y especias. Perfecta para cócteles vintage.",
+                        "**Plymouth Gin:** Terrosa y suave, con un equilibrio de cítricos y especias.",
+                        "**Genever:** La ginebra original, malteada y robusta, ideal para disfrutar sola o en cócteles históricos.",
+                        "**Ginebra Moderna:** Destaca botánicos creativos como pepino o lavanda.",
+                        "**Sloe Gin:** Infusionada con bayas de endrina para un sabor afrutado y un tono rojo profundo."
+                    ]
+                },
+                {
+                    "header": "La Diversidad Global de la Ginebra",
+                    "content": "Hoy en día, la ginebra refleja las regiones y culturas que la producen. Desde las tradicionales ginebras inglesas como Beefeater hasta los perfiles herbáceos de la japonesa **Roku**, cada botella cuenta una historia única. Los destiladores modernos en los Estados Unidos y Australia elaboran ginebras con botánicos nativos como eucalipto y azafrán, mientras que las ginebras que cambian de color han capturado la imaginación mundial."
+                },
+                {
+                    "header": "Elige la Ginebra Correcta para Tus Cócteles",
+                    "content": [
+                        "**Combina Perfiles de Sabor:** Empareja ginebras con notas cítricas con frutas frescas o ginebras especiadas con bebidas invernales.",
+                        "**Enfócate en las Guarniciones:** Usa romero o pepino para mejorar el aroma y la presentación.",
+                        "**Experimenta con Mezcladores:** Los tónicos premium o jarabes infusionados elevan tus cócteles."
+                    ]
+                }
+            ],
+            "recommendations": {
+                "header": "Los 10 Mejores Cócteles de Ginebra Recomendados por Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1011,
+                        "header": "Martini Clásico",
+                        "content": "Una obra maestra atemporal que combina ginebra seca y vermut, servida fría con una aceituna o un giro de limón. Sus sabores limpios destacan la complejidad botánica de la ginebra, convirtiéndolo en una elección sofisticada. Esta bebida muestra la versatilidad de la ginebra, permitiendo que sus notas botánicas brillen.",
+                        "image": "classic-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1102,
+                        "header": "Negroni",
+                        "content": "Audaz y equilibrado, el Negroni mezcla ginebra, Campari y vermut dulce para un perfil amargo con toques cítricos. Servido con hielo y un giro de naranja. Este cóctel muestra la versatilidad de la ginebra, permitiendo que sus notas botánicas brillen. Disfruta de sus vibrantes sabores.",
+                        "image": "negroni-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1224,
+                        "header": "French 75",
+                        "content": "Una delicia espumosa con ginebra, champán, jugo de limón y azúcar. Efervescente y celebratoria, perfecta para brindis y ocasiones especiales. Este cóctel muestra la versatilidad de la ginebra, permitiendo que sus notas botánicas brillen en un equilibrio armonioso.",
+                        "image": "french-75-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1204,
+                        "header": "The Aviation",
+                        "content": "Este impresionante cóctel combina ginebra, licor de marrasquino, Crème de Violette y jugo de limón. Su tono lavanda pálido y sabores delicados lo hacen inolvidable. Este cóctel muestra la versatilidad de la ginebra, permitiendo que sus notas botánicas brillen en un equilibrio armonioso.",
+                        "image": "aviation-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1015,
+                        "header": "Tom Collins",
+                        "content": "Refrescante y ácido, el Tom Collins mezcla ginebra, jugo de limón, azúcar y agua con gas. Servido alto con hielo y una rodaja de limón. Este cóctel muestra la versatilidad de la ginebra, permitiendo que sus notas botánicas brillen en un equilibrio armonioso.",
+                        "image": "tom-collins-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1164,
+                        "header": "Singapore Sling",
+                        "content": "Un cóctel tropical con una rica historia, el Singapore Sling combina ginebra, brandy de cereza, Cointreau, jugo de lima, jugo de piña, granadina y amargos. Servido con hielo, su dulzura equilibrada y complejidad lo hacen perfecto para celebraciones.",
+                        "image": "singapore-sling-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1471,
+                        "header": "Bees Knees",
+                        "content": "Un clásico de la era de la Prohibición que combina ginebra, jugo de limón y miel. Brillante, suave y ligeramente dulce, servido en una copa. Este cóctel destaca la versatilidad de la ginebra, permitiendo que sus notas botánicas brillen con cada sorbo.",
+                        "image": "bees-knees-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1018,
+                        "header": "Cucumber Cooler",
+                        "content": "Refrescante y herbáceo, este cóctel combina ginebra con pepino, menta, jugo de lima y soda. Perfecto para días cálidos. Este cóctel destaca la versatilidad de la ginebra en una mezcla ligera y moderna.",
+                        "image": "cucumber-cooler-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1686,
+                        "header": "Gin Basil Smash",
+                        "content": "Una mezcla contemporánea de ginebra, albahaca fresca, jugo de limón y jarabe simple. Brillante y herbal, adornado con hojas de albahaca. Este cóctel muestra la versatilidad de la ginebra con un toque aromático y fresco.",
+                        "image": "gin-basil-smash-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1213,
+                        "header": "Bronx",
+                        "content": "Un clásico anterior a la Prohibición, el Bronx mezcla ginebra, vermut seco, vermut dulce y jugo de naranja recién exprimido. Este cóctel suave y cítrico es perfecto como aperitivo y rinde homenaje a la edad de oro de los cócteles.",
+                        "image": "bronx-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "10-mejores-cocteles-de-ginebra",
+            "slugs": {
+                "en": "top-10-best-gin-cocktails",
+                "es": "10-mejores-cocteles-de-ginebra",
+                "it": "10-migliori-cocktail-con-gin"
+            },
+            "keywords": "cócteles de ginebra, recetas de cócteles, mixología de ginebra, martini, negroni, bebidas de ginebra con sabor, gin tonic",
+            "name": "Cócteles de Ginebra"
+        },
+        "it": {
+            "title": "L'Arte dei Cocktail al Gin: Esplorando lo Spirito Più Versatile al Mondo",
+            "subtitle": "10 Cocktail al Gin Irresistibili per Ogni Occasione",
+            "shortIntro": "Scopri la ricca storia del Gin, la sua diversità globale e 10 ricette imperdibili.",
+            "description": "**Il Gin**, uno spirito versatile infuso con botanici, spezie ed erbe, vanta una storia ricca e un futuro illimitato. Dai suoi inizi nei **Paesi Bassi** al suo rinascimento moderno, il Gin continua a ispirare la creatività nella cultura dei cocktail.",
+            "sections": [
+                {
+                    "header": "Un Viaggio nell'Evoluzione del Gin",
+                    "content": "Le origini del **Gin** risalgono al **XVII secolo**, quando fu distillato per la prima volta in **Olanda** come tonico medicinale noto come genever. Con il suo sapore principale derivato dalle bacche di ginepro, il genever si diffuse rapidamente in Europa, diventando particolarmente popolare in Inghilterra. La \"Febbre del Gin\" del XVIII secolo consolidò il suo posto nella cultura britannica. Oggi, i distillatori moderni creano stili che spaziano dal classico London Dry a Gin innovativi infusi con botanici esotici, assicurandone la popolarità duratura."
+                },
+                {
+                    "header": "Diversi Tipi di Gin",
+                    "content": [
+                        "**London Dry Gin:** Secco, con un profilo dominante di ginepro e sottili note agrumate. Ideale per classici come il Martini.",
+                        "**Gin Aromatizzato:** Infuso con botanici unici come fiori di sambuco o fiori di pisello blu.",
+                        "**Old Tom Gin:** Più dolce, con note di caramello e spezie. Perfetto per cocktail vintage.",
+                        "**Plymouth Gin:** Terroso e morbido, con un equilibrio di agrumi e spezie.",
+                        "**Genever:** Il Gin originale, maltato e robusto, ideale per essere sorseggiato o per cocktail storici.",
+                        "**Gin Moderno:** Sottolinea botanici creativi come cetriolo o lavanda.",
+                        "**Sloe Gin:** Infuso con bacche di prugnolo per un sapore fruttato e un tono rosso intenso."
+                    ]
+                },
+                {
+                    "header": "La Diversità Globale del Gin",
+                    "content": "Oggi il Gin riflette le regioni e le culture che lo producono. Dai tradizionali Gin inglesi come Beefeater ai profili erbacei del giapponese **Roku**, ogni bottiglia racconta una storia unica. I distillatori moderni negli Stati Uniti e in Australia creano Gin con botanici locali come eucalipto e zafferano, mentre i Gin che cambiano colore hanno catturato l'immaginazione globale."
+                },
+                {
+                    "header": "Scegli il Gin Giusto per i Tuoi Cocktail",
+                    "content": [
+                        "**Abbina i Profili di Sapore:** Combina Gin agrumati con frutta fresca o Gin speziati con drink invernali.",
+                        "**Concentrati sulle Guarnizioni:** Usa rosmarino o cetriolo per migliorare aroma e presentazione.",
+                        "**Sperimenta con i Mixer:** Tonic premium o sciroppi infusi elevano i tuoi cocktail."
+                    ]
+                }
+            ],
+            "recommendations": {
+                "header": "I 10 Migliori Cocktail al Gin Consigliati da Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1011,
+                        "header": "Martini Classico",
+                        "content": "Un capolavoro senza tempo che combina Gin secco e vermut, servito freddo con un'oliva o una scorza di limone. I suoi sapori puliti esaltano la complessità botanica del Gin, rendendolo una scelta sofisticata. Questa bevanda mostra la versatilità del Gin, permettendo alle sue note botaniche di brillare.",
+                        "image": "classic-martini-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1102,
+                        "header": "Negroni",
+                        "content": "Audace ed equilibrato, il Negroni mescola Gin, Campari e vermut dolce per un profilo amaro con accenti agrumati. Servito con ghiaccio e una scorza d'arancia. Questo cocktail mostra la versatilità del Gin, permettendo alle sue note botaniche di brillare. Goditi i suoi sapori vibranti.",
+                        "image": "negroni-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1224,
+                        "header": "French 75",
+                        "content": "Una delizia frizzante con Gin, champagne, succo di limone e zucchero. Effervescente e celebrativo, perfetto per brindisi e occasioni speciali. Questo cocktail mostra la versatilità del Gin, permettendo alle sue note botaniche di brillare in un equilibrio armonioso.",
+                        "image": "french-75-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1204,
+                        "header": "The Aviation",
+                        "content": "Questo splendido cocktail combina Gin, liquore di maraschino, Crème de Violette e succo di limone. Il suo tono lavanda pallido e i sapori delicati lo rendono indimenticabile. Questo cocktail mostra la versatilità del Gin, permettendo alle sue note botaniche di brillare.",
+                        "image": "aviation-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1015,
+                        "header": "Tom Collins",
+                        "content": "Rinfrescante e acidulo, il Tom Collins mescola Gin, succo di limone, zucchero e acqua gassata. Servito alto con ghiaccio e una fetta di limone. Questo cocktail mostra la versatilità del Gin, permettendo alle sue note botaniche di brillare in un equilibrio armonioso.",
+                        "image": "tom-collins-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1164,
+                        "header": "Singapore Sling",
+                        "content": "Un cocktail tropicale con una ricca storia, il Singapore Sling combina Gin, brandy di ciliegia, Cointreau, succo di lime, succo di ananas, granatina e amari. Servito con ghiaccio, la sua dolcezza equilibrata e complessità lo rendono perfetto per celebrazioni.",
+                        "image": "singapore-sling-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1471,
+                        "header": "Bees Knees",
+                        "content": "Un classico dell'era del proibizionismo che combina Gin, succo di limone e miele. Luminoso, morbido e leggermente dolce, servito in una coppetta. Questo cocktail esalta la versatilità del Gin, permettendo alle sue note botaniche di risaltare.",
+                        "image": "bees-knees-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1018,
+                        "header": "Cucumber Cooler",
+                        "content": "Rinfrescante ed erbaceo, questo cocktail combina Gin con cetriolo, menta, succo di lime e soda. Perfetto per giornate calde. Questo cocktail esalta la versatilità del Gin in una miscela leggera e moderna.",
+                        "image": "cucumber-cooler-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1686,
+                        "header": "Gin Basil Smash",
+                        "content": "Una miscela contemporanea di Gin, basilico fresco, succo di limone e sciroppo semplice. Luminoso ed erbaceo, guarnito con foglie di basilico. Questo cocktail mostra la versatilità del Gin con un tocco aromatico e fresco.",
+                        "image": "gin-basil-smash-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1213,
+                        "header": "Bronx",
+                        "content": "Un classico del periodo pre-proibizionismo, il Bronx mescola Gin, vermut secco, vermut dolce e succo d'arancia appena spremuto. Questo cocktail agrumato e morbido è perfetto come aperitivo e rende omaggio all'età d'oro dei cocktail.",
+                        "image": "bronx-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "10-migliori-cocktail-con-gin",
+            "slugs": {
+                "en": "top-10-best-gin-cocktails",
+                "es": "10-mejores-cocteles-de-ginebra",
+                "it": "10-migliori-cocktail-con-gin"
+            },
+            "keywords": "cocktail di gin, ricette cocktail, mixologia gin, martini, negroni, bevande gin aromatizzate, gin tonic",
+            "name": "Cocktail di Gin"
+        },
+        "image": "gin-cocktails.jpg",
+        "author": "Manu Herrera",
+        "creator": "",
+        "published": "1712237098000",
+        "category": "Classics",
+        "name": "Gin Cocktails"
+    },
+    "1004": {
+        "en": {
+            "title": "The Art of Whiskey Cocktails: A Tribute to Infinite Elegance",
+            "subtitle": "10 Must-Try Whiskey Cocktails to Elevate Your Mixology Skills",
+            "shortIntro": "Explore whiskey's rich heritage, diverse types, and 10 iconic cocktail recipes.",
+            "description": "**Whiskey**, a spirit steeped in tradition and craftsmanship, offers a depth of character unmatched by any other. From smoky Scotch to sweet **Bourbon**, whiskey’s versatility makes it the perfect base for countless classic and modern cocktails.",
+            "sections": [
+                {
+                    "header": "A Journey Through Whiskey’s Evolution",
+                    "content": "The story of whiskey begins in the medieval monasteries of Ireland and Scotland, where monks first distilled barley into a potent liquid known as 'aqua vitae.' Over centuries, this evolved into the sophisticated spirit we know today. Aging in charred barrels further refined its flavors, creating the complex profiles that enthusiasts cherish."
+                },
+                {
+                    "header": "Different Types of Whiskey",
+                    "content": [
+                        "**Scotch Whiskey:** Smoky, peaty, and complex, often aged for years in oak barrels. Regional varieties include Highland, Islay, and Speyside.",
+                        "**Irish Whiskey:** Smooth and light, often triple-distilled for purity. Popular brands include Jameson and Redbreast.",
+                        "**Bourbon:** Sweet and full-bodied, made with at least 51% corn. Common flavors include vanilla, caramel, and oak.",
+                        "[Rye Whiskey]: Spicy and robust, with a high rye grain content. Ideal for classics like the Manhattan.",
+                        "**Tennessee Whiskey:** Similar to bourbon but filtered through sugar maple charcoal for added smoothness. Iconic example: Jack Daniel’s.",
+                        "**Japanese Whisky:** Delicate, nuanced, and inspired by Scotch traditions. Known for floral and fruity notes.",
+                        "**Canadian Whisky:** Smooth and light, often blended for balance. Popular examples: Crown Royal, Canadian Club."
+                    ]
+                },
+                {
+                    "header": "Whiskey’s Global Appeal",
+                    "content": "Whiskey is produced and enjoyed worldwide, from the meticulous craftsmanship of Japanese distillers to bold American innovations. Its adaptability and diverse flavors have made it a cornerstone of global mixology."
+                },
+                {
+                    "header": "Crafting the Perfect Whiskey Cocktail",
+                    "content": [
+                        "**Choose the Right Whiskey:** Match whiskey’s flavor profile to the cocktail’s ingredients.",
+                        "**Use Fresh Ingredients:** Opt for fresh citrus juice and quality bitters.",
+                        "**Experiment with Garnishes:** Add orange peels, cherries, or even smoked rosemary for enhanced presentation and aroma."
+                    ]
+                }
+            ],
+            "recommendations": {
+                "header": "Top 10 Whiskey Cocktails Recommended by Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1718,
+                        "header": "Old Fashioned",
+                        "content": "A timeless classic blending whiskey, sugar, bitters, and a twist of orange. Its simplicity highlights the spirit’s depth, making it a favorite for purists. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with variations, its timeless appeal makes it stand out.",
+                        "image": "old-fashioned-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1177,
+                        "header": "Manhattan",
+                        "content": "This elegant cocktail combines rye whiskey, sweet vermouth, and bitters, stirred and garnished with a cherry. A perfect balance of bold and sweet. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with variations, it remains a refined choice.",
+                        "image": "manhattan-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1183,
+                        "header": "Whiskey Sour",
+                        "content": "A refreshing mix of whiskey, lemon juice, and simple syrup, often topped with egg white for a frothy finish. A tangy delight for whiskey lovers. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with modern twists, it’s a true classic.",
+                        "image": "whiskey-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1236,
+                        "header": "Mint Julep",
+                        "content": "A Southern favorite featuring bourbon, sugar, and fresh mint over crushed ice. Perfect for hot days and a must-try during the Kentucky Derby. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a refreshing classic or with creative garnishes, it never disappoints.",
+                        "image": "mint-julep-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1199,
+                        "header": "Boulevardier",
+                        "content": "A bold Negroni variation, this cocktail blends whiskey, [Campari], and sweet vermouth for a bittersweet harmony. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with variations, its timeless appeal makes it stand out.",
+                        "image": "boulevardier-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1719,
+                        "header": "Irish Coffee",
+                        "content": "A comforting blend of Irish whiskey, hot coffee, sugar, and cream. Ideal for cozy nights or an indulgent brunch. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with variations, its timeless appeal makes it stand out.",
+                        "image": "irish-coffee-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 2259,
+                        "header": "Penicillin",
+                        "content": "This modern classic combines Scotch, lemon juice, honey-ginger syrup, and a float of smoky Islay whisky for depth and complexity. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with variations, its timeless appeal makes it stand out.",
+                        "image": "penicillin-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1428,
+                        "header": "Gold Rush",
+                        "content": "A simple yet delightful mix of bourbon, honey syrup, and lemon juice. Its sweet and citrusy profile makes it a favorite. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with variations, its timeless appeal makes it stand out.",
+                        "image": "gold-rush-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1527,
+                        "header": "Vieux Carré",
+                        "content": "A New Orleans classic featuring rye whiskey, [Cognac], [Sweet Vermouth], [Benedictine], and bitters. Complex and flavorful. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with variations, its timeless appeal makes it stand out.",
+                        "image": "vieux-carre-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1444,
+                        "header": "Paper Plane",
+                        "content": "A modern favorite blending bourbon, [Aperol], **Amaro Nonino**, and lemon juice for a perfectly balanced and refreshing experience. This cocktail highlights the versatility of whiskey, allowing its bold and nuanced flavors to shine. Whether you enjoy it as a traditional recipe or experiment with variations, its timeless appeal makes it stand out.",
+                        "image": "paper-plane-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "top-10-best-whiskey-cocktails",
+            "slugs": {
+                "en": "top-10-best-whiskey-cocktails",
+                "es": "10-mejores-cocteles-de-whiskey",
+                "it": "10-migliori-cocktail-al-whiskey"
+            },
+            "keywords": "whiskey cocktails, cocktail recipes, whiskey mixology, bourbon, rye whiskey, classic cocktails",
+            "name": "Whiskey Cocktails"
+        },
+        "es": {
+            "title": "El Arte de los Cócteles de Whiskey: Un Tributo a la Elegancia Infinita",
+            "subtitle": "10 Cócteles de Whiskey Que Debes Probar para Elevar Tus Habilidades en Mixología",
+            "shortIntro": "Explora la rica herencia del whiskey, sus tipos diversos y 10 recetas icónicas de cócteles.",
+            "description": "El **Whiskey**, un espíritu impregnado de tradición y artesanía, ofrece una profundidad de carácter inigualable. Desde el ahumado Scotch hasta el dulce **Bourbon**, la versatilidad del Whiskey lo convierte en la base perfecta para innumerables cócteles clásicos y modernos.",
+            "sections": [
+                {
+                    "header": "Un Viaje a Través de la Evolución del Whiskey",
+                    "content": "La historia del whiskey comienza en los monasterios medievales de Irlanda y Escocia, donde los monjes destilaron por primera vez cebada en un potente líquido conocido como 'aqua vitae'. Durante siglos, este se transformó en el sofisticado espíritu que conocemos hoy. El envejecimiento en barriles carbonizados refinó aún más sus sabores, creando los perfiles complejos que los entusiastas valoran."
+                },
+                {
+                    "header": "Diferentes Tipos de Whiskey",
+                    "content": [
+                        "**Scotch Whisky:** Ahumado, turbio y complejo, a menudo envejecido durante años en barriles de roble. Variedades regionales incluyen Highland, Islay y Speyside.",
+                        "**Irish Whiskey:** Suave y ligero, a menudo destilado tres veces para mayor pureza. Marcas populares incluyen Jameson y Redbreast.",
+                        "**Bourbon:** Dulce y con cuerpo, hecho con al menos un 51% de maíz. Sabores comunes incluyen vainilla, caramelo y roble.",
+                        "[Rye Whiskey]: Picante y robusto, con un alto contenido de centeno en su mezcla. Ideal para clásicos como el Manhattan.",
+                        "**Tennessee Whiskey:** Similar al bourbon pero filtrado a través de carbón de arce azucarado para mayor suavidad. Ejemplo icónico: Jack Daniel’s.",
+                        "**Whisky Japonés:** Delicado, matizado e inspirado en las tradiciones del Scotch. Conocido por notas florales y afrutadas.",
+                        "**Whisky Canadiense:** Suave y ligero, a menudo mezclado para el equilibrio. Ejemplos populares: Crown Royal, Canadian Club."
+                    ]
+                },
+                {
+                    "header": "El Atractivo Global del Whiskey",
+                    "content": "El whiskey se produce y disfruta en todo el mundo, desde la meticulosa artesanía de los destiladores japoneses hasta las audaces innovaciones estadounidenses. Su adaptabilidad y sabores diversos lo han convertido en un pilar de la mixología global."
+                },
+                {
+                    "header": "Preparando el Cóctel de Whiskey Perfecto",
+                    "content": [
+                        "**Elige el Whiskey Correcto:** Combina el perfil de sabor del whiskey con los ingredientes del cóctel.",
+                        "**Usa Ingredientes Frescos:** Opta por jugo de cítricos fresco y amargos de calidad.",
+                        "**Experimenta con Guarniciones:** Agrega cáscaras de naranja, cerezas o incluso romero ahumado para una mejor presentación y aroma."
+                    ]
+                }
+            ],
+            "recommendations": {
+                "header": "Los 10 Mejores Cócteles de Whiskey Recomendados por Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1718,
+                        "header": "Old Fashioned",
+                        "content": "Un clásico atemporal que combina whiskey, azúcar, amargos y un toque de naranja. Su simplicidad resalta la profundidad del espíritu, convirtiéndolo en un favorito para los puristas. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Ya sea en su receta tradicional o con variaciones, siempre destaca.",
+                        "image": "old-fashioned-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1177,
+                        "header": "Manhattan",
+                        "content": "Este cóctel elegante combina rye whiskey, vermut dulce y amargos, mezclado y adornado con una cereza. Un equilibrio perfecto de audaz y dulce. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Ya sea en su receta tradicional o con variaciones, sigue siendo una elección refinada.",
+                        "image": "manhattan-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1183,
+                        "header": "Whiskey Sour",
+                        "content": "Una mezcla refrescante de whiskey, jugo de limón y jarabe simple, a menudo cubierto con clara de huevo para un acabado espumoso. Un deleite ácido para los amantes del whiskey. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Un verdadero clásico para experimentar y disfrutar.",
+                        "image": "whiskey-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1236,
+                        "header": "Mint Julep",
+                        "content": "Un favorito del sur que incluye bourbon, azúcar y menta fresca sobre hielo picado. Perfecto para días calurosos y un imprescindible durante el Kentucky Derby. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Ya sea como un clásico refrescante o con guarniciones creativas, nunca decepciona.",
+                        "image": "mint-julep-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1199,
+                        "header": "Boulevardier",
+                        "content": "Una audaz variación del Negroni, este cóctel combina whiskey, Campari y vermut dulce para una armonía agridulce. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Ya sea en su receta tradicional o con variaciones, siempre se distingue por su carácter único.",
+                        "image": "boulevardier-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1719,
+                        "header": "Irish Coffee",
+                        "content": "Una mezcla reconfortante de whiskey irlandés, café caliente, azúcar y crema. Ideal para noches acogedoras o un brunch indulgente. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Una experiencia clásica que nunca pasa de moda.",
+                        "image": "irish-coffee-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 2259,
+                        "header": "Penicillin",
+                        "content": "Este clásico moderno combina Scotch, jugo de limón, jarabe de miel y jengibre, y un toque de whisky Islay ahumado para mayor profundidad y complejidad. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Una obra maestra contemporánea.",
+                        "image": "penicillin-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1428,
+                        "header": "Gold Rush",
+                        "content": "Una mezcla sencilla pero deliciosa de bourbon, jarabe de miel y jugo de limón. Su perfil dulce y cítrico lo convierte en un favorito. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Una delicia clásica y moderna.",
+                        "image": "gold-rush-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1527,
+                        "header": "Vieux Carré",
+                        "content": "Un clásico de Nueva Orleans que presenta Rye Whiskey, [Coñac], [Vermut Dulce], [Benedictine] y amargos. Complejo y lleno de sabor. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Una joya para quienes aman la complejidad.",
+                        "image": "vieux-carre-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1444,
+                        "header": "Paper Plane",
+                        "content": "Un favorito moderno que mezcla bourbon, [Aperol], Amaro Nonino y jugo de limón para una experiencia perfectamente equilibrada y refrescante. Este cóctel destaca la versatilidad del whiskey, permitiendo que sus sabores audaces y matizados brillen. Un equilibrio magistral.",
+                        "image": "paper-plane-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "10-mejores-cocteles-de-whiskey",
+            "slugs": {
+                "en": "top-10-best-whiskey-cocktails",
+                "es": "10-mejores-cocteles-de-whiskey",
+                "it": "10-migliori-cocktail-al-whiskey"
+            },
+            "keywords": "cócteles de whiskey, recetas de cócteles, mixología de whiskey, bourbon, rye whiskey, cócteles clásicos",
+            "name": "Cócteles de Whiskey"
+        },
+        "it": {
+            "title": "L'Arte dei Cocktail al Whiskey: Un Tributo all'Eleganza Infinita",
+            "subtitle": "10 Cocktail al Whiskey da Provare per Migliorare le Tue Abilità di Mixologia",
+            "shortIntro": "Scopri la ricca eredità del whiskey, i suoi tipi diversi e 10 ricette iconiche di cocktail.",
+            "description": "Il **Whisky**, uno spirito intriso di tradizione e artigianato, offre una profondità di carattere senza pari. Dal torbato Scotch al dolce **Bourbon**, la versatilità del Whisky lo rende la base perfetta per innumerevoli cocktail classici e moderni.",
+            "sections": [
+                {
+                    "header": "Un Viaggio Attraverso l'Evoluzione del Whiskey",
+                    "content": "La storia del Whisky inizia nei monasteri medievali di Irlanda e Scozia, dove i monaci distillavano per la prima volta l'orzo in un potente liquido noto come 'aqua vitae'. Nel corso dei secoli, si è evoluto nello spirito sofisticato che conosciamo oggi. L'invecchiamento in botti carbonizzate ha ulteriormente raffinato i suoi sapori, creando i profili complessi che gli appassionati apprezzano."
+                },
+                {
+                    "header": "Tipi Diversi di Whiskey",
+                    "content": [
+                        "**Scotch Whisky:** Torbato, affumicato e complesso, spesso invecchiato per anni in botti di rovere. Varietà regionali includono Highland, Islay e Speyside.",
+                        "**Irish Whiskey:** Morbido e leggero, spesso distillato tre volte per maggiore purezza. Marchi popolari includono Jameson e Redbreast.",
+                        "**Bourbon:** Dolce e corposo, fatto con almeno il 51% di mais. Sapori comuni includono vaniglia, caramello e rovere.",
+                        "[Rye Whiskey]: Speziato e robusto, con un alto contenuto di segale nella miscela. Ideale per classici come il Manhattan.",
+                        "**Tennessee Whiskey:** Simile al bourbon ma filtrato attraverso carbone d'acero per maggiore morbidezza. Esempio iconico: Jack Daniel’s.",
+                        "**Whisky Giapponese:** Delicato, sfumato e ispirato alle tradizioni dello Scotch. Conosciuto per note floreali e fruttate.",
+                        "**Whisky Canadese:** Morbido e leggero, spesso miscelato per equilibrio. Esempi popolari: Crown Royal, Canadian Club."
+                    ]
+                },
+                {
+                    "header": "Il Fascino Globale del Whiskey",
+                    "content": "Il Whisky viene prodotto e apprezzato in tutto il mondo, dalla meticolosa artigianalità dei distillatori giapponesi alle audaci innovazioni americane. La sua adattabilità e i sapori diversificati lo hanno reso un pilastro della mixologia globale."
+                },
+                {
+                    "header": "Preparare il Cocktail al Whiskey Perfetto",
+                    "content": [
+                        "**Scegli il Whiskey Giusto:** Abbina il profilo aromatico del whiskey agli ingredienti del cocktail.",
+                        "**Usa Ingredienti Freschi:** Opta per succo di agrumi fresco e bitter di qualità.",
+                        "**Sperimenta con le Guarnizioni:** Aggiungi scorze d'arancia, ciliegie o persino rosmarino affumicato per migliorare presentazione e aroma."
+                    ]
+                }
+            ],
+            "recommendations": {
+                "header": "I 10 Migliori Cocktail al Whiskey Consigliati da Mishela",
+                "items": [
+                    {
+                        "cocktailId": 1718,
+                        "header": "Old Fashioned",
+                        "content": "Un classico senza tempo che combina whiskey, zucchero, bitter e un tocco d'arancia. La sua semplicità esalta la profondità dello spirito, rendendolo un favorito per i puristi. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Che tu lo preferisca nella sua ricetta tradizionale o con varianti creative, il suo fascino rimane intramontabile.",
+                        "image": "old-fashioned-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1177,
+                        "header": "Manhattan",
+                        "content": "Questo elegante cocktail combina rye whiskey, vermut dolce e bitter, mescolato e guarnito con una ciliegia. Un equilibrio perfetto tra audacia e dolcezza. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Rimane una scelta raffinata per ogni occasione.",
+                        "image": "manhattan-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1183,
+                        "header": "Whiskey Sour",
+                        "content": "Una miscela rinfrescante di whiskey, succo di limone e sciroppo semplice, spesso completata con albume per un finale spumoso. Una delizia acidula per gli amanti del whiskey. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Un vero classico da provare e reinventare.",
+                        "image": "whiskey-sour-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1236,
+                        "header": "Mint Julep",
+                        "content": "Un favorito del sud che include bourbon, zucchero e menta fresca su ghiaccio tritato. Perfetto per le giornate calde e un must durante il Kentucky Derby. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Che tu lo scelga classico o con guarnizioni creative, non delude mai.",
+                        "image": "mint-julep-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1199,
+                        "header": "Boulevardier",
+                        "content": "Una variazione audace del Negroni, questo cocktail combina whiskey, [Campari] e vermut dolce per una perfetta armonia agridolce. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. È una scelta unica e sofisticata.",
+                        "image": "boulevardier-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1719,
+                        "header": "Irish Coffee",
+                        "content": "Una miscela confortante di whiskey irlandese, caffè caldo, zucchero e panna. Ideale per serate accoglienti o un brunch indulgente. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Un'esperienza classica e intramontabile.",
+                        "image": "irish-coffee-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 2259,
+                        "header": "Penicillin",
+                        "content": "Questo classico moderno combina Scotch, succo di limone, sciroppo di miele e zenzero, con un tocco di whisky Islay affumicato per profondità e complessità. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Un capolavoro contemporaneo.",
+                        "image": "penicillin-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1428,
+                        "header": "Gold Rush",
+                        "content": "Una miscela semplice ma deliziosa di bourbon, sciroppo di miele e succo di limone. Il suo profilo dolce e agrumato lo rende un favorito. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Una delizia classica e moderna.",
+                        "image": "gold-rush-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1527,
+                        "header": "Vieux Carré",
+                        "content": "Un classico di New Orleans che presenta Rye Whiskey, [Cognac], [Vermut Dolce], [Benedictine] e bitter. Complesso e pieno di sapore. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Un gioiello per gli amanti della complessità.",
+                        "image": "vieux-carre-cocktail.jpg"
+                    },
+                    {
+                        "cocktailId": 1444,
+                        "header": "Paper Plane",
+                        "content": "Un favorito moderno che combina bourbon, [Aperol], Amaro Nonino e succo di limone per un'esperienza perfettamente equilibrata e rinfrescante. Questo cocktail evidenzia la versatilità del whiskey, permettendo ai suoi sapori audaci e sfumati di brillare. Un equilibrio magistrale.",
+                        "image": "paper-plane-cocktail.jpg"
+                    }
+                ]
+            },
+            "slug": "10-migliori-cocktail-al-whiskey",
+            "slugs": {
+                "en": "top-10-best-whiskey-cocktails",
+                "es": "10-mejores-cocteles-de-whiskey",
+                "it": "10-migliori-cocktail-al-whiskey"
+            },
+            "keywords": "cocktail al whiskey, ricette cocktail, mixologia whiskey, bourbon, rye whiskey, cocktail classici",
+            "name": "Cocktail al Whiskey"
+        },
+        "image": "whiskey-cocktails.jpg",
+        "author": "Manu Herrera",
+        "creator": "",
+        "published": "1717680418000",
+        "category": "Classics",
+        "name": "Whiskey Cocktails"
+    }
+}

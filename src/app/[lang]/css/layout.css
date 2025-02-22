@@ -1,0 +1,242 @@
+.layout-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  height: 100%;
+}
+
+.navbar {
+  justify-content: space-between;
+  align-items: center;
+  background-color: #285a48;
+  /* Primary color for the navbar */
+  color: white;
+  padding: 20px 20px;
+  box-shadow: 0px -10px 10px 3px rgba(0, 0, 0, 0.1);
+  /* Subtle shadow for depth */
+}
+
+.header-container {
+  width: 100%;
+  margin: 0px auto;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+  max-width: 1200px;
+}
+
+/* FOOTER CSS */
+.footerbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #285a48;
+  color: white;
+  padding: 28px 20px;
+  box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.1);
+  height: 100px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.footer-container {
+  width: 100%;
+  margin: 0px auto;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+  max-width: 1200px;
+}
+
+/* Breadcrumb Navigation */
+.breadcrumb {
+  width: 100%;
+  background-color: #f5f5f5;
+  /* border-bottom: 1px solid #e0e0e0; */
+}
+
+.breadcrumb ol {
+  max-width: 1200px;
+  margin: 10px auto;
+  padding: 12px 20px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.breadcrumb li {
+  display: inline-flex;
+  align-items: center;
+  font-size: 15px;
+  font-weight: 500;
+  color: #333;
+  text-transform: uppercase;
+}
+
+.breadcrumb a {
+  /* color: #666; */
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.breadcrumb a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+.breadcrumb .separator {
+  margin: 0 8px;
+  color: #999;
+}
+
+.breadcrumb .current-page {
+  font-weight: 700;
+  color: #333;
+}
+
+/* Main content styles */
+.main-content {
+  flex: 1;
+}
+
+/* LOGO STYLES  */
+
+.logo {
+  display: flex;
+}
+
+.logoLink {
+  display: flex;
+  align-items: flex-end;
+  gap: 0px;
+  text-decoration: none;
+}
+
+
+
+/* Navigation links */
+.nav-links a,
+.nav-links button {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  transition: color 0.3s;
+  font-size: 18px;
+  font-weight: 600;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.nav-links a:hover,
+.nav-links button:hover {
+  color: #fccd2a;
+  /* Highlight color on hover */
+}
+
+/* Language switcher styles */
+.language-switcher {
+  display: flex;
+  align-items: center;
+}
+
+.language-switcher select {
+  margin-left: 10px;
+  padding: 5px 3px;
+  border: none;
+  background-color: transparent;
+  color: #fff;
+
+  /* Remove default arrow */
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  /* Add custom arrow */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right center;
+  padding-right: 20px;
+}
+
+.btnBanner {
+  justify-content: center;
+  display: flex;
+  margin-top: 20px;
+}
+
+.cta-button-red {
+  display: inline-block;
+  background-color: #e74c3c;
+  color: #f0efef;
+  font-weight: 600;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+@media (max-width: 640px) {
+
+  .breadcrumb ol {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 16px;
+  }
+
+  .breadcrumb li {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+
+  .breadcrumb .separator {
+    display: none; /* Hide separators when stacked */
+  }
+
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-links {
+    margin-bottom: 10px;
+    /* Space below links */
+  }
+
+  .language-switcher {
+    margin-top: 10px;
+    /* Space above language switcher */
+  }
+}
+
+/* Add media query for smaller screens */
+@media screen and (max-width: 768px) {
+
+  .privacy-container {
+    padding: 0.5rem 1rem;
+  }
+  /*  FOOTER RESPONSIVENESS */
+  .footer-container {
+    flex-direction: column !important;
+    align-items: center;
+    text-align: center;
+    padding: 20px 10px;
+  }
+
+  .footer-left {
+    margin-bottom: 15px;
+  }
+
+  .nav-links {   
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-links a,
+  .nav-links button {
+    margin: 10px 5px;
+  }
+}

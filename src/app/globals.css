@@ -1,0 +1,658 @@
+/* GENERIC STYLE */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+/* CUSTOM FONT STYLES  */
+@font-face {
+  font-family: "LogoFont";
+  src: url("../../public/fonts/sunny.woff") format("woff"),
+    url("../../public/fonts/sunny.woff2") format("woff2"),
+    url("../../public/fonts/sunny.ttf") format("truetype"),
+    url("../../public/fonts/sunny.otf") format("opentype");
+  
+  font-display: swap;
+  /* Improves initial load performance */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.logoFontClass {
+  font-family: "LogoFont", sans-serif;
+  font-size: 30px;
+  font-weight: 200;
+  color: #fff;
+  margin: 0;
+}
+
+.logoFontClassGreen {
+  font-family: "LogoFont", sans-serif;
+  font-size: 30px;
+  color: #285a48;
+  margin: 0;
+}
+
+/* Responsive styles */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* @media (max-width: 600px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-links {
+    margin-bottom: 10px;
+    
+  }
+
+  .language-switcher {
+    margin-top: 10px;
+    
+  }
+} */
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  max-width: 100vw;
+  height: 100%;
+  /* Ensure the body takes full height */
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: var(--foreground);
+  background-color: #f4f4f4;
+  /* Light background for contrast */
+  font-family: var(--font-montserrat), system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  font-weight: 600; 
+  color: #e74c3c;
+  text-decoration: none;
+}
+
+/* a:hover {
+  text-decoration: underline;
+}  */
+ 
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
+
+.relative-position {
+  position: relative;
+}
+
+h1 {
+  font-family: var(--font-montserrat), system-ui, sans-serif;
+  /* font-size: 34px; */
+  font-size: clamp(22px, 8.3vw, 30px);
+  font-weight: 800;
+  line-height: 1.1;
+  /* margin: 32px 0; */
+}
+
+ul {
+  padding-left: 1.5rem;
+  margin-top: 10px;
+}
+
+/* MARGINS */
+.mb-10 {
+  margin-bottom: 10px !important;
+}
+
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+
+.mb-30 {
+  margin-bottom: 30px !important;
+}
+
+.mb-40 {
+  margin-bottom: 40px !important;
+}
+
+.mb-50 {
+  margin-bottom: 50px !important;
+}
+
+.mt-10 {
+  margin-top: 10px !important;
+}
+
+.mt-20 {
+  margin-top: 20px !important;
+}
+
+.mt-30 {
+  margin-top: 30px !important;
+}
+
+.mt-40 {
+  margin-top: 40px !important;
+}
+
+.mt-50 {
+  margin-top: 50px !important;
+}
+
+.al-end {
+  align-items: self-end;
+}
+
+.al-start {
+  align-items: self-start;
+}
+
+/* FONT STYLE */
+.use-montserrat {
+  font-family: var(--font-montserrat), system-ui, sans-serif;
+}
+
+.use-geist {
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+.use-geist-mono {
+  font-family: var(--font-geist-mono), monospace;
+}
+
+.use-system-sans {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.use-arial {
+  font-family: Arial, sans-serif;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.static-container {
+  margin: 20px 40px;
+  font-family: ui-sans-serif, system-ui;
+}
+
+.static-header {
+  margin-bottom: 20px;
+}
+
+.privacy-container {
+  /* margin: 1rem 3rem; */
+  font-family: ui-sans-serif, system-ui;
+  padding: 1rem 7rem;
+}
+
+.privacy-header {
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .privacy-container {
+    padding: 0.5rem 1rem;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+  .card-image-container,
+  .detail-image-container {
+    max-width: 100%;
+  }
+}
+
+.detail-image-container {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  aspect-ratio: 3/2;
+  margin: 0 auto;
+  /* Centers the container */
+}
+
+.home-image-container {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  aspect-ratio: 1600/1050;
+  margin: 0 auto;
+  /* Centers the container */
+}
+
+.home-download-container {
+  display: flex;
+  position: relative;
+  width: 100%;
+  max-width: 170px;
+  aspect-ratio: 562/167;
+  margin: 10px;
+  /* margin: 0 auto;   */
+}
+
+.home-iphone1-container {
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  /* aspect-ratio: 1000/1800; */
+  aspect-ratio: 392/779;
+  margin: 0 auto;
+  /* Centers the container */
+}
+
+.line-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  margin-bottom: 30px;
+}
+
+.line-container-left {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+.line {
+  flex-grow: 1;
+  height: 1px;
+  background-color: #226808;
+  height: 2px;
+  margin-right: 5px;
+}
+
+.line-text {
+  font-size: 20px;
+  letter-spacing: 5px;
+  color: #1c5107;
+  font-weight: bold;
+  text-align: center;
+}
+
+.line-text--middle {
+  padding: 0 10px;
+}
+
+.line-text--left {
+  padding-right: 10px;
+}
+
+.line-text::before {
+  left: -110px;
+}
+
+.line-text::after {
+  right: -110px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .breadcrumb ol {
+    padding: 10px 16px;
+  }
+
+  .breadcrumb li {
+    font-size: 13px;
+  }
+}
+
+label {
+  font-weight: 600;
+  padding-left: 5px;
+}
+
+/* HOME PAGE */
+.recipeBox {
+  background-color: #dce8dc;
+  width: 100%;
+  padding: 40px 20px;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.content-home {
+  flex: 1;
+  max-width: 560px;
+}
+
+.label {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 24px;
+  letter-spacing: 0.5px;
+}
+
+.title {
+  /* font-family: serif; */
+  font-size: 32px;
+  line-height: 1.2;
+  color: #222;
+  margin: 0 0 32px 0;
+  font-weight: normal;
+}
+
+.features {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 32px 0;
+}
+
+.features li {
+  color: #444;
+  font-size: 16px;
+  margin-bottom: 16px;
+  padding-left: 24px;
+  position: relative;
+}
+
+.features li:before {
+  content: "•";
+  position: absolute;
+  left: 8px;
+  color: #444;
+}
+
+.button-home {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.button-home:hover {
+  background-color: #333;
+}
+
+.imageContainer {
+  flex-shrink: 0;
+  width: 300px;
+}
+
+.image-home {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+.favicon {
+  border-radius: 25%;
+  /* Adjust percentage for corner roundness */
+}
+
+/* App promo styles */
+.app-promo {
+  display: flex;
+  align-items: center;
+  /* background-color: #eee2b5; */
+  background-color: #e5d971;
+  padding: 30px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+
+.app-content {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.app-content-row {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  /* margin-right: 20px; */
+}
+
+.app-content h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.app-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.app-buttons-row {
+  display: flex;
+  width: 40%;
+  gap: 5px;
+  /* margin-top: 20px; */
+}
+
+.app-buttons-row img {
+  height: 40px;
+  width: auto;
+}
+
+.app-screenshot {
+  /* flex: 1; */
+  position: relative;
+  max-width: 500px;
+  margin-left: 40px;
+  aspect-ratio: 1600/1050;
+  /* width: 100%;    */
+  margin: 0 auto;
+}
+
+.app-screenshot img {
+  /* width: 100%; */
+  height: auto;
+  display: block;
+}
+
+.container-404 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.content-404 {
+  background-color: white;
+  border-radius: 8px;
+  padding: 40px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 400px;
+  width: 90%;
+}
+
+.cocktail-link {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.cocktail-link a {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.cocktail-link a:hover {
+  text-decoration:underline;
+}
+
+.title-404 {
+  font-size: 26px;
+  color: #333;
+  margin: 0 0 20px;
+}
+
+.message-404 {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.homeButton-404 {
+  display: inline-block;
+  background-color: #4a90e2;
+  color: white;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 700;
+  transition: background-color 0.3s ease;
+}
+
+.homeButton-404:hover {
+  background-color: #357abd;
+}
+
+.alert-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.alert-box {
+  background-color: white;
+  padding: 30px;
+  border-radius: 4px;
+  text-align: center;
+  width: 40%;
+}
+
+.alert-box p {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.alert-box button {
+  margin-top: 15px;
+  padding: 8px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Add media query for smaller screens */
+@media screen and (max-width: 768px) {
+  .app-content-row {
+    flex-direction: column;
+  }
+
+  .app-content-row>div {
+    width: 100% !important;
+    /* Override inline style */
+  }
+
+  .app-buttons-row {
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+  }  
+}
+
+@media (max-width: 768px) {
+  .wrapper-home {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .alert-box {    
+    width: 90%;
+  }
+  
+  .content-home {
+    max-width: 100%;
+  }
+
+  .features li {
+    padding-left: 0;
+  }
+
+  .features li:before {
+    display: none;
+  }
+
+  .imageContainer {
+    width: 200px;
+    margin: 0 auto;
+  }
+
+  .title-home {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 480px) {
+  .recipeBox {
+    padding: 30px 16px;
+  }
+
+  .alert-box {    
+    width: 90%;
+  }
+
+  .title-home {
+    font-size: 24px;
+  }
+
+  .imageContainer {
+    display: none;
+  }
+}

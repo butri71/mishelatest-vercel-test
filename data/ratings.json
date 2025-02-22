@@ -1,0 +1,202 @@
+{
+  "0Jw72ohIUygXLJ5M": {
+    "cocktailId": "1176",
+    "name": "margarita",
+    "published": 1733179224874,
+    "ratings": {
+      "ratingAvg": "4.4",
+      "score": 92,
+      "votes": 21
+    }
+  },
+  "1mE4EWTE3OLhsPtR": {
+    "cocktailId": "1202",
+    "name": "mojito",
+    "published": 1732959140654,
+    "ratings": {
+      "ratingAvg": "4.5",
+      "score": 143,
+      "votes": 32
+    }
+  },
+  "1ofyW5LtThOP4BWz": {
+    "cocktailId": "1102",
+    "name": "negroni",
+    "published": "1707729133000",
+    "ratings": {
+      "ratingAvg": 4.9,
+      "score": 464,
+      "votes": 95
+    }
+  },
+  "1tUnLESa4QF2FheS": {
+    "cocktailId": "1302",
+    "name": "aperol spritz",
+    "published": 1732806696731,
+    "ratings": {
+      "ratingAvg": "4.2",
+      "score": 135,
+      "votes": 32
+    }
+  },
+  "5dPIJ044ioaYgeVD": {
+    "cocktailId": "1184",
+    "name": "daiquiri",
+    "published": "1707729133000",
+    "ratings": {
+      "ratingAvg": 4.1,
+      "score": 103,
+      "votes": 25
+    }
+  },
+  "6cmzj65wcJo529V1": {
+    "cocktailId": "1376",
+    "name": "Dark & Stormy",
+    "published": 1734394032590,
+    "ratings": {
+      "ratingAvg": "4.4",
+      "score": 83,
+      "votes": 19
+    }
+  },
+  "7MAFIB5Z9LRiplmT": {
+    "cocktailId": "1177",
+    "name": "Manhattan",
+    "published": 1732917060705,
+    "ratings": {
+      "ratingAvg": "4.2",
+      "score": 134,
+      "votes": 32
+    }
+  },
+  "8iZRx11Xz28MpUTw": {
+    "cocktailId": "1620",
+    "name": "Army & Navy",
+    "published": "1710148571000",
+    "ratings": {
+      "ratingAvg": 4.1,
+      "score": 41,
+      "votes": 10
+    }
+  },
+  "9Hlyd7cowzy4RCkO": {
+    "cocktailId": "1181",
+    "name": "americano",
+    "published": "1709839336000",
+    "ratings": {
+      "ratingAvg": 4.5,
+      "score": 178,
+      "votes": 40
+    }
+  },
+  "9nSXNwBC2EXL4Kss": {
+    "cocktailId": "1471",
+    "name": "bees knees",
+    "published": "1731691328000",
+    "ratings": {
+      "ratingAvg": 4.3,
+      "score": 129,
+      "votes": 30
+    }
+  },
+  "ACXJLaRJpRh2Feae": {
+    "cocktailId": "1375",
+    "name": "Bramble",
+    "published": "1709489819000",
+    "ratings": {
+      "ratingAvg": 4.4,
+      "score": 102,
+      "votes": 23
+    }
+  },
+  "Ahem4y5Xt3Ql0GZu": {
+    "cocktailId": "1725",
+    "name": "breakfast martini",
+    "published": "1709133563000",
+    "ratings": {
+      "ratingAvg": 4.4,
+      "score": 97,
+      "votes": 22
+    }
+  },
+  "BG1tGxPxUETFxRhy": {
+    "cocktailId": "1379",
+    "name": "Clover Club",
+    "published": 1734762542633,
+    "ratings": {
+      "ratingAvg": "4.4",
+      "score": 71,
+      "votes": 16
+    }
+  },
+  "DaVkC9rDVuU3rFGh": {
+    "cocktailId": "1667",
+    "name": "Enzoni",
+    "published": "1708867018000",
+    "ratings": {
+      "ratingAvg": 4.6,
+      "score": 101,
+      "votes": 22
+    }
+  },
+  "EZcMB1tSsFEXp28m": {
+    "cocktailId": "1218",
+    "name": "Rob Roy",
+    "published": "1708341056000",
+    "ratings": {
+      "ratingAvg": 4.6,
+      "score": 50,
+      "votes": 11
+    }
+  },
+  "EZcMB1tSsFEXpttm": {
+    "cocktailId": "1219",
+    "name": "Saratoga",
+    "published": "1704067205000",
+    "ratings": {
+      "ratingAvg": 4.3,
+      "score": 52,
+      "votes": 12
+    }
+  },
+  "EZcMB1tSsFEXp45m": {
+    "cocktailId": "1483",
+    "name": "Tailspin",
+    "published": "1704067205000",
+    "ratings": {
+      "ratingAvg": 4.0,
+      "score": 36,
+      "votes": 9
+    }
+  },
+  "EZcMB1tSsFEXp88m": {
+    "cocktailId": "1664",
+    "name": "Suffering Bastard",
+    "published": "1704067205000",
+    "ratings": {
+      "ratingAvg": 4.0,
+      "score": 84,
+      "votes": 21
+    }
+  },
+  "EZcMB1tSsFEXp35m": {
+    "cocktailId": "1706",
+    "name": "Three Dots and a Dash",
+    "published": "1704067205000",
+    "ratings": {
+      "ratingAvg": 4.6,
+      "score": 14,
+      "votes": 3
+    }
+  },
+  "EZcMB1tSsFEXp23m": {
+    "cocktailId": "1561",
+    "name": "Ampersand",
+    "published": "1704067205000",
+    "ratings": {
+      "ratingAvg": 4.1,
+      "score": 37,
+      "votes": 9
+    }
+  }
+}
