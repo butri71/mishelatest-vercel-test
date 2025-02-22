@@ -147,6 +147,6 @@ export const config = {
   //   "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|^\\/redirect|^\\/cocktaillink^\\/cocktail|^\\/test|^\\/$).*)",
   // ],
   matcher: [
-    "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|^\\/redirect|^\\/cocktaillink^\\/cocktail|^\\/test|^\\/$)(.|\\$)",
+    "/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|^\\/redirect|^\\/cocktaillink^\\/cocktail|^\\/test|^\\/$)(?:.|\\$))",
   ],
 };
