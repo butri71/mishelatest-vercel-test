@@ -7,7 +7,7 @@ import initTranslations from "@/i18n";
 import { country as countryTranslations } from "../../components/translations/countries";
 import { getBaseUrl } from "@/utils/urls";
 import AppBannerSmall from "../../components/AppBannerSmall";
-import RatingDisplay from "../../components/RatingDisplay";
+// import RatingDisplay from "../../components/RatingDisplay";
 import QrCodeGenerator from "../../components/QrCodeGenerator";
 import * as dataAll from "../../../../../data/all.json";
 import posts from "../../../../../data/posts.json";
@@ -447,11 +447,11 @@ export default async function BlogPost({ params, searchParams }) {
                       </div>
                     </div>
                   )}
-                  <RatingDisplay
+                  {/* <RatingDisplay
                     ratingAvg={ratingAvg}
                     votes={ratingCount}
                     message={t("blog.alert_rating_msm")}
-                  />
+                  /> */}
                 </div>
                 {/* QR CODE GENERATION */}
                 <div className="side-image-container">
