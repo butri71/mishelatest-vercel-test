@@ -294,9 +294,9 @@ export async function generateMetadata({ params, searchParams }) {
   };
 }
 
-export async function generateStaticParams() {
-  return [{ lang: "en" }, { lang: "es" }, { lang: "it" }];
-}
+// export async function generateStaticParams() {
+//   return [{ lang: "en" }, { lang: "es" }, { lang: "it" }];
+// }
 
 export default async function BlogPost({ params, searchParams }) {
   const { lang, slug } = params;

@@ -17,8 +17,8 @@ export default function PopularPosts({ articles, locale, type }) {
         return (         
           <article
             className="blog-card"
-            // onClick={() => window.location.href = `/${locale}/${type}/${post.slug}`}
-            // style={{ cursor: 'pointer' }}
+            onClick={() => window.location.href = `/${locale}/${type}/${post.slug}`}
+            style={{ cursor: 'pointer' }}
             key={post.slug}
           >
             <div className="blog-image-container">

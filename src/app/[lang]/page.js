@@ -43,11 +43,7 @@ export async function generateMetadata({ params }) {
 }
 
 export async function generateStaticParams() {
-  return [
-    { lang: 'en' },
-    { lang: 'es' },
-    { lang: 'it' },
-  ]
+  return [{ lang: "en" }, { lang: "es" }, { lang: "it" }];
 }
 
 export default async function Home({ params }) {
@@ -129,10 +125,10 @@ export default async function Home({ params }) {
               <h2>{t("homepage.header")}</h2>
               <p>{t("homepage.subheader")}</p>
               <div style={{ flexDirection: "row" }}>
-                {/* <Link href={`/${lang}/blog`} className="cta-button"> */}
-                <div className="cta-button">{t("homepage.image_cta")}</div>
-                {/* {t("homepage.image_cta")} */}
-                {/* </Link> */}
+                <Link href={`/${lang}/blog`} className="cta-button">
+                  {/* <div className="cta-button">{t("homepage.image_cta")}</div> */}
+                  {t("homepage.image_cta")}
+                </Link>
               </div>
             </div>
           </section>
@@ -181,19 +177,19 @@ export default async function Home({ params }) {
             <div className="featured-box-img">
               {/* <Link href={`/${lang}/mishela-app#academy-section`}> */}
               {/* <Link href={`/${lang}/specials`}> */}
-                <Image
-                  src="/images/blog/valentine-day-cocktail.jpg"
-                  alt="Cocktails Special Events"
-                  fill={true}
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  priority={true}
-                />
-                <div className="city-content">
-                  <div className="cta-city-button">
-                    {t("homepage.sidebarTitle5")}
-                  </div>
+              <Image
+                src="/images/blog/valentine-day-cocktail.jpg"
+                alt="Cocktails Special Events"
+                fill={true}
+                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                priority={true}
+              />
+              <div className="city-content">
+                <div className="cta-city-button">
+                  {t("homepage.sidebarTitle5")}
                 </div>
-                {/* <div className="academy-content">
+              </div>
+              {/* <div className="academy-content">
                   <div className="cta-academy-button">
                     {t('homepage.sidebarTitle3')}
                   </div>
