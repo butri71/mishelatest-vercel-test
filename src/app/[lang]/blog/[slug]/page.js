@@ -422,7 +422,7 @@ export default async function BlogPost({ params }) {
           </div>
 
           {/* RECIPE*/}
-          {/* <div id="recipe-section">
+          <div id="recipe-section">
             <RecipeCard
               cocktail={overallName}
               statement={post[lang].statement}
@@ -443,7 +443,7 @@ export default async function BlogPost({ params }) {
               img={post.image}
               caller={"blog"}
             />
-          </div> */}
+          </div>
 
           {/* VARIATIONS */}
           {variations.length > 0 &&
