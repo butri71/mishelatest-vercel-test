@@ -425,7 +425,7 @@ export default async function BlogPost({ params }) {
           <div id="recipe-section">
             <RecipeCard
               cocktail={overallName}
-              statement={post[lang].statement}
+              // statement={post[lang].statement}
               tags={tags}
               dosage={dosage}
               garnish={garnish}

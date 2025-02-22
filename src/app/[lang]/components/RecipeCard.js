@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 
 import initTranslations from "@/i18n";
-import SocialShare from "../components/SocialShare";
+// import SocialShare from "../components/SocialShare";
 import MarkdownParagraph from "../../../utils/MarkdownParagraph";
 import "./recipes.css";
 
@@ -123,7 +123,7 @@ export default async function RecipeCard({
                 </span>
               </div>
               <div className="prep-recipe-box">
-                <SocialShare title={recipeTitle} img={img} caller={caller} />
+                {/* <SocialShare title={recipeTitle} img={img} caller={caller} /> */}
               </div>
             </div>
           )}
