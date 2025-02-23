@@ -343,12 +343,14 @@ export default async function BlogPost({ params }) {
           <div className="article-plain-content use-geist">
             <div className="rating-box">
               <div style={{ marginRight: 30 }}>
-                {/* <RatingComponent
-                  fullRating={fullRating}
-                  cocktailId={post.cocktailId}
-                  votes={t('blog.ratings')}
-                  message={t('blog.alert_rating_msm')}
-                /> */}
+                <Suspense fallback={<div>Loading Rating...</div>}>
+                  <RatingComponent
+                    fullRating={fullRating}
+                    cocktailId={post.cocktailId}
+                    votes={t("blog.ratings")}
+                    message={t("blog.alert_rating_msm")}
+                  />
+                </Suspense>
               </div>
               <div>
                 <a href="#comment-section">
