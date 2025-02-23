@@ -1,4 +1,5 @@
 // BLOG RECIPES SCREEN
+import { Suspense } from "react";
 import { getBaseUrl } from "@/utils/urls";
 import initTranslations from "@/i18n";
 
@@ -8,7 +9,7 @@ import CocktailCard from "../components/CocktailCard";
 import "../components/recipes.css";
 
 // export const dynamicParams = true;
-// export const revalidate = 604800; 
+// export const revalidate = 604800;
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
@@ -84,12 +85,14 @@ export default async function BlogList({ params }) {
       <LineHeaderMiddle title={t("recipe.headerRecipes")} isH1={true} />
 
       {/* List of most popular cocktails sorted by most recent*/}
-      <CocktailCard
-        cocktails={cocktailRecipes}
-        locale={lang}
-        type={"recipes"}
-        caller={"recipes"}
-      />
+      <Suspense fallback={<div>Loading Recipe List...</div>}>
+        <CocktailCard
+          cocktails={cocktailRecipes}
+          locale={lang}
+          type={"recipes"}
+          caller={"recipes"}
+        />
+      </Suspense>
     </div>
   );
 }
