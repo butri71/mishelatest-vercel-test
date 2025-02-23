@@ -18,9 +18,9 @@ import MarkdownParagraph from "../../../../utils/MarkdownParagraph";
 import RecipeCard from "../../components/RecipeCard";
 import "../../components/recipes.css";
 
-// export const dynamicParams = true;
-// export const revalidate = 604800;
-// export const dynamic = "force-static";
+export const dynamicParams = true;
+export const revalidate = 604800;
+export const dynamic = "force-static";
 
 // Helper function to generate SEO content
 function generateSEOContent(
@@ -295,9 +295,9 @@ export async function generateMetadata({ params, searchParams }) {
   };
 }
 
-export async function generateStaticParams() {
-  return [{ lang: "en" }, { lang: "es" }, { lang: "it" }];
-}
+// export async function generateStaticParams() {
+//   return [{ lang: "en" }, { lang: "es" }, { lang: "it" }];
+// }
 
 export default async function BlogPost({ params, searchParams }) {
   const { lang, slug } = params;
