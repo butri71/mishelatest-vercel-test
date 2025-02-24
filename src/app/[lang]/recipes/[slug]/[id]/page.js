@@ -1,6 +1,7 @@
 // BLOG SINGLE RECIPE SCREEN
 import Image from "next/image";
 import Link from "next/link";
+import { Suspense } from "react";
 import initTranslations from "@/i18n";
 
 import { country as countryTranslations } from "../../../components/translations/countries";
@@ -294,9 +295,8 @@ export async function generateMetadata({ params, searchParams }) {
     schema: seoContent.schema,
   };
 }
-
+//   const recipeCache = require("@/data/recipe-cache.json"); // Use pre-generated JSON
 export async function generateStaticParams() {
-  //   const recipeCache = require("@/data/recipe-cache.json"); // Use pre-generated JSON
   return recipeCache.map(({ lang, slug, cocktailId }) => ({
     lang,
     slug,
@@ -456,11 +456,13 @@ export default async function RecipePage({ params }) {
                       </div>
                     </div>
                   )}
-                  <RatingDisplay
-                    ratingAvg={ratingAvg}
-                    votes={ratingCount}
-                    message={t("blog.alert_rating_msm")}
-                  />
+                  <Suspense fallback={<div>Loading Rating...</div>}>
+                    <RatingDisplay
+                      ratingAvg={ratingAvg}
+                      votes={ratingCount}
+                      message={t("blog.alert_rating_msm")}
+                    />
+                  </Suspense>
                 </div>
                 {/* QR CODE GENERATION */}
                 <div className="side-image-container">
