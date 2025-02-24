@@ -24,147 +24,147 @@ import "../../../components/recipes.css";
 // export const dynamic = "force-static";
 
 // Helper function to generate SEO content
-// function generateSEOContent(
-//   cocktailData,
-//   source = "",
-//   abv = "",
-//   calories = "",
-//   dietaryInfo = [],
-//   ingredients = [],
-//   preparation = [],
-//   dosage = [],
-//   glassImage = "",
-//   postImage = "",
-//   country = "",
-//   lang,
-//   slug,
-//   ratingAverage,
-//   ratingVotes
-// ) {
-//   const cocktailId = cocktailData?.all.drinkId;
-//   const cocktailName = cocktailData?.all.overallName;
-//   const recipeImage =
-//     postImage !== ""
-//       ? `${getBaseUrl()}/images/blog/${postImage}`
-//       : `${getBaseUrl()}/images/glasses/${glassImage}`;
+function generateSEOContent(
+  cocktailData,
+  source = "",
+  abv = "",
+  calories = "",
+  dietaryInfo = [],
+  ingredients = [],
+  preparation = [],
+  dosage = [],
+  glassImage = "",
+  postImage = "",
+  country = "",
+  lang,
+  slug,
+  ratingAverage,
+  ratingVotes
+) {
+  const cocktailId = cocktailData?.all.drinkId;
+  const cocktailName = cocktailData?.all.overallName;
+  const recipeImage =
+    postImage !== ""
+      ? `${getBaseUrl()}/images/blog/${postImage}`
+      : `${getBaseUrl()}/images/glasses/${glassImage}`;
 
-//   const ing1 = capitalizeWords(ingredients[0], lang);
-//   const ing2 = capitalizeWords(ingredients[1], lang);
-//   const upperCocktail = capitalizeWords(cocktailName, lang);
-//   const localeTitles = {
-//     en: (cocktailName) => `${upperCocktail} recipe`,
-//     es: (cocktailName) => `${upperCocktail} | receta original`,
-//     it: (cocktailName) => `${upperCocktail} | ricetta originale`,
-//   };
-//   const localsIngredients = {
-//     en: "ingredients of",
-//     es: "ingredientes de",
-//     it: "ingredienti del",
-//   };
-//   const localsCalories = {
-//     en: "how many calories has",
-//     es: "cuantas calorías tiene",
-//     it: "quante calorie ha",
-//   };
-//   const localeKeywords = {
-//     en: (cocktailName) => `How to Make the cocktail ${upperCocktail}`,
-//     es: (cocktailName) => `Como hacer el cóctel ${upperCocktail}`,
-//     it: (cocktailName) => `Come si fa il cocktail ${upperCocktail}`,
-//   };
-//   const pageTitle = localeTitles[lang](cocktailName);
-//   const seoDescriptions = {
-//     en: `Learn how to make the classic cocktail ${upperCocktail} in minutes with ${ing1} and ${ing2}. Follow our easy ${preparation.length} steps recipe for a great drink at home.`,
-//     es: `Aprende a preparar el clásico cóctel ${upperCocktail} en unos minutos con ${ing1} y ${ing2}. Sigue nuestra sencilla receta de ${preparation.length} pasos para preparar una bebida profesional en casa.`,
-//     it: `Impara a preparare il cocktail ${upperCocktail} con ${ing1} e ${ing2} in pochi minuti. Segui la nostra ricetta in ${preparation.length} passaggi semplici per preparare un ottimo drink a casa.`,
-//   };
+  const ing1 = capitalizeWords(ingredients[0], lang);
+  const ing2 = capitalizeWords(ingredients[1], lang);
+  const upperCocktail = capitalizeWords(cocktailName, lang);
+  const localeTitles = {
+    en: (cocktailName) => `${upperCocktail} recipe`,
+    es: (cocktailName) => `${upperCocktail} | receta original`,
+    it: (cocktailName) => `${upperCocktail} | ricetta originale`,
+  };
+  const localsIngredients = {
+    en: "ingredients of",
+    es: "ingredientes de",
+    it: "ingredienti del",
+  };
+  const localsCalories = {
+    en: "how many calories has",
+    es: "cuantas calorías tiene",
+    it: "quante calorie ha",
+  };
+  const localeKeywords = {
+    en: (cocktailName) => `How to Make the cocktail ${upperCocktail}`,
+    es: (cocktailName) => `Como hacer el cóctel ${upperCocktail}`,
+    it: (cocktailName) => `Come si fa il cocktail ${upperCocktail}`,
+  };
+  const pageTitle = localeTitles[lang](cocktailName);
+  const seoDescriptions = {
+    en: `Learn how to make the classic cocktail ${upperCocktail} in minutes with ${ing1} and ${ing2}. Follow our easy ${preparation.length} steps recipe for a great drink at home.`,
+    es: `Aprende a preparar el clásico cóctel ${upperCocktail} en unos minutos con ${ing1} y ${ing2}. Sigue nuestra sencilla receta de ${preparation.length} pasos para preparar una bebida profesional en casa.`,
+    it: `Impara a preparare il cocktail ${upperCocktail} con ${ing1} e ${ing2} in pochi minuti. Segui la nostra ricetta in ${preparation.length} passaggi semplici per preparare un ottimo drink a casa.`,
+  };
 
-//   const baseKeywords = [
-//     localeKeywords[lang]?.(cocktailName),
-//     `${ingredients[0]} cocktail`, // Primary ingredient cocktail
-//     ...(source ? [source] : []),
-//     `${localsIngredients[lang]} ${upperCocktail}`,
-//     `${localsCalories[lang]} ${upperCocktail}`,
-//     ...ingredients,
-//     // ...(country ? [`cocktail ${country}`] : []),
-//   ];
-//   const recipePreparation = preparation.map((tip, index) => ({
-//     "@type": "HowToStep",
-//     text: tip,
-//     position: index + 1,
-//     name: `Step ${index + 1}`,
-//   }));
+  const baseKeywords = [
+    localeKeywords[lang]?.(cocktailName),
+    `${ingredients[0]} cocktail`, // Primary ingredient cocktail
+    ...(source ? [source] : []),
+    `${localsIngredients[lang]} ${upperCocktail}`,
+    `${localsCalories[lang]} ${upperCocktail}`,
+    ...ingredients,
+    // ...(country ? [`cocktail ${country}`] : []),
+  ];
+  const recipePreparation = preparation.map((tip, index) => ({
+    "@type": "HowToStep",
+    text: tip,
+    position: index + 1,
+    name: `Step ${index + 1}`,
+  }));
 
-//   const ratingItem = getRatingItem(cocktailId);
-//   // console.log("generateSEOContent ratingItem: ", ratingItem)
+  const ratingItem = getRatingItem(cocktailId);
+  // console.log("generateSEOContent ratingItem: ", ratingItem)
 
-//   // Map dietary info to RestrictedDiet values
-//   const dietaryMapping = {
-//     vegetarian: "https://schema.org/VegetarianDiet",
-//     vegan: "https://schema.org/VeganDiet",
-//     dairyFree: "https://schema.org/LowLactoseDiet",
-//     glutenFree: "https://schema.org/GlutenFreeDiet",
-//   };
+  // Map dietary info to RestrictedDiet values
+  const dietaryMapping = {
+    vegetarian: "https://schema.org/VegetarianDiet",
+    vegan: "https://schema.org/VeganDiet",
+    dairyFree: "https://schema.org/LowLactoseDiet",
+    glutenFree: "https://schema.org/GlutenFreeDiet",
+  };
 
-//   // Calculate prepTime and totalTime
-//   const prepTimeMinutes = Math.max(0, recipePreparation.length - 1); // Minimum of 0
-//   const totalTimeMinutes = recipePreparation.length + 1;
-//   // Format time in ISO 8601 duration format
-//   const formatTime = (minutes) => `PT${minutes}M`;
+  // Calculate prepTime and totalTime
+  const prepTimeMinutes = Math.max(0, recipePreparation.length - 1); // Minimum of 0
+  const totalTimeMinutes = recipePreparation.length + 1;
+  // Format time in ISO 8601 duration format
+  const formatTime = (minutes) => `PT${minutes}M`;
 
-//   // Filter and map dietaryInfo to schema-compatible values
-//   const suitableForDiet = Object.entries(dietaryInfo)
-//     .filter(([, value]) => value) // Keep only true values
-//     .map(([key]) => dietaryMapping[key]) // Map to RestrictedDiet values
-//     .filter(Boolean); // Remove any undefined mappings
+  // Filter and map dietaryInfo to schema-compatible values
+  const suitableForDiet = Object.entries(dietaryInfo)
+    .filter(([, value]) => value) // Keep only true values
+    .map(([key]) => dietaryMapping[key]) // Map to RestrictedDiet values
+    .filter(Boolean); // Remove any undefined mappings
 
-//   return {
-//     // Use existing content where possible
-//     title: pageTitle,
-//     description: seoDescriptions[lang],
-//     // description: articleData.intro || articleData.description.slice(0, 160),
-//     keywords: baseKeywords,
-//     // Schema markup for cocktail recipe
-//     schema: {
-//       "@context": "https://schema.org",
-//       "@type": "Recipe",
-//       name: pageTitle,
-//       description: seoDescriptions[lang],
-//       // description: articleData.intro || articleData.description.slice(0, 160),
-//       recipeCategory: "Cocktail",
-//       prepTime: formatTime(prepTimeMinutes),
-//       totalTime: formatTime(totalTimeMinutes),
-//       keywords: baseKeywords,
-//       recipeIngredient: dosage.map(
-//         (item) => `${item.measurement} ${item.unit} ${item.ingredient}`
-//       ),
-//       recipeInstructions: recipePreparation,
-//       // Additional beneficial fields for recipes
-//       // image: `${getBaseUrl()}/images/glasses/${glassImage}`,
-//       image: recipeImage,
-//       author: {
-//         "@type": "Person",
-//         name: "Mishela Cocktail App",
-//       },
-//       nutrition: {
-//         "@type": "NutritionInformation",
-//         calories: calories,
-//         alcoholContent: Number(abv).toFixed(1) + " Alc. Un.",
-//       },
-//       aggregateRating: {
-//         "@type": "AggregateRating",
-//         ratingValue: ratingItem?.ratingAvg || ratingAverage, // Calculated average
-//         bestRating: 5,
-//         ratingCount: ratingItem?.votes || ratingVotes,
-//         // reviewCount: ratingItem.votes, // Number of reviews
-//       },
-//       // recipeCuisine: country,
-//       recipeCuisine: country && country.trim() ? country : "USA",
-//       suitableForDiet: suitableForDiet.length > 0 ? suitableForDiet : undefined,
-//       url: `${getBaseUrl()}/${lang}/recipes/${slug}?id=${cocktailId}`,
-//       recipeYield: "1 cocktail",
-//     },
-//   };
-// }
+  return {
+    // Use existing content where possible
+    title: pageTitle,
+    description: seoDescriptions[lang],
+    // description: articleData.intro || articleData.description.slice(0, 160),
+    keywords: baseKeywords,
+    // Schema markup for cocktail recipe
+    schema: {
+      "@context": "https://schema.org",
+      "@type": "Recipe",
+      name: pageTitle,
+      description: seoDescriptions[lang],
+      // description: articleData.intro || articleData.description.slice(0, 160),
+      recipeCategory: "Cocktail",
+      prepTime: formatTime(prepTimeMinutes),
+      totalTime: formatTime(totalTimeMinutes),
+      keywords: baseKeywords,
+      recipeIngredient: dosage.map(
+        (item) => `${item.measurement} ${item.unit} ${item.ingredient}`
+      ),
+      recipeInstructions: recipePreparation,
+      // Additional beneficial fields for recipes
+      // image: `${getBaseUrl()}/images/glasses/${glassImage}`,
+      image: recipeImage,
+      author: {
+        "@type": "Person",
+        name: "Mishela Cocktail App",
+      },
+      nutrition: {
+        "@type": "NutritionInformation",
+        calories: calories,
+        alcoholContent: Number(abv).toFixed(1) + " Alc. Un.",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: ratingItem?.ratingAvg || ratingAverage, // Calculated average
+        bestRating: 5,
+        ratingCount: ratingItem?.votes || ratingVotes,
+        // reviewCount: ratingItem.votes, // Number of reviews
+      },
+      // recipeCuisine: country,
+      recipeCuisine: country && country.trim() ? country : "USA",
+      suitableForDiet: suitableForDiet.length > 0 ? suitableForDiet : undefined,
+      url: `${getBaseUrl()}/${lang}/recipes/${slug}?id=${cocktailId}`,
+      recipeYield: "1 cocktail",
+    },
+  };
+}
 
 // export async function generateMetadata({ params, searchParams }) {
 //   const { lang, slug } = await params;
@@ -358,23 +358,23 @@ export default async function RecipePage({ params }) {
   const ratingAvg = ratingItem?.ratingAvg || ratingAverage;
   const ratingCount = ratingItem?.votes || ratingVotes;
 
-//   const seoContent = generateSEOContent(
-//     cocktailData,
-//     source,
-//     abv,
-//     calories,
-//     dietaryInfo,
-//     ingredients,
-//     preparation,
-//     dosage,
-//     glassImage,
-//     postImage,
-//     country,
-//     lang,
-//     slug,
-//     ratingAverage,
-//     ratingVotes
-//   );
+  const seoContent = generateSEOContent(
+    cocktailData,
+    source,
+    abv,
+    calories,
+    dietaryInfo,
+    ingredients,
+    preparation,
+    dosage,
+    glassImage,
+    postImage,
+    country,
+    lang,
+    slug,
+    ratingAverage,
+    ratingVotes
+  );
 
   // console.log("BlogPost postRecord: ", postRecord[lang].slug)
   // console.log("Recipe description: ", description)
