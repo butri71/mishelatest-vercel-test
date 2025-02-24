@@ -51,7 +51,8 @@ export default function CocktailCard({ cocktails, locale, type }) {
                     return (
                         <article key={post.slug} className="recipe-card">
                             <Link
-                                href={`/${locale}/${type}/${post.slug}?id=${post.cocktailId}`}
+                                // href={`/${locale}/${type}/${post.slug}?id=${post.cocktailId}`}
+                                href={`/${locale}/${type}/${post.slug}/${post.cocktailId}`}
                                 className="recipe-card-link">
                                 {/* <div className="recipe-image-container1"> */}
                                 <h2 className="card-city-name">{post.cocktail}</h2>
