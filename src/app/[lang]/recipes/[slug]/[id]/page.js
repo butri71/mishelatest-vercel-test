@@ -456,13 +456,13 @@ export default async function RecipePage({ params }) {
                       </div>
                     </div>
                   )}
-                  <Suspense fallback={<div>Loading Rating...</div>}>
+                  {/* <Suspense fallback={<div>Loading Rating...</div>}>
                     <RatingDisplay
                       ratingAvg={ratingAvg}
                       votes={ratingCount}
                       message={t("blog.alert_rating_msm")}
                     />
-                  </Suspense>
+                  </Suspense> */}
                 </div>
                 {/* QR CODE GENERATION */}
                 <div className="side-image-container">
@@ -472,7 +472,7 @@ export default async function RecipePage({ params }) {
             </div>
           </div>
           {/* BLOG LINK BUTTON */}
-          {postRecord && postRecord[lang]?.slug && (
+          {/* {postRecord && postRecord[lang]?.slug && (
             <div className="blog-banner-container">
               <div className="btnBanner">
                 <Link
@@ -483,10 +483,10 @@ export default async function RecipePage({ params }) {
                 </Link>
               </div>
             </div>
-          )}
+          )} */}
 
           {/* RECIPE*/}
-          <div id="recipe-section">
+          {/* <div id="recipe-section">
             <RecipeCard
               cocktail={overallName}
               tags={tags}
@@ -506,7 +506,7 @@ export default async function RecipePage({ params }) {
               img={glassImage}
               caller={"glasses"}
             />
-          </div>
+          </div> */}
 
           {/* APP PROMO SECTION */}
           <AppBannerSmall lang={lang} />
