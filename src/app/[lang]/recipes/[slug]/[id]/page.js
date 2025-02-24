@@ -396,7 +396,7 @@ export default async function RecipePage({ params }) {
           <div className="recipe-content">
             <MarkdownParagraph language={lang}>{description}</MarkdownParagraph>
           </div>
-          {/* <div className="top-recipe-container">
+          <div className="top-recipe-container">
             <div
               className="recipe-image-container"
               style={{ backgroundColor: dataAll[`rgb-${type.value}`] }}
@@ -461,12 +461,12 @@ export default async function RecipePage({ params }) {
                     />
                   </Suspense> 
                 </div>                
-                <div className="side-image-container">
+                {/* <div className="side-image-container">
                   {isQRcode && <QrCodeGenerator drinkId={cocktailId} />}
-                </div>
+                </div> */}
               </div>
             </div>
-          </div> */}
+          </div>
           {/* BLOG LINK BUTTON */}
           {/* {postRecord && postRecord[lang]?.slug && (
             <div className="blog-banner-container">
