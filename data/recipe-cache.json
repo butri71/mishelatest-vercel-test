@@ -1,0 +1,10067 @@
+[
+  {
+    "lang": "en",
+    "slug": "negroni-recipe",
+    "cocktailId": "1102"
+  },
+  {
+    "lang": "es",
+    "slug": "negroni-receta",
+    "cocktailId": "1102"
+  },
+  {
+    "lang": "it",
+    "slug": "negroni-ricetta",
+    "cocktailId": "1102"
+  },
+  {
+    "lang": "en",
+    "slug": "dirty-martini-recipe",
+    "cocktailId": "1101"
+  },
+  {
+    "lang": "es",
+    "slug": "dirty-martini-receta",
+    "cocktailId": "1101"
+  },
+  {
+    "lang": "it",
+    "slug": "dirty-martini-ricetta",
+    "cocktailId": "1101"
+  },
+  {
+    "lang": "en",
+    "slug": "screwdriver-recipe",
+    "cocktailId": "1108"
+  },
+  {
+    "lang": "es",
+    "slug": "screwdriver-receta",
+    "cocktailId": "1108"
+  },
+  {
+    "lang": "it",
+    "slug": "screwdriver-ricetta",
+    "cocktailId": "1108"
+  },
+  {
+    "lang": "en",
+    "slug": "betsy-ross-recipe",
+    "cocktailId": "1161"
+  },
+  {
+    "lang": "es",
+    "slug": "betsy-ross-receta",
+    "cocktailId": "1161"
+  },
+  {
+    "lang": "it",
+    "slug": "betsy-ross-ricetta",
+    "cocktailId": "1161"
+  },
+  {
+    "lang": "en",
+    "slug": "palo-negro-recipe",
+    "cocktailId": "1163"
+  },
+  {
+    "lang": "es",
+    "slug": "palo-negro-receta",
+    "cocktailId": "1163"
+  },
+  {
+    "lang": "it",
+    "slug": "palo-negro-ricetta",
+    "cocktailId": "1163"
+  },
+  {
+    "lang": "en",
+    "slug": "singapore-sling-recipe",
+    "cocktailId": "1164"
+  },
+  {
+    "lang": "es",
+    "slug": "singapore-sling-receta",
+    "cocktailId": "1164"
+  },
+  {
+    "lang": "it",
+    "slug": "singapore-sling-ricetta",
+    "cocktailId": "1164"
+  },
+  {
+    "lang": "en",
+    "slug": "bitter-elder-recipe",
+    "cocktailId": "1165"
+  },
+  {
+    "lang": "es",
+    "slug": "bitter-elder-receta",
+    "cocktailId": "1165"
+  },
+  {
+    "lang": "it",
+    "slug": "bitter-elder-ricetta",
+    "cocktailId": "1165"
+  },
+  {
+    "lang": "en",
+    "slug": "painkiller-recipe",
+    "cocktailId": "1168"
+  },
+  {
+    "lang": "es",
+    "slug": "painkiller-receta",
+    "cocktailId": "1168"
+  },
+  {
+    "lang": "it",
+    "slug": "painkiller-ricetta",
+    "cocktailId": "1168"
+  },
+  {
+    "lang": "en",
+    "slug": "cosmopolitan-recipe",
+    "cocktailId": "1169"
+  },
+  {
+    "lang": "es",
+    "slug": "cosmopolitan-receta",
+    "cocktailId": "1169"
+  },
+  {
+    "lang": "it",
+    "slug": "cosmopolitan-ricetta",
+    "cocktailId": "1169"
+  },
+  {
+    "lang": "en",
+    "slug": "white-russian-recipe",
+    "cocktailId": "1170"
+  },
+  {
+    "lang": "es",
+    "slug": "white-russian-receta",
+    "cocktailId": "1170"
+  },
+  {
+    "lang": "it",
+    "slug": "white-russian-ricetta",
+    "cocktailId": "1170"
+  },
+  {
+    "lang": "en",
+    "slug": "kamikaze-cocktail-recipe",
+    "cocktailId": "1171"
+  },
+  {
+    "lang": "es",
+    "slug": "kamikaze-cocktail-receta",
+    "cocktailId": "1171"
+  },
+  {
+    "lang": "it",
+    "slug": "kamikaze-cocktail-ricetta",
+    "cocktailId": "1171"
+  },
+  {
+    "lang": "en",
+    "slug": "french-martini-recipe",
+    "cocktailId": "1172"
+  },
+  {
+    "lang": "es",
+    "slug": "french-martini-receta",
+    "cocktailId": "1172"
+  },
+  {
+    "lang": "it",
+    "slug": "french-martini-ricetta",
+    "cocktailId": "1172"
+  },
+  {
+    "lang": "en",
+    "slug": "tommy's-margarita-recipe",
+    "cocktailId": "1173"
+  },
+  {
+    "lang": "es",
+    "slug": "tommy's-margarita-receta",
+    "cocktailId": "1173"
+  },
+  {
+    "lang": "it",
+    "slug": "tommy's-margarita-ricetta",
+    "cocktailId": "1173"
+  },
+  {
+    "lang": "en",
+    "slug": "gimlet-cocktail-recipe",
+    "cocktailId": "1174"
+  },
+  {
+    "lang": "es",
+    "slug": "gimlet-cocktail-receta",
+    "cocktailId": "1174"
+  },
+  {
+    "lang": "it",
+    "slug": "gimlet-cocktail-ricetta",
+    "cocktailId": "1174"
+  },
+  {
+    "lang": "en",
+    "slug": "cuba-libre-recipe",
+    "cocktailId": "1175"
+  },
+  {
+    "lang": "es",
+    "slug": "cuba-libre-receta",
+    "cocktailId": "1175"
+  },
+  {
+    "lang": "it",
+    "slug": "cuba-libre-ricetta",
+    "cocktailId": "1175"
+  },
+  {
+    "lang": "en",
+    "slug": "margarita-recipe",
+    "cocktailId": "1176"
+  },
+  {
+    "lang": "es",
+    "slug": "margarita-receta",
+    "cocktailId": "1176"
+  },
+  {
+    "lang": "it",
+    "slug": "margarita-ricetta",
+    "cocktailId": "1176"
+  },
+  {
+    "lang": "en",
+    "slug": "manhattan-recipe",
+    "cocktailId": "1177"
+  },
+  {
+    "lang": "es",
+    "slug": "manhattan-receta",
+    "cocktailId": "1177"
+  },
+  {
+    "lang": "it",
+    "slug": "manhattan-ricetta",
+    "cocktailId": "1177"
+  },
+  {
+    "lang": "en",
+    "slug": "white-lady-recipe",
+    "cocktailId": "1178"
+  },
+  {
+    "lang": "es",
+    "slug": "white-lady-receta",
+    "cocktailId": "1178"
+  },
+  {
+    "lang": "it",
+    "slug": "white-lady-ricetta",
+    "cocktailId": "1178"
+  },
+  {
+    "lang": "en",
+    "slug": "mai-tai-recipe",
+    "cocktailId": "1179"
+  },
+  {
+    "lang": "es",
+    "slug": "mai-tai-receta",
+    "cocktailId": "1179"
+  },
+  {
+    "lang": "it",
+    "slug": "mai-tai-ricetta",
+    "cocktailId": "1179"
+  },
+  {
+    "lang": "en",
+    "slug": "brandy-alexander-recipe",
+    "cocktailId": "1180"
+  },
+  {
+    "lang": "es",
+    "slug": "brandy-alexander-receta",
+    "cocktailId": "1180"
+  },
+  {
+    "lang": "it",
+    "slug": "brandy-alexander-ricetta",
+    "cocktailId": "1180"
+  },
+  {
+    "lang": "en",
+    "slug": "americano-recipe",
+    "cocktailId": "1181"
+  },
+  {
+    "lang": "es",
+    "slug": "americano-receta",
+    "cocktailId": "1181"
+  },
+  {
+    "lang": "it",
+    "slug": "americano-ricetta",
+    "cocktailId": "1181"
+  },
+  {
+    "lang": "en",
+    "slug": "angel-face-recipe",
+    "cocktailId": "1182"
+  },
+  {
+    "lang": "es",
+    "slug": "angel-face-receta",
+    "cocktailId": "1182"
+  },
+  {
+    "lang": "it",
+    "slug": "angel-face-ricetta",
+    "cocktailId": "1182"
+  },
+  {
+    "lang": "en",
+    "slug": "whiskey-sour-recipe",
+    "cocktailId": "1183"
+  },
+  {
+    "lang": "es",
+    "slug": "whiskey-sour-receta",
+    "cocktailId": "1183"
+  },
+  {
+    "lang": "it",
+    "slug": "whiskey-sour-ricetta",
+    "cocktailId": "1183"
+  },
+  {
+    "lang": "en",
+    "slug": "daiquiri-recipe",
+    "cocktailId": "1184"
+  },
+  {
+    "lang": "es",
+    "slug": "daiquiri-receta",
+    "cocktailId": "1184"
+  },
+  {
+    "lang": "it",
+    "slug": "daiquiri-ricetta",
+    "cocktailId": "1184"
+  },
+  {
+    "lang": "en",
+    "slug": "espresso-martini-recipe",
+    "cocktailId": "1185"
+  },
+  {
+    "lang": "es",
+    "slug": "espresso-martini-receta",
+    "cocktailId": "1185"
+  },
+  {
+    "lang": "it",
+    "slug": "espresso-martini-ricetta",
+    "cocktailId": "1185"
+  },
+  {
+    "lang": "en",
+    "slug": "greenpoint-recipe",
+    "cocktailId": "1186"
+  },
+  {
+    "lang": "es",
+    "slug": "greenpoint-receta",
+    "cocktailId": "1186"
+  },
+  {
+    "lang": "it",
+    "slug": "greenpoint-ricetta",
+    "cocktailId": "1186"
+  },
+  {
+    "lang": "en",
+    "slug": "amaretto-sour-recipe",
+    "cocktailId": "1187"
+  },
+  {
+    "lang": "es",
+    "slug": "amaretto-sour-receta",
+    "cocktailId": "1187"
+  },
+  {
+    "lang": "it",
+    "slug": "amaretto-sour-ricetta",
+    "cocktailId": "1187"
+  },
+  {
+    "lang": "en",
+    "slug": "sidecar-recipe",
+    "cocktailId": "1188"
+  },
+  {
+    "lang": "es",
+    "slug": "sidecar-receta",
+    "cocktailId": "1188"
+  },
+  {
+    "lang": "it",
+    "slug": "sidecar-ricetta",
+    "cocktailId": "1188"
+  },
+  {
+    "lang": "en",
+    "slug": "ruby-recipe",
+    "cocktailId": "1189"
+  },
+  {
+    "lang": "es",
+    "slug": "ruby-receta",
+    "cocktailId": "1189"
+  },
+  {
+    "lang": "it",
+    "slug": "ruby-ricetta",
+    "cocktailId": "1189"
+  },
+  {
+    "lang": "en",
+    "slug": "martinez-recipe",
+    "cocktailId": "1190"
+  },
+  {
+    "lang": "es",
+    "slug": "martinez-receta",
+    "cocktailId": "1190"
+  },
+  {
+    "lang": "it",
+    "slug": "martinez-ricetta",
+    "cocktailId": "1190"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-sour-recipe",
+    "cocktailId": "1191"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-sour-receta",
+    "cocktailId": "1191"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-sour-ricetta",
+    "cocktailId": "1191"
+  },
+  {
+    "lang": "en",
+    "slug": "flamingo-recipe",
+    "cocktailId": "1192"
+  },
+  {
+    "lang": "es",
+    "slug": "flamingo-receta",
+    "cocktailId": "1192"
+  },
+  {
+    "lang": "it",
+    "slug": "flamingo-ricetta",
+    "cocktailId": "1192"
+  },
+  {
+    "lang": "en",
+    "slug": "black-russian-recipe",
+    "cocktailId": "1193"
+  },
+  {
+    "lang": "es",
+    "slug": "black-russian-receta",
+    "cocktailId": "1193"
+  },
+  {
+    "lang": "it",
+    "slug": "black-russian-ricetta",
+    "cocktailId": "1193"
+  },
+  {
+    "lang": "en",
+    "slug": "grasshopper-recipe",
+    "cocktailId": "1194"
+  },
+  {
+    "lang": "es",
+    "slug": "grasshopper-receta",
+    "cocktailId": "1194"
+  },
+  {
+    "lang": "it",
+    "slug": "grasshopper-ricetta",
+    "cocktailId": "1194"
+  },
+  {
+    "lang": "en",
+    "slug": "queen-elizabeth-recipe",
+    "cocktailId": "1195"
+  },
+  {
+    "lang": "es",
+    "slug": "queen-elizabeth-receta",
+    "cocktailId": "1195"
+  },
+  {
+    "lang": "it",
+    "slug": "queen-elizabeth-ricetta",
+    "cocktailId": "1195"
+  },
+  {
+    "lang": "en",
+    "slug": "toronto-recipe",
+    "cocktailId": "1196"
+  },
+  {
+    "lang": "es",
+    "slug": "toronto-receta",
+    "cocktailId": "1196"
+  },
+  {
+    "lang": "it",
+    "slug": "toronto-ricetta",
+    "cocktailId": "1196"
+  },
+  {
+    "lang": "en",
+    "slug": "old-pal-recipe",
+    "cocktailId": "1197"
+  },
+  {
+    "lang": "es",
+    "slug": "old-pal-receta",
+    "cocktailId": "1197"
+  },
+  {
+    "lang": "it",
+    "slug": "old-pal-ricetta",
+    "cocktailId": "1197"
+  },
+  {
+    "lang": "en",
+    "slug": "zombie-recipe",
+    "cocktailId": "1198"
+  },
+  {
+    "lang": "es",
+    "slug": "zombie-receta",
+    "cocktailId": "1198"
+  },
+  {
+    "lang": "it",
+    "slug": "zombie-ricetta",
+    "cocktailId": "1198"
+  },
+  {
+    "lang": "en",
+    "slug": "boulevardier-recipe",
+    "cocktailId": "1199"
+  },
+  {
+    "lang": "es",
+    "slug": "boulevardier-receta",
+    "cocktailId": "1199"
+  },
+  {
+    "lang": "it",
+    "slug": "boulevardier-ricetta",
+    "cocktailId": "1199"
+  },
+  {
+    "lang": "en",
+    "slug": "yellow-bird-recipe",
+    "cocktailId": "1200"
+  },
+  {
+    "lang": "es",
+    "slug": "yellow-bird-receta",
+    "cocktailId": "1200"
+  },
+  {
+    "lang": "it",
+    "slug": "yellow-bird-ricetta",
+    "cocktailId": "1200"
+  },
+  {
+    "lang": "en",
+    "slug": "barracuda-recipe",
+    "cocktailId": "1201"
+  },
+  {
+    "lang": "es",
+    "slug": "barracuda-receta",
+    "cocktailId": "1201"
+  },
+  {
+    "lang": "it",
+    "slug": "barracuda-ricetta",
+    "cocktailId": "1201"
+  },
+  {
+    "lang": "en",
+    "slug": "mojito-recipe",
+    "cocktailId": "1202"
+  },
+  {
+    "lang": "es",
+    "slug": "mojito-receta",
+    "cocktailId": "1202"
+  },
+  {
+    "lang": "it",
+    "slug": "mojito-ricetta",
+    "cocktailId": "1202"
+  },
+  {
+    "lang": "en",
+    "slug": "orange-blossom-recipe",
+    "cocktailId": "1203"
+  },
+  {
+    "lang": "es",
+    "slug": "orange-blossom-receta",
+    "cocktailId": "1203"
+  },
+  {
+    "lang": "it",
+    "slug": "orange-blossom-ricetta",
+    "cocktailId": "1203"
+  },
+  {
+    "lang": "en",
+    "slug": "aviation-recipe",
+    "cocktailId": "1204"
+  },
+  {
+    "lang": "es",
+    "slug": "aviation-receta",
+    "cocktailId": "1204"
+  },
+  {
+    "lang": "it",
+    "slug": "aviation-ricetta",
+    "cocktailId": "1204"
+  },
+  {
+    "lang": "en",
+    "slug": "bellini-recipe",
+    "cocktailId": "1205"
+  },
+  {
+    "lang": "es",
+    "slug": "bellini-receta",
+    "cocktailId": "1205"
+  },
+  {
+    "lang": "it",
+    "slug": "bellini-ricetta",
+    "cocktailId": "1205"
+  },
+  {
+    "lang": "en",
+    "slug": "elixir-tropical-recipe",
+    "cocktailId": "1206"
+  },
+  {
+    "lang": "es",
+    "slug": "elixir-tropical-receta",
+    "cocktailId": "1206"
+  },
+  {
+    "lang": "it",
+    "slug": "elixir-tropical-ricetta",
+    "cocktailId": "1206"
+  },
+  {
+    "lang": "en",
+    "slug": "buck's-fizz-recipe",
+    "cocktailId": "1207"
+  },
+  {
+    "lang": "es",
+    "slug": "buck's-fizz-receta",
+    "cocktailId": "1207"
+  },
+  {
+    "lang": "it",
+    "slug": "buck's-fizz-ricetta",
+    "cocktailId": "1207"
+  },
+  {
+    "lang": "en",
+    "slug": "snowball-recipe",
+    "cocktailId": "1208"
+  },
+  {
+    "lang": "es",
+    "slug": "snowball-receta",
+    "cocktailId": "1208"
+  },
+  {
+    "lang": "it",
+    "slug": "snowball-ricetta",
+    "cocktailId": "1208"
+  },
+  {
+    "lang": "en",
+    "slug": "pisco-sour-recipe",
+    "cocktailId": "1209"
+  },
+  {
+    "lang": "es",
+    "slug": "pisco-sour-receta",
+    "cocktailId": "1209"
+  },
+  {
+    "lang": "it",
+    "slug": "pisco-sour-ricetta",
+    "cocktailId": "1209"
+  },
+  {
+    "lang": "en",
+    "slug": "brown-derby-recipe",
+    "cocktailId": "1210"
+  },
+  {
+    "lang": "es",
+    "slug": "brown-derby-receta",
+    "cocktailId": "1210"
+  },
+  {
+    "lang": "it",
+    "slug": "brown-derby-ricetta",
+    "cocktailId": "1210"
+  },
+  {
+    "lang": "en",
+    "slug": "rusty-nail-recipe",
+    "cocktailId": "1211"
+  },
+  {
+    "lang": "es",
+    "slug": "rusty-nail-receta",
+    "cocktailId": "1211"
+  },
+  {
+    "lang": "it",
+    "slug": "rusty-nail-ricetta",
+    "cocktailId": "1211"
+  },
+  {
+    "lang": "en",
+    "slug": "hanky-panky-recipe",
+    "cocktailId": "1212"
+  },
+  {
+    "lang": "es",
+    "slug": "hanky-panky-receta",
+    "cocktailId": "1212"
+  },
+  {
+    "lang": "it",
+    "slug": "hanky-panky-ricetta",
+    "cocktailId": "1212"
+  },
+  {
+    "lang": "en",
+    "slug": "bronx-recipe",
+    "cocktailId": "1213"
+  },
+  {
+    "lang": "es",
+    "slug": "bronx-receta",
+    "cocktailId": "1213"
+  },
+  {
+    "lang": "it",
+    "slug": "bronx-ricetta",
+    "cocktailId": "1213"
+  },
+  {
+    "lang": "en",
+    "slug": "brooklyn-recipe",
+    "cocktailId": "1214"
+  },
+  {
+    "lang": "es",
+    "slug": "brooklyn-receta",
+    "cocktailId": "1214"
+  },
+  {
+    "lang": "it",
+    "slug": "brooklyn-ricetta",
+    "cocktailId": "1214"
+  },
+  {
+    "lang": "en",
+    "slug": "highlander-recipe",
+    "cocktailId": "1215"
+  },
+  {
+    "lang": "es",
+    "slug": "highlander-receta",
+    "cocktailId": "1215"
+  },
+  {
+    "lang": "it",
+    "slug": "highlander-ricetta",
+    "cocktailId": "1215"
+  },
+  {
+    "lang": "en",
+    "slug": "apple-martini-recipe",
+    "cocktailId": "1217"
+  },
+  {
+    "lang": "es",
+    "slug": "apple-martini-receta",
+    "cocktailId": "1217"
+  },
+  {
+    "lang": "it",
+    "slug": "apple-martini-ricetta",
+    "cocktailId": "1217"
+  },
+  {
+    "lang": "en",
+    "slug": "rob-roy-recipe",
+    "cocktailId": "1218"
+  },
+  {
+    "lang": "es",
+    "slug": "rob-roy-receta",
+    "cocktailId": "1218"
+  },
+  {
+    "lang": "it",
+    "slug": "rob-roy-ricetta",
+    "cocktailId": "1218"
+  },
+  {
+    "lang": "en",
+    "slug": "saratoga-recipe",
+    "cocktailId": "1219"
+  },
+  {
+    "lang": "es",
+    "slug": "saratoga-receta",
+    "cocktailId": "1219"
+  },
+  {
+    "lang": "it",
+    "slug": "saratoga-ricetta",
+    "cocktailId": "1219"
+  },
+  {
+    "lang": "en",
+    "slug": "hotel-nacional-recipe",
+    "cocktailId": "1220"
+  },
+  {
+    "lang": "es",
+    "slug": "hotel-nacional-receta",
+    "cocktailId": "1220"
+  },
+  {
+    "lang": "it",
+    "slug": "hotel-nacional-ricetta",
+    "cocktailId": "1220"
+  },
+  {
+    "lang": "en",
+    "slug": "white-negroni-recipe",
+    "cocktailId": "1221"
+  },
+  {
+    "lang": "es",
+    "slug": "white-negroni-receta",
+    "cocktailId": "1221"
+  },
+  {
+    "lang": "it",
+    "slug": "white-negroni-ricetta",
+    "cocktailId": "1221"
+  },
+  {
+    "lang": "en",
+    "slug": "dutch-negroni-recipe",
+    "cocktailId": "1222"
+  },
+  {
+    "lang": "es",
+    "slug": "dutch-negroni-receta",
+    "cocktailId": "1222"
+  },
+  {
+    "lang": "it",
+    "slug": "dutch-negroni-ricetta",
+    "cocktailId": "1222"
+  },
+  {
+    "lang": "en",
+    "slug": "mimosa-recipe",
+    "cocktailId": "1223"
+  },
+  {
+    "lang": "es",
+    "slug": "mimosa-receta",
+    "cocktailId": "1223"
+  },
+  {
+    "lang": "it",
+    "slug": "mimosa-ricetta",
+    "cocktailId": "1223"
+  },
+  {
+    "lang": "en",
+    "slug": "french-75-recipe",
+    "cocktailId": "1224"
+  },
+  {
+    "lang": "es",
+    "slug": "french-75-receta",
+    "cocktailId": "1224"
+  },
+  {
+    "lang": "it",
+    "slug": "french-75-ricetta",
+    "cocktailId": "1224"
+  },
+  {
+    "lang": "en",
+    "slug": "kir-royale-recipe",
+    "cocktailId": "1225"
+  },
+  {
+    "lang": "es",
+    "slug": "kir-royale-receta",
+    "cocktailId": "1225"
+  },
+  {
+    "lang": "it",
+    "slug": "kir-royale-ricetta",
+    "cocktailId": "1225"
+  },
+  {
+    "lang": "en",
+    "slug": "whiskey-river-recipe",
+    "cocktailId": "1226"
+  },
+  {
+    "lang": "es",
+    "slug": "whiskey-river-receta",
+    "cocktailId": "1226"
+  },
+  {
+    "lang": "it",
+    "slug": "whiskey-river-ricetta",
+    "cocktailId": "1226"
+  },
+  {
+    "lang": "en",
+    "slug": "acapulco-recipe",
+    "cocktailId": "1227"
+  },
+  {
+    "lang": "es",
+    "slug": "acapulco-receta",
+    "cocktailId": "1227"
+  },
+  {
+    "lang": "it",
+    "slug": "acapulco-ricetta",
+    "cocktailId": "1227"
+  },
+  {
+    "lang": "en",
+    "slug": "brainstorm-recipe",
+    "cocktailId": "1228"
+  },
+  {
+    "lang": "es",
+    "slug": "brainstorm-receta",
+    "cocktailId": "1228"
+  },
+  {
+    "lang": "it",
+    "slug": "brainstorm-ricetta",
+    "cocktailId": "1228"
+  },
+  {
+    "lang": "en",
+    "slug": "irish-maid-recipe",
+    "cocktailId": "1229"
+  },
+  {
+    "lang": "es",
+    "slug": "irish-maid-receta",
+    "cocktailId": "1229"
+  },
+  {
+    "lang": "it",
+    "slug": "irish-maid-ricetta",
+    "cocktailId": "1229"
+  },
+  {
+    "lang": "en",
+    "slug": "garibaldi-recipe",
+    "cocktailId": "1230"
+  },
+  {
+    "lang": "es",
+    "slug": "garibaldi-receta",
+    "cocktailId": "1230"
+  },
+  {
+    "lang": "it",
+    "slug": "garibaldi-ricetta",
+    "cocktailId": "1230"
+  },
+  {
+    "lang": "en",
+    "slug": "el-diablo-recipe",
+    "cocktailId": "1231"
+  },
+  {
+    "lang": "es",
+    "slug": "el-diablo-receta",
+    "cocktailId": "1231"
+  },
+  {
+    "lang": "it",
+    "slug": "el-diablo-ricetta",
+    "cocktailId": "1231"
+  },
+  {
+    "lang": "en",
+    "slug": "stinger-recipe",
+    "cocktailId": "1232"
+  },
+  {
+    "lang": "es",
+    "slug": "stinger-receta",
+    "cocktailId": "1232"
+  },
+  {
+    "lang": "it",
+    "slug": "stinger-ricetta",
+    "cocktailId": "1232"
+  },
+  {
+    "lang": "en",
+    "slug": "vesper-recipe",
+    "cocktailId": "1234"
+  },
+  {
+    "lang": "es",
+    "slug": "vesper-receta",
+    "cocktailId": "1234"
+  },
+  {
+    "lang": "it",
+    "slug": "vesper-ricetta",
+    "cocktailId": "1234"
+  },
+  {
+    "lang": "en",
+    "slug": "sea-breeze-recipe",
+    "cocktailId": "1235"
+  },
+  {
+    "lang": "es",
+    "slug": "sea-breeze-receta",
+    "cocktailId": "1235"
+  },
+  {
+    "lang": "it",
+    "slug": "sea-breeze-ricetta",
+    "cocktailId": "1235"
+  },
+  {
+    "lang": "en",
+    "slug": "mint-julep-recipe",
+    "cocktailId": "1236"
+  },
+  {
+    "lang": "es",
+    "slug": "mint-julep-receta",
+    "cocktailId": "1236"
+  },
+  {
+    "lang": "it",
+    "slug": "mint-julep-ricetta",
+    "cocktailId": "1236"
+  },
+  {
+    "lang": "en",
+    "slug": "golden-dream-recipe",
+    "cocktailId": "1237"
+  },
+  {
+    "lang": "es",
+    "slug": "golden-dream-receta",
+    "cocktailId": "1237"
+  },
+  {
+    "lang": "it",
+    "slug": "golden-dream-ricetta",
+    "cocktailId": "1237"
+  },
+  {
+    "lang": "en",
+    "slug": "fernandito-recipe",
+    "cocktailId": "1238"
+  },
+  {
+    "lang": "es",
+    "slug": "fernandito-receta",
+    "cocktailId": "1238"
+  },
+  {
+    "lang": "it",
+    "slug": "fernandito-ricetta",
+    "cocktailId": "1238"
+  },
+  {
+    "lang": "en",
+    "slug": "old-cuban-recipe",
+    "cocktailId": "1239"
+  },
+  {
+    "lang": "es",
+    "slug": "old-cuban-receta",
+    "cocktailId": "1239"
+  },
+  {
+    "lang": "it",
+    "slug": "old-cuban-ricetta",
+    "cocktailId": "1239"
+  },
+  {
+    "lang": "en",
+    "slug": "rum-old-fashioned-recipe",
+    "cocktailId": "1240"
+  },
+  {
+    "lang": "es",
+    "slug": "rum-old-fashioned-receta",
+    "cocktailId": "1240"
+  },
+  {
+    "lang": "it",
+    "slug": "rum-old-fashioned-ricetta",
+    "cocktailId": "1240"
+  },
+  {
+    "lang": "en",
+    "slug": "american-trilogy-recipe",
+    "cocktailId": "1241"
+  },
+  {
+    "lang": "es",
+    "slug": "american-trilogy-receta",
+    "cocktailId": "1241"
+  },
+  {
+    "lang": "it",
+    "slug": "american-trilogy-ricetta",
+    "cocktailId": "1241"
+  },
+  {
+    "lang": "en",
+    "slug": "harvard-recipe",
+    "cocktailId": "1242"
+  },
+  {
+    "lang": "es",
+    "slug": "harvard-receta",
+    "cocktailId": "1242"
+  },
+  {
+    "lang": "it",
+    "slug": "harvard-ricetta",
+    "cocktailId": "1242"
+  },
+  {
+    "lang": "en",
+    "slug": "pegu-club-recipe",
+    "cocktailId": "1243"
+  },
+  {
+    "lang": "es",
+    "slug": "pegu-club-receta",
+    "cocktailId": "1243"
+  },
+  {
+    "lang": "it",
+    "slug": "pegu-club-ricetta",
+    "cocktailId": "1243"
+  },
+  {
+    "lang": "en",
+    "slug": "tootsie-roll-recipe",
+    "cocktailId": "1244"
+  },
+  {
+    "lang": "es",
+    "slug": "tootsie-roll-receta",
+    "cocktailId": "1244"
+  },
+  {
+    "lang": "it",
+    "slug": "tootsie-roll-ricetta",
+    "cocktailId": "1244"
+  },
+  {
+    "lang": "en",
+    "slug": "adonis-recipe",
+    "cocktailId": "1245"
+  },
+  {
+    "lang": "es",
+    "slug": "adonis-receta",
+    "cocktailId": "1245"
+  },
+  {
+    "lang": "it",
+    "slug": "adonis-ricetta",
+    "cocktailId": "1245"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-buck-recipe",
+    "cocktailId": "1246"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-buck-receta",
+    "cocktailId": "1246"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-buck-ricetta",
+    "cocktailId": "1246"
+  },
+  {
+    "lang": "en",
+    "slug": "appletini-recipe",
+    "cocktailId": "1247"
+  },
+  {
+    "lang": "es",
+    "slug": "appletini-receta",
+    "cocktailId": "1247"
+  },
+  {
+    "lang": "it",
+    "slug": "appletini-ricetta",
+    "cocktailId": "1247"
+  },
+  {
+    "lang": "en",
+    "slug": "boston-recipe",
+    "cocktailId": "1249"
+  },
+  {
+    "lang": "es",
+    "slug": "boston-receta",
+    "cocktailId": "1249"
+  },
+  {
+    "lang": "it",
+    "slug": "boston-ricetta",
+    "cocktailId": "1249"
+  },
+  {
+    "lang": "en",
+    "slug": "brandy-sour-recipe",
+    "cocktailId": "1250"
+  },
+  {
+    "lang": "es",
+    "slug": "brandy-sour-receta",
+    "cocktailId": "1250"
+  },
+  {
+    "lang": "it",
+    "slug": "brandy-sour-ricetta",
+    "cocktailId": "1250"
+  },
+  {
+    "lang": "en",
+    "slug": "cable-car-recipe",
+    "cocktailId": "1251"
+  },
+  {
+    "lang": "es",
+    "slug": "cable-car-receta",
+    "cocktailId": "1251"
+  },
+  {
+    "lang": "it",
+    "slug": "cable-car-ricetta",
+    "cocktailId": "1251"
+  },
+  {
+    "lang": "en",
+    "slug": "chicago-recipe",
+    "cocktailId": "1252"
+  },
+  {
+    "lang": "es",
+    "slug": "chicago-receta",
+    "cocktailId": "1252"
+  },
+  {
+    "lang": "it",
+    "slug": "chicago-ricetta",
+    "cocktailId": "1252"
+  },
+  {
+    "lang": "en",
+    "slug": "commodore-recipe",
+    "cocktailId": "1253"
+  },
+  {
+    "lang": "es",
+    "slug": "commodore-receta",
+    "cocktailId": "1253"
+  },
+  {
+    "lang": "it",
+    "slug": "commodore-ricetta",
+    "cocktailId": "1253"
+  },
+  {
+    "lang": "en",
+    "slug": "diki-diki-recipe",
+    "cocktailId": "1254"
+  },
+  {
+    "lang": "es",
+    "slug": "diki-diki-receta",
+    "cocktailId": "1254"
+  },
+  {
+    "lang": "it",
+    "slug": "diki-diki-ricetta",
+    "cocktailId": "1254"
+  },
+  {
+    "lang": "en",
+    "slug": "dubonnet-recipe",
+    "cocktailId": "1255"
+  },
+  {
+    "lang": "es",
+    "slug": "dubonnet-receta",
+    "cocktailId": "1255"
+  },
+  {
+    "lang": "it",
+    "slug": "dubonnet-ricetta",
+    "cocktailId": "1255"
+  },
+  {
+    "lang": "en",
+    "slug": "floradora-recipe",
+    "cocktailId": "1256"
+  },
+  {
+    "lang": "es",
+    "slug": "floradora-receta",
+    "cocktailId": "1256"
+  },
+  {
+    "lang": "it",
+    "slug": "floradora-ricetta",
+    "cocktailId": "1256"
+  },
+  {
+    "lang": "en",
+    "slug": "frisco-sour-recipe",
+    "cocktailId": "1257"
+  },
+  {
+    "lang": "es",
+    "slug": "frisco-sour-receta",
+    "cocktailId": "1257"
+  },
+  {
+    "lang": "it",
+    "slug": "frisco-sour-ricetta",
+    "cocktailId": "1257"
+  },
+  {
+    "lang": "en",
+    "slug": "godfather-recipe",
+    "cocktailId": "1259"
+  },
+  {
+    "lang": "es",
+    "slug": "godfather-receta",
+    "cocktailId": "1259"
+  },
+  {
+    "lang": "it",
+    "slug": "godfather-ricetta",
+    "cocktailId": "1259"
+  },
+  {
+    "lang": "en",
+    "slug": "godmother-recipe",
+    "cocktailId": "1260"
+  },
+  {
+    "lang": "es",
+    "slug": "godmother-receta",
+    "cocktailId": "1260"
+  },
+  {
+    "lang": "it",
+    "slug": "godmother-ricetta",
+    "cocktailId": "1260"
+  },
+  {
+    "lang": "en",
+    "slug": "hunter-recipe",
+    "cocktailId": "1262"
+  },
+  {
+    "lang": "es",
+    "slug": "hunter-receta",
+    "cocktailId": "1262"
+  },
+  {
+    "lang": "it",
+    "slug": "hunter-ricetta",
+    "cocktailId": "1262"
+  },
+  {
+    "lang": "en",
+    "slug": "aperol-negroni-recipe",
+    "cocktailId": "1263"
+  },
+  {
+    "lang": "es",
+    "slug": "aperol-negroni-receta",
+    "cocktailId": "1263"
+  },
+  {
+    "lang": "it",
+    "slug": "aperol-negroni-ricetta",
+    "cocktailId": "1263"
+  },
+  {
+    "lang": "en",
+    "slug": "mezcal-margarita-recipe",
+    "cocktailId": "1264"
+  },
+  {
+    "lang": "es",
+    "slug": "mezcal-margarita-receta",
+    "cocktailId": "1264"
+  },
+  {
+    "lang": "it",
+    "slug": "mezcal-margarita-ricetta",
+    "cocktailId": "1264"
+  },
+  {
+    "lang": "en",
+    "slug": "reverse-martini-recipe",
+    "cocktailId": "1265"
+  },
+  {
+    "lang": "es",
+    "slug": "reverse-martini-receta",
+    "cocktailId": "1265"
+  },
+  {
+    "lang": "it",
+    "slug": "reverse-martini-ricetta",
+    "cocktailId": "1265"
+  },
+  {
+    "lang": "en",
+    "slug": "mudslide-recipe",
+    "cocktailId": "1266"
+  },
+  {
+    "lang": "es",
+    "slug": "mudslide-receta",
+    "cocktailId": "1266"
+  },
+  {
+    "lang": "it",
+    "slug": "mudslide-ricetta",
+    "cocktailId": "1266"
+  },
+  {
+    "lang": "en",
+    "slug": "bishop-recipe",
+    "cocktailId": "1267"
+  },
+  {
+    "lang": "es",
+    "slug": "bishop-receta",
+    "cocktailId": "1267"
+  },
+  {
+    "lang": "it",
+    "slug": "bishop-ricetta",
+    "cocktailId": "1267"
+  },
+  {
+    "lang": "en",
+    "slug": "bamboo-recipe",
+    "cocktailId": "1268"
+  },
+  {
+    "lang": "es",
+    "slug": "bamboo-receta",
+    "cocktailId": "1268"
+  },
+  {
+    "lang": "it",
+    "slug": "bamboo-ricetta",
+    "cocktailId": "1268"
+  },
+  {
+    "lang": "en",
+    "slug": "batida-recipe",
+    "cocktailId": "1269"
+  },
+  {
+    "lang": "es",
+    "slug": "batida-receta",
+    "cocktailId": "1269"
+  },
+  {
+    "lang": "it",
+    "slug": "batida-ricetta",
+    "cocktailId": "1269"
+  },
+  {
+    "lang": "en",
+    "slug": "blue-lady-recipe",
+    "cocktailId": "1270"
+  },
+  {
+    "lang": "es",
+    "slug": "blue-lady-receta",
+    "cocktailId": "1270"
+  },
+  {
+    "lang": "it",
+    "slug": "blue-lady-ricetta",
+    "cocktailId": "1270"
+  },
+  {
+    "lang": "en",
+    "slug": "brandy-crusta-recipe",
+    "cocktailId": "1272"
+  },
+  {
+    "lang": "es",
+    "slug": "brandy-crusta-receta",
+    "cocktailId": "1272"
+  },
+  {
+    "lang": "it",
+    "slug": "brandy-crusta-ricetta",
+    "cocktailId": "1272"
+  },
+  {
+    "lang": "en",
+    "slug": "cape-codder-recipe",
+    "cocktailId": "1273"
+  },
+  {
+    "lang": "es",
+    "slug": "cape-codder-receta",
+    "cocktailId": "1273"
+  },
+  {
+    "lang": "it",
+    "slug": "cape-codder-ricetta",
+    "cocktailId": "1273"
+  },
+  {
+    "lang": "en",
+    "slug": "tuxedo-recipe",
+    "cocktailId": "1274"
+  },
+  {
+    "lang": "es",
+    "slug": "tuxedo-receta",
+    "cocktailId": "1274"
+  },
+  {
+    "lang": "it",
+    "slug": "tuxedo-ricetta",
+    "cocktailId": "1274"
+  },
+  {
+    "lang": "en",
+    "slug": "black-manhattan-recipe",
+    "cocktailId": "1275"
+  },
+  {
+    "lang": "es",
+    "slug": "black-manhattan-receta",
+    "cocktailId": "1275"
+  },
+  {
+    "lang": "it",
+    "slug": "black-manhattan-ricetta",
+    "cocktailId": "1275"
+  },
+  {
+    "lang": "en",
+    "slug": "full-monte-recipe",
+    "cocktailId": "1276"
+  },
+  {
+    "lang": "es",
+    "slug": "full-monte-receta",
+    "cocktailId": "1276"
+  },
+  {
+    "lang": "it",
+    "slug": "full-monte-ricetta",
+    "cocktailId": "1276"
+  },
+  {
+    "lang": "en",
+    "slug": "bitter-giuseppe-recipe",
+    "cocktailId": "1277"
+  },
+  {
+    "lang": "es",
+    "slug": "bitter-giuseppe-receta",
+    "cocktailId": "1277"
+  },
+  {
+    "lang": "it",
+    "slug": "bitter-giuseppe-ricetta",
+    "cocktailId": "1277"
+  },
+  {
+    "lang": "en",
+    "slug": "tuscan-pear-recipe",
+    "cocktailId": "1278"
+  },
+  {
+    "lang": "es",
+    "slug": "tuscan-pear-receta",
+    "cocktailId": "1278"
+  },
+  {
+    "lang": "it",
+    "slug": "tuscan-pear-ricetta",
+    "cocktailId": "1278"
+  },
+  {
+    "lang": "en",
+    "slug": "zoom-recipe",
+    "cocktailId": "1280"
+  },
+  {
+    "lang": "es",
+    "slug": "zoom-receta",
+    "cocktailId": "1280"
+  },
+  {
+    "lang": "it",
+    "slug": "zoom-ricetta",
+    "cocktailId": "1280"
+  },
+  {
+    "lang": "en",
+    "slug": "dry-martini-recipe",
+    "cocktailId": "1281"
+  },
+  {
+    "lang": "es",
+    "slug": "dry-martini-receta",
+    "cocktailId": "1281"
+  },
+  {
+    "lang": "it",
+    "slug": "dry-martini-ricetta",
+    "cocktailId": "1281"
+  },
+  {
+    "lang": "en",
+    "slug": "california-surfer-recipe",
+    "cocktailId": "1282"
+  },
+  {
+    "lang": "es",
+    "slug": "california-surfer-receta",
+    "cocktailId": "1282"
+  },
+  {
+    "lang": "it",
+    "slug": "california-surfer-ricetta",
+    "cocktailId": "1282"
+  },
+  {
+    "lang": "en",
+    "slug": "vodka-tonic-recipe",
+    "cocktailId": "1283"
+  },
+  {
+    "lang": "es",
+    "slug": "vodka-tonic-receta",
+    "cocktailId": "1283"
+  },
+  {
+    "lang": "it",
+    "slug": "vodka-tonic-ricetta",
+    "cocktailId": "1283"
+  },
+  {
+    "lang": "en",
+    "slug": "chartreuse-martini-recipe",
+    "cocktailId": "1284"
+  },
+  {
+    "lang": "es",
+    "slug": "chartreuse-martini-receta",
+    "cocktailId": "1284"
+  },
+  {
+    "lang": "it",
+    "slug": "chartreuse-martini-ricetta",
+    "cocktailId": "1284"
+  },
+  {
+    "lang": "en",
+    "slug": "apple-jack-recipe",
+    "cocktailId": "1285"
+  },
+  {
+    "lang": "es",
+    "slug": "apple-jack-receta",
+    "cocktailId": "1285"
+  },
+  {
+    "lang": "it",
+    "slug": "apple-jack-ricetta",
+    "cocktailId": "1285"
+  },
+  {
+    "lang": "en",
+    "slug": "trinidad-sour-recipe",
+    "cocktailId": "1286"
+  },
+  {
+    "lang": "es",
+    "slug": "trinidad-sour-receta",
+    "cocktailId": "1286"
+  },
+  {
+    "lang": "it",
+    "slug": "trinidad-sour-ricetta",
+    "cocktailId": "1286"
+  },
+  {
+    "lang": "en",
+    "slug": "lemon-drop-martini-recipe",
+    "cocktailId": "1287"
+  },
+  {
+    "lang": "es",
+    "slug": "lemon-drop-martini-receta",
+    "cocktailId": "1287"
+  },
+  {
+    "lang": "it",
+    "slug": "lemon-drop-martini-ricetta",
+    "cocktailId": "1287"
+  },
+  {
+    "lang": "en",
+    "slug": "lavender-lemonade-recipe",
+    "cocktailId": "1288"
+  },
+  {
+    "lang": "es",
+    "slug": "lavender-lemonade-receta",
+    "cocktailId": "1288"
+  },
+  {
+    "lang": "it",
+    "slug": "lavender-lemonade-ricetta",
+    "cocktailId": "1288"
+  },
+  {
+    "lang": "en",
+    "slug": "abbey-cocktail-recipe",
+    "cocktailId": "1289"
+  },
+  {
+    "lang": "es",
+    "slug": "abbey-cocktail-receta",
+    "cocktailId": "1289"
+  },
+  {
+    "lang": "it",
+    "slug": "abbey-cocktail-ricetta",
+    "cocktailId": "1289"
+  },
+  {
+    "lang": "en",
+    "slug": "addington-recipe",
+    "cocktailId": "1290"
+  },
+  {
+    "lang": "es",
+    "slug": "addington-receta",
+    "cocktailId": "1290"
+  },
+  {
+    "lang": "it",
+    "slug": "addington-ricetta",
+    "cocktailId": "1290"
+  },
+  {
+    "lang": "en",
+    "slug": "tipperary-recipe",
+    "cocktailId": "1291"
+  },
+  {
+    "lang": "es",
+    "slug": "tipperary-receta",
+    "cocktailId": "1291"
+  },
+  {
+    "lang": "it",
+    "slug": "tipperary-ricetta",
+    "cocktailId": "1291"
+  },
+  {
+    "lang": "en",
+    "slug": "alaska-recipe",
+    "cocktailId": "1292"
+  },
+  {
+    "lang": "es",
+    "slug": "alaska-receta",
+    "cocktailId": "1292"
+  },
+  {
+    "lang": "it",
+    "slug": "alaska-ricetta",
+    "cocktailId": "1292"
+  },
+  {
+    "lang": "en",
+    "slug": "cynar-negroni-recipe",
+    "cocktailId": "1293"
+  },
+  {
+    "lang": "es",
+    "slug": "cynar-negroni-receta",
+    "cocktailId": "1293"
+  },
+  {
+    "lang": "it",
+    "slug": "cynar-negroni-ricetta",
+    "cocktailId": "1293"
+  },
+  {
+    "lang": "en",
+    "slug": "affinity-recipe",
+    "cocktailId": "1294"
+  },
+  {
+    "lang": "es",
+    "slug": "affinity-receta",
+    "cocktailId": "1294"
+  },
+  {
+    "lang": "it",
+    "slug": "affinity-ricetta",
+    "cocktailId": "1294"
+  },
+  {
+    "lang": "en",
+    "slug": "bacardi-recipe",
+    "cocktailId": "1295"
+  },
+  {
+    "lang": "es",
+    "slug": "bacardi-receta",
+    "cocktailId": "1295"
+  },
+  {
+    "lang": "it",
+    "slug": "bacardi-ricetta",
+    "cocktailId": "1295"
+  },
+  {
+    "lang": "en",
+    "slug": "bobby-burns-recipe",
+    "cocktailId": "1296"
+  },
+  {
+    "lang": "es",
+    "slug": "bobby-burns-receta",
+    "cocktailId": "1296"
+  },
+  {
+    "lang": "it",
+    "slug": "bobby-burns-ricetta",
+    "cocktailId": "1296"
+  },
+  {
+    "lang": "en",
+    "slug": "brandy-fix-recipe",
+    "cocktailId": "1297"
+  },
+  {
+    "lang": "es",
+    "slug": "brandy-fix-receta",
+    "cocktailId": "1297"
+  },
+  {
+    "lang": "it",
+    "slug": "brandy-fix-ricetta",
+    "cocktailId": "1297"
+  },
+  {
+    "lang": "en",
+    "slug": "between-the-sheets-recipe",
+    "cocktailId": "1298"
+  },
+  {
+    "lang": "es",
+    "slug": "between-the-sheets-receta",
+    "cocktailId": "1298"
+  },
+  {
+    "lang": "it",
+    "slug": "between-the-sheets-ricetta",
+    "cocktailId": "1298"
+  },
+  {
+    "lang": "en",
+    "slug": "bloody-cesar-recipe",
+    "cocktailId": "1299"
+  },
+  {
+    "lang": "es",
+    "slug": "bloody-cesar-receta",
+    "cocktailId": "1299"
+  },
+  {
+    "lang": "it",
+    "slug": "bloody-cesar-ricetta",
+    "cocktailId": "1299"
+  },
+  {
+    "lang": "en",
+    "slug": "20th-century-recipe",
+    "cocktailId": "1300"
+  },
+  {
+    "lang": "es",
+    "slug": "20th-century-receta",
+    "cocktailId": "1300"
+  },
+  {
+    "lang": "it",
+    "slug": "20th-century-ricetta",
+    "cocktailId": "1300"
+  },
+  {
+    "lang": "en",
+    "slug": "alabama-slammer-recipe",
+    "cocktailId": "1301"
+  },
+  {
+    "lang": "es",
+    "slug": "alabama-slammer-receta",
+    "cocktailId": "1301"
+  },
+  {
+    "lang": "it",
+    "slug": "alabama-slammer-ricetta",
+    "cocktailId": "1301"
+  },
+  {
+    "lang": "en",
+    "slug": "aperol-spritz-recipe",
+    "cocktailId": "1302"
+  },
+  {
+    "lang": "es",
+    "slug": "aperol-spritz-receta",
+    "cocktailId": "1302"
+  },
+  {
+    "lang": "it",
+    "slug": "aperol-spritz-ricetta",
+    "cocktailId": "1302"
+  },
+  {
+    "lang": "en",
+    "slug": "bay-breeze-recipe",
+    "cocktailId": "1303"
+  },
+  {
+    "lang": "es",
+    "slug": "bay-breeze-receta",
+    "cocktailId": "1303"
+  },
+  {
+    "lang": "it",
+    "slug": "bay-breeze-ricetta",
+    "cocktailId": "1303"
+  },
+  {
+    "lang": "en",
+    "slug": "blood-&-sand-recipe",
+    "cocktailId": "1304"
+  },
+  {
+    "lang": "es",
+    "slug": "blood-&-sand-receta",
+    "cocktailId": "1304"
+  },
+  {
+    "lang": "it",
+    "slug": "blood-&-sand-ricetta",
+    "cocktailId": "1304"
+  },
+  {
+    "lang": "en",
+    "slug": "blue-hawaiian-recipe",
+    "cocktailId": "1305"
+  },
+  {
+    "lang": "es",
+    "slug": "blue-hawaiian-receta",
+    "cocktailId": "1305"
+  },
+  {
+    "lang": "it",
+    "slug": "blue-hawaiian-ricetta",
+    "cocktailId": "1305"
+  },
+  {
+    "lang": "en",
+    "slug": "greyhound-recipe",
+    "cocktailId": "1306"
+  },
+  {
+    "lang": "es",
+    "slug": "greyhound-receta",
+    "cocktailId": "1306"
+  },
+  {
+    "lang": "it",
+    "slug": "greyhound-ricetta",
+    "cocktailId": "1306"
+  },
+  {
+    "lang": "en",
+    "slug": "honeymoon-recipe",
+    "cocktailId": "1307"
+  },
+  {
+    "lang": "es",
+    "slug": "honeymoon-receta",
+    "cocktailId": "1307"
+  },
+  {
+    "lang": "it",
+    "slug": "honeymoon-ricetta",
+    "cocktailId": "1307"
+  },
+  {
+    "lang": "en",
+    "slug": "porto-flip-recipe",
+    "cocktailId": "1308"
+  },
+  {
+    "lang": "es",
+    "slug": "porto-flip-receta",
+    "cocktailId": "1308"
+  },
+  {
+    "lang": "it",
+    "slug": "porto-flip-ricetta",
+    "cocktailId": "1308"
+  },
+  {
+    "lang": "en",
+    "slug": "horse's-neck-recipe",
+    "cocktailId": "1309"
+  },
+  {
+    "lang": "es",
+    "slug": "horse's-neck-receta",
+    "cocktailId": "1309"
+  },
+  {
+    "lang": "it",
+    "slug": "horse's-neck-ricetta",
+    "cocktailId": "1309"
+  },
+  {
+    "lang": "en",
+    "slug": "hurricane-recipe",
+    "cocktailId": "1310"
+  },
+  {
+    "lang": "es",
+    "slug": "hurricane-receta",
+    "cocktailId": "1310"
+  },
+  {
+    "lang": "it",
+    "slug": "hurricane-ricetta",
+    "cocktailId": "1310"
+  },
+  {
+    "lang": "en",
+    "slug": "jack-rose-recipe",
+    "cocktailId": "1311"
+  },
+  {
+    "lang": "es",
+    "slug": "jack-rose-receta",
+    "cocktailId": "1311"
+  },
+  {
+    "lang": "it",
+    "slug": "jack-rose-ricetta",
+    "cocktailId": "1311"
+  },
+  {
+    "lang": "en",
+    "slug": "john-collins-recipe",
+    "cocktailId": "1312"
+  },
+  {
+    "lang": "es",
+    "slug": "john-collins-receta",
+    "cocktailId": "1312"
+  },
+  {
+    "lang": "it",
+    "slug": "john-collins-ricetta",
+    "cocktailId": "1312"
+  },
+  {
+    "lang": "en",
+    "slug": "last-word-recipe",
+    "cocktailId": "1313"
+  },
+  {
+    "lang": "es",
+    "slug": "last-word-receta",
+    "cocktailId": "1313"
+  },
+  {
+    "lang": "it",
+    "slug": "last-word-ricetta",
+    "cocktailId": "1313"
+  },
+  {
+    "lang": "en",
+    "slug": "madras-recipe",
+    "cocktailId": "1314"
+  },
+  {
+    "lang": "es",
+    "slug": "madras-receta",
+    "cocktailId": "1314"
+  },
+  {
+    "lang": "it",
+    "slug": "madras-ricetta",
+    "cocktailId": "1314"
+  },
+  {
+    "lang": "en",
+    "slug": "matador-recipe",
+    "cocktailId": "1315"
+  },
+  {
+    "lang": "es",
+    "slug": "matador-receta",
+    "cocktailId": "1315"
+  },
+  {
+    "lang": "it",
+    "slug": "matador-ricetta",
+    "cocktailId": "1315"
+  },
+  {
+    "lang": "en",
+    "slug": "mountain-recipe",
+    "cocktailId": "1316"
+  },
+  {
+    "lang": "es",
+    "slug": "mountain-receta",
+    "cocktailId": "1316"
+  },
+  {
+    "lang": "it",
+    "slug": "mountain-ricetta",
+    "cocktailId": "1316"
+  },
+  {
+    "lang": "en",
+    "slug": "olympic-recipe",
+    "cocktailId": "1317"
+  },
+  {
+    "lang": "es",
+    "slug": "olympic-receta",
+    "cocktailId": "1317"
+  },
+  {
+    "lang": "it",
+    "slug": "olympic-ricetta",
+    "cocktailId": "1317"
+  },
+  {
+    "lang": "en",
+    "slug": "oriental-recipe",
+    "cocktailId": "1318"
+  },
+  {
+    "lang": "es",
+    "slug": "oriental-receta",
+    "cocktailId": "1318"
+  },
+  {
+    "lang": "it",
+    "slug": "oriental-ricetta",
+    "cocktailId": "1318"
+  },
+  {
+    "lang": "en",
+    "slug": "paradise-recipe",
+    "cocktailId": "1319"
+  },
+  {
+    "lang": "es",
+    "slug": "paradise-receta",
+    "cocktailId": "1319"
+  },
+  {
+    "lang": "it",
+    "slug": "paradise-ricetta",
+    "cocktailId": "1319"
+  },
+  {
+    "lang": "en",
+    "slug": "pearl-harbor-recipe",
+    "cocktailId": "1320"
+  },
+  {
+    "lang": "es",
+    "slug": "pearl-harbor-receta",
+    "cocktailId": "1320"
+  },
+  {
+    "lang": "it",
+    "slug": "pearl-harbor-ricetta",
+    "cocktailId": "1320"
+  },
+  {
+    "lang": "en",
+    "slug": "salty-dog-recipe",
+    "cocktailId": "1321"
+  },
+  {
+    "lang": "es",
+    "slug": "salty-dog-receta",
+    "cocktailId": "1321"
+  },
+  {
+    "lang": "it",
+    "slug": "salty-dog-ricetta",
+    "cocktailId": "1321"
+  },
+  {
+    "lang": "en",
+    "slug": "scotch-&-soda-recipe",
+    "cocktailId": "1322"
+  },
+  {
+    "lang": "es",
+    "slug": "scotch-&-soda-receta",
+    "cocktailId": "1322"
+  },
+  {
+    "lang": "it",
+    "slug": "scotch-&-soda-ricetta",
+    "cocktailId": "1322"
+  },
+  {
+    "lang": "en",
+    "slug": "shamrock-recipe",
+    "cocktailId": "1323"
+  },
+  {
+    "lang": "es",
+    "slug": "shamrock-receta",
+    "cocktailId": "1323"
+  },
+  {
+    "lang": "it",
+    "slug": "shamrock-ricetta",
+    "cocktailId": "1323"
+  },
+  {
+    "lang": "en",
+    "slug": "shirley-temple-recipe",
+    "cocktailId": "1324"
+  },
+  {
+    "lang": "es",
+    "slug": "shirley-temple-receta",
+    "cocktailId": "1324"
+  },
+  {
+    "lang": "it",
+    "slug": "shirley-temple-ricetta",
+    "cocktailId": "1324"
+  },
+  {
+    "lang": "en",
+    "slug": "silver-bullet-recipe",
+    "cocktailId": "1325"
+  },
+  {
+    "lang": "es",
+    "slug": "silver-bullet-receta",
+    "cocktailId": "1325"
+  },
+  {
+    "lang": "it",
+    "slug": "silver-bullet-ricetta",
+    "cocktailId": "1325"
+  },
+  {
+    "lang": "en",
+    "slug": "smoky-martini-recipe",
+    "cocktailId": "1326"
+  },
+  {
+    "lang": "es",
+    "slug": "smoky-martini-receta",
+    "cocktailId": "1326"
+  },
+  {
+    "lang": "it",
+    "slug": "smoky-martini-ricetta",
+    "cocktailId": "1326"
+  },
+  {
+    "lang": "en",
+    "slug": "campari-spritz-recipe",
+    "cocktailId": "1327"
+  },
+  {
+    "lang": "es",
+    "slug": "campari-spritz-receta",
+    "cocktailId": "1327"
+  },
+  {
+    "lang": "it",
+    "slug": "campari-spritz-ricetta",
+    "cocktailId": "1327"
+  },
+  {
+    "lang": "en",
+    "slug": "campari-soda-recipe",
+    "cocktailId": "1328"
+  },
+  {
+    "lang": "es",
+    "slug": "campari-soda-receta",
+    "cocktailId": "1328"
+  },
+  {
+    "lang": "it",
+    "slug": "campari-soda-ricetta",
+    "cocktailId": "1328"
+  },
+  {
+    "lang": "en",
+    "slug": "milano-torino-(mi-to)-recipe",
+    "cocktailId": "1329"
+  },
+  {
+    "lang": "es",
+    "slug": "milano-torino-(mi-to)-receta",
+    "cocktailId": "1329"
+  },
+  {
+    "lang": "it",
+    "slug": "milano-torino-(mi-to)-ricetta",
+    "cocktailId": "1329"
+  },
+  {
+    "lang": "en",
+    "slug": "hemingway-daiquiri-recipe",
+    "cocktailId": "1330"
+  },
+  {
+    "lang": "es",
+    "slug": "hemingway-daiquiri-receta",
+    "cocktailId": "1330"
+  },
+  {
+    "lang": "it",
+    "slug": "hemingway-daiquiri-ricetta",
+    "cocktailId": "1330"
+  },
+  {
+    "lang": "en",
+    "slug": "mary-pickford-recipe",
+    "cocktailId": "1331"
+  },
+  {
+    "lang": "es",
+    "slug": "mary-pickford-receta",
+    "cocktailId": "1331"
+  },
+  {
+    "lang": "it",
+    "slug": "mary-pickford-ricetta",
+    "cocktailId": "1331"
+  },
+  {
+    "lang": "en",
+    "slug": "southside-recipe",
+    "cocktailId": "1332"
+  },
+  {
+    "lang": "es",
+    "slug": "southside-receta",
+    "cocktailId": "1332"
+  },
+  {
+    "lang": "it",
+    "slug": "southside-ricetta",
+    "cocktailId": "1332"
+  },
+  {
+    "lang": "en",
+    "slug": "ward-eight-recipe",
+    "cocktailId": "1333"
+  },
+  {
+    "lang": "es",
+    "slug": "ward-eight-receta",
+    "cocktailId": "1333"
+  },
+  {
+    "lang": "it",
+    "slug": "ward-eight-ricetta",
+    "cocktailId": "1333"
+  },
+  {
+    "lang": "en",
+    "slug": "closing-argument-recipe",
+    "cocktailId": "1334"
+  },
+  {
+    "lang": "es",
+    "slug": "closing-argument-receta",
+    "cocktailId": "1334"
+  },
+  {
+    "lang": "it",
+    "slug": "closing-argument-ricetta",
+    "cocktailId": "1334"
+  },
+  {
+    "lang": "en",
+    "slug": "mezcal-negroni-recipe",
+    "cocktailId": "1335"
+  },
+  {
+    "lang": "es",
+    "slug": "mezcal-negroni-receta",
+    "cocktailId": "1335"
+  },
+  {
+    "lang": "it",
+    "slug": "mezcal-negroni-ricetta",
+    "cocktailId": "1335"
+  },
+  {
+    "lang": "en",
+    "slug": "derby-recipe",
+    "cocktailId": "1336"
+  },
+  {
+    "lang": "es",
+    "slug": "derby-receta",
+    "cocktailId": "1336"
+  },
+  {
+    "lang": "it",
+    "slug": "derby-ricetta",
+    "cocktailId": "1336"
+  },
+  {
+    "lang": "en",
+    "slug": "long-island-iced-tea-recipe",
+    "cocktailId": "1337"
+  },
+  {
+    "lang": "es",
+    "slug": "long-island-iced-tea-receta",
+    "cocktailId": "1337"
+  },
+  {
+    "lang": "it",
+    "slug": "long-island-iced-tea-ricetta",
+    "cocktailId": "1337"
+  },
+  {
+    "lang": "en",
+    "slug": "monkey-gland-recipe",
+    "cocktailId": "1338"
+  },
+  {
+    "lang": "es",
+    "slug": "monkey-gland-receta",
+    "cocktailId": "1338"
+  },
+  {
+    "lang": "it",
+    "slug": "monkey-gland-ricetta",
+    "cocktailId": "1338"
+  },
+  {
+    "lang": "en",
+    "slug": "poinsettia-recipe",
+    "cocktailId": "1339"
+  },
+  {
+    "lang": "es",
+    "slug": "poinsettia-receta",
+    "cocktailId": "1339"
+  },
+  {
+    "lang": "it",
+    "slug": "poinsettia-ricetta",
+    "cocktailId": "1339"
+  },
+  {
+    "lang": "en",
+    "slug": "gibson-recipe",
+    "cocktailId": "1340"
+  },
+  {
+    "lang": "es",
+    "slug": "gibson-receta",
+    "cocktailId": "1340"
+  },
+  {
+    "lang": "it",
+    "slug": "gibson-ricetta",
+    "cocktailId": "1340"
+  },
+  {
+    "lang": "en",
+    "slug": "dubliner-recipe",
+    "cocktailId": "1341"
+  },
+  {
+    "lang": "es",
+    "slug": "dubliner-receta",
+    "cocktailId": "1341"
+  },
+  {
+    "lang": "it",
+    "slug": "dubliner-ricetta",
+    "cocktailId": "1341"
+  },
+  {
+    "lang": "en",
+    "slug": "kangaroo-recipe",
+    "cocktailId": "1342"
+  },
+  {
+    "lang": "es",
+    "slug": "kangaroo-receta",
+    "cocktailId": "1342"
+  },
+  {
+    "lang": "it",
+    "slug": "kangaroo-ricetta",
+    "cocktailId": "1342"
+  },
+  {
+    "lang": "en",
+    "slug": "air-mail-recipe",
+    "cocktailId": "1343"
+  },
+  {
+    "lang": "es",
+    "slug": "air-mail-receta",
+    "cocktailId": "1343"
+  },
+  {
+    "lang": "it",
+    "slug": "air-mail-ricetta",
+    "cocktailId": "1343"
+  },
+  {
+    "lang": "en",
+    "slug": "beachcomber-recipe",
+    "cocktailId": "1344"
+  },
+  {
+    "lang": "es",
+    "slug": "beachcomber-receta",
+    "cocktailId": "1344"
+  },
+  {
+    "lang": "it",
+    "slug": "beachcomber-ricetta",
+    "cocktailId": "1344"
+  },
+  {
+    "lang": "en",
+    "slug": "bermuda-triangle-recipe",
+    "cocktailId": "1345"
+  },
+  {
+    "lang": "es",
+    "slug": "bermuda-triangle-receta",
+    "cocktailId": "1345"
+  },
+  {
+    "lang": "it",
+    "slug": "bermuda-triangle-ricetta",
+    "cocktailId": "1345"
+  },
+  {
+    "lang": "en",
+    "slug": "chupa-cabra-recipe",
+    "cocktailId": "1346"
+  },
+  {
+    "lang": "es",
+    "slug": "chupa-cabra-receta",
+    "cocktailId": "1346"
+  },
+  {
+    "lang": "it",
+    "slug": "chupa-cabra-ricetta",
+    "cocktailId": "1346"
+  },
+  {
+    "lang": "en",
+    "slug": "rosita-recipe",
+    "cocktailId": "1347"
+  },
+  {
+    "lang": "es",
+    "slug": "rosita-receta",
+    "cocktailId": "1347"
+  },
+  {
+    "lang": "it",
+    "slug": "rosita-ricetta",
+    "cocktailId": "1347"
+  },
+  {
+    "lang": "en",
+    "slug": "paloma-recipe",
+    "cocktailId": "1348"
+  },
+  {
+    "lang": "es",
+    "slug": "paloma-receta",
+    "cocktailId": "1348"
+  },
+  {
+    "lang": "it",
+    "slug": "paloma-ricetta",
+    "cocktailId": "1348"
+  },
+  {
+    "lang": "en",
+    "slug": "tequila-sour-recipe",
+    "cocktailId": "1349"
+  },
+  {
+    "lang": "es",
+    "slug": "tequila-sour-receta",
+    "cocktailId": "1349"
+  },
+  {
+    "lang": "it",
+    "slug": "tequila-sour-ricetta",
+    "cocktailId": "1349"
+  },
+  {
+    "lang": "en",
+    "slug": "chapala-recipe",
+    "cocktailId": "1350"
+  },
+  {
+    "lang": "es",
+    "slug": "chapala-receta",
+    "cocktailId": "1350"
+  },
+  {
+    "lang": "it",
+    "slug": "chapala-ricetta",
+    "cocktailId": "1350"
+  },
+  {
+    "lang": "en",
+    "slug": "mexicana-recipe",
+    "cocktailId": "1351"
+  },
+  {
+    "lang": "es",
+    "slug": "mexicana-receta",
+    "cocktailId": "1351"
+  },
+  {
+    "lang": "it",
+    "slug": "mexicana-ricetta",
+    "cocktailId": "1351"
+  },
+  {
+    "lang": "en",
+    "slug": "cactus-berry-recipe",
+    "cocktailId": "1352"
+  },
+  {
+    "lang": "es",
+    "slug": "cactus-berry-receta",
+    "cocktailId": "1352"
+  },
+  {
+    "lang": "it",
+    "slug": "cactus-berry-ricetta",
+    "cocktailId": "1352"
+  },
+  {
+    "lang": "en",
+    "slug": "diplomat-recipe",
+    "cocktailId": "1353"
+  },
+  {
+    "lang": "es",
+    "slug": "diplomat-receta",
+    "cocktailId": "1353"
+  },
+  {
+    "lang": "it",
+    "slug": "diplomat-ricetta",
+    "cocktailId": "1353"
+  },
+  {
+    "lang": "en",
+    "slug": "stupid-cupid-recipe",
+    "cocktailId": "1354"
+  },
+  {
+    "lang": "es",
+    "slug": "stupid-cupid-receta",
+    "cocktailId": "1354"
+  },
+  {
+    "lang": "it",
+    "slug": "stupid-cupid-ricetta",
+    "cocktailId": "1354"
+  },
+  {
+    "lang": "en",
+    "slug": "vodka-sour-recipe",
+    "cocktailId": "1355"
+  },
+  {
+    "lang": "es",
+    "slug": "vodka-sour-receta",
+    "cocktailId": "1355"
+  },
+  {
+    "lang": "it",
+    "slug": "vodka-sour-ricetta",
+    "cocktailId": "1355"
+  },
+  {
+    "lang": "en",
+    "slug": "vodka-sling-recipe",
+    "cocktailId": "1356"
+  },
+  {
+    "lang": "es",
+    "slug": "vodka-sling-receta",
+    "cocktailId": "1356"
+  },
+  {
+    "lang": "it",
+    "slug": "vodka-sling-ricetta",
+    "cocktailId": "1356"
+  },
+  {
+    "lang": "en",
+    "slug": "bikini-martini-recipe",
+    "cocktailId": "1357"
+  },
+  {
+    "lang": "es",
+    "slug": "bikini-martini-receta",
+    "cocktailId": "1357"
+  },
+  {
+    "lang": "it",
+    "slug": "bikini-martini-ricetta",
+    "cocktailId": "1357"
+  },
+  {
+    "lang": "en",
+    "slug": "frisky-whiskey-recipe",
+    "cocktailId": "1358"
+  },
+  {
+    "lang": "es",
+    "slug": "frisky-whiskey-receta",
+    "cocktailId": "1358"
+  },
+  {
+    "lang": "it",
+    "slug": "frisky-whiskey-ricetta",
+    "cocktailId": "1358"
+  },
+  {
+    "lang": "en",
+    "slug": "sunshine-recipe",
+    "cocktailId": "1359"
+  },
+  {
+    "lang": "es",
+    "slug": "sunshine-receta",
+    "cocktailId": "1359"
+  },
+  {
+    "lang": "it",
+    "slug": "sunshine-ricetta",
+    "cocktailId": "1359"
+  },
+  {
+    "lang": "en",
+    "slug": "webster-martini-recipe",
+    "cocktailId": "1360"
+  },
+  {
+    "lang": "es",
+    "slug": "webster-martini-receta",
+    "cocktailId": "1360"
+  },
+  {
+    "lang": "it",
+    "slug": "webster-martini-ricetta",
+    "cocktailId": "1360"
+  },
+  {
+    "lang": "en",
+    "slug": "brandy-daisy-recipe",
+    "cocktailId": "1361"
+  },
+  {
+    "lang": "es",
+    "slug": "brandy-daisy-receta",
+    "cocktailId": "1361"
+  },
+  {
+    "lang": "it",
+    "slug": "brandy-daisy-ricetta",
+    "cocktailId": "1361"
+  },
+  {
+    "lang": "en",
+    "slug": "brandy-cobbler-recipe",
+    "cocktailId": "1362"
+  },
+  {
+    "lang": "es",
+    "slug": "brandy-cobbler-receta",
+    "cocktailId": "1362"
+  },
+  {
+    "lang": "it",
+    "slug": "brandy-cobbler-ricetta",
+    "cocktailId": "1362"
+  },
+  {
+    "lang": "en",
+    "slug": "moonlight-recipe",
+    "cocktailId": "1363"
+  },
+  {
+    "lang": "es",
+    "slug": "moonlight-receta",
+    "cocktailId": "1363"
+  },
+  {
+    "lang": "it",
+    "slug": "moonlight-ricetta",
+    "cocktailId": "1363"
+  },
+  {
+    "lang": "en",
+    "slug": "whip-recipe",
+    "cocktailId": "1364"
+  },
+  {
+    "lang": "es",
+    "slug": "whip-receta",
+    "cocktailId": "1364"
+  },
+  {
+    "lang": "it",
+    "slug": "whip-ricetta",
+    "cocktailId": "1364"
+  },
+  {
+    "lang": "en",
+    "slug": "el-presidente-recipe",
+    "cocktailId": "1365"
+  },
+  {
+    "lang": "es",
+    "slug": "el-presidente-receta",
+    "cocktailId": "1365"
+  },
+  {
+    "lang": "it",
+    "slug": "el-presidente-ricetta",
+    "cocktailId": "1365"
+  },
+  {
+    "lang": "en",
+    "slug": "rum-collins-recipe",
+    "cocktailId": "1366"
+  },
+  {
+    "lang": "es",
+    "slug": "rum-collins-receta",
+    "cocktailId": "1366"
+  },
+  {
+    "lang": "it",
+    "slug": "rum-collins-ricetta",
+    "cocktailId": "1366"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-and-sin-recipe",
+    "cocktailId": "1367"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-and-sin-receta",
+    "cocktailId": "1367"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-and-sin-ricetta",
+    "cocktailId": "1367"
+  },
+  {
+    "lang": "en",
+    "slug": "rum-sour-recipe",
+    "cocktailId": "1368"
+  },
+  {
+    "lang": "es",
+    "slug": "rum-sour-receta",
+    "cocktailId": "1368"
+  },
+  {
+    "lang": "it",
+    "slug": "rum-sour-ricetta",
+    "cocktailId": "1368"
+  },
+  {
+    "lang": "en",
+    "slug": "whiskey-fix-recipe",
+    "cocktailId": "1369"
+  },
+  {
+    "lang": "es",
+    "slug": "whiskey-fix-receta",
+    "cocktailId": "1369"
+  },
+  {
+    "lang": "it",
+    "slug": "whiskey-fix-ricetta",
+    "cocktailId": "1369"
+  },
+  {
+    "lang": "en",
+    "slug": "jasmine-recipe",
+    "cocktailId": "1370"
+  },
+  {
+    "lang": "es",
+    "slug": "jasmine-receta",
+    "cocktailId": "1370"
+  },
+  {
+    "lang": "it",
+    "slug": "jasmine-ricetta",
+    "cocktailId": "1370"
+  },
+  {
+    "lang": "en",
+    "slug": "orange-martini-recipe",
+    "cocktailId": "1371"
+  },
+  {
+    "lang": "es",
+    "slug": "orange-martini-receta",
+    "cocktailId": "1371"
+  },
+  {
+    "lang": "it",
+    "slug": "orange-martini-ricetta",
+    "cocktailId": "1371"
+  },
+  {
+    "lang": "en",
+    "slug": "apricot-lady-recipe",
+    "cocktailId": "1372"
+  },
+  {
+    "lang": "es",
+    "slug": "apricot-lady-receta",
+    "cocktailId": "1372"
+  },
+  {
+    "lang": "it",
+    "slug": "apricot-lady-ricetta",
+    "cocktailId": "1372"
+  },
+  {
+    "lang": "en",
+    "slug": "flirtini-recipe",
+    "cocktailId": "1373"
+  },
+  {
+    "lang": "es",
+    "slug": "flirtini-receta",
+    "cocktailId": "1373"
+  },
+  {
+    "lang": "it",
+    "slug": "flirtini-ricetta",
+    "cocktailId": "1373"
+  },
+  {
+    "lang": "en",
+    "slug": "tequila-soda-recipe",
+    "cocktailId": "1374"
+  },
+  {
+    "lang": "es",
+    "slug": "tequila-soda-receta",
+    "cocktailId": "1374"
+  },
+  {
+    "lang": "it",
+    "slug": "tequila-soda-ricetta",
+    "cocktailId": "1374"
+  },
+  {
+    "lang": "en",
+    "slug": "bramble-recipe",
+    "cocktailId": "1375"
+  },
+  {
+    "lang": "es",
+    "slug": "bramble-receta",
+    "cocktailId": "1375"
+  },
+  {
+    "lang": "it",
+    "slug": "bramble-ricetta",
+    "cocktailId": "1375"
+  },
+  {
+    "lang": "en",
+    "slug": "dark-&-stormy-recipe",
+    "cocktailId": "1376"
+  },
+  {
+    "lang": "es",
+    "slug": "dark-&-stormy-receta",
+    "cocktailId": "1376"
+  },
+  {
+    "lang": "it",
+    "slug": "dark-&-stormy-ricetta",
+    "cocktailId": "1376"
+  },
+  {
+    "lang": "en",
+    "slug": "vampiro-recipe",
+    "cocktailId": "1377"
+  },
+  {
+    "lang": "es",
+    "slug": "vampiro-receta",
+    "cocktailId": "1377"
+  },
+  {
+    "lang": "it",
+    "slug": "vampiro-ricetta",
+    "cocktailId": "1377"
+  },
+  {
+    "lang": "en",
+    "slug": "harvey-wallbanger-recipe",
+    "cocktailId": "1378"
+  },
+  {
+    "lang": "es",
+    "slug": "harvey-wallbanger-receta",
+    "cocktailId": "1378"
+  },
+  {
+    "lang": "it",
+    "slug": "harvey-wallbanger-ricetta",
+    "cocktailId": "1378"
+  },
+  {
+    "lang": "en",
+    "slug": "clover-club-recipe",
+    "cocktailId": "1379"
+  },
+  {
+    "lang": "es",
+    "slug": "clover-club-receta",
+    "cocktailId": "1379"
+  },
+  {
+    "lang": "it",
+    "slug": "clover-club-ricetta",
+    "cocktailId": "1379"
+  },
+  {
+    "lang": "en",
+    "slug": "bicicletta-recipe",
+    "cocktailId": "1380"
+  },
+  {
+    "lang": "es",
+    "slug": "bicicletta-receta",
+    "cocktailId": "1380"
+  },
+  {
+    "lang": "it",
+    "slug": "bicicletta-ricetta",
+    "cocktailId": "1380"
+  },
+  {
+    "lang": "en",
+    "slug": "cantaritos-recipe",
+    "cocktailId": "1381"
+  },
+  {
+    "lang": "es",
+    "slug": "cantaritos-receta",
+    "cocktailId": "1381"
+  },
+  {
+    "lang": "it",
+    "slug": "cantaritos-ricetta",
+    "cocktailId": "1381"
+  },
+  {
+    "lang": "en",
+    "slug": "mikado-recipe",
+    "cocktailId": "1382"
+  },
+  {
+    "lang": "es",
+    "slug": "mikado-receta",
+    "cocktailId": "1382"
+  },
+  {
+    "lang": "it",
+    "slug": "mikado-ricetta",
+    "cocktailId": "1382"
+  },
+  {
+    "lang": "en",
+    "slug": "millionaire-recipe",
+    "cocktailId": "1383"
+  },
+  {
+    "lang": "es",
+    "slug": "millionaire-receta",
+    "cocktailId": "1383"
+  },
+  {
+    "lang": "it",
+    "slug": "millionaire-ricetta",
+    "cocktailId": "1383"
+  },
+  {
+    "lang": "en",
+    "slug": "old-gal-recipe",
+    "cocktailId": "1384"
+  },
+  {
+    "lang": "es",
+    "slug": "old-gal-receta",
+    "cocktailId": "1384"
+  },
+  {
+    "lang": "it",
+    "slug": "old-gal-ricetta",
+    "cocktailId": "1384"
+  },
+  {
+    "lang": "en",
+    "slug": "duchess-recipe",
+    "cocktailId": "1385"
+  },
+  {
+    "lang": "es",
+    "slug": "duchess-receta",
+    "cocktailId": "1385"
+  },
+  {
+    "lang": "it",
+    "slug": "duchess-ricetta",
+    "cocktailId": "1385"
+  },
+  {
+    "lang": "en",
+    "slug": "pink-gin-recipe",
+    "cocktailId": "1386"
+  },
+  {
+    "lang": "es",
+    "slug": "pink-gin-receta",
+    "cocktailId": "1386"
+  },
+  {
+    "lang": "it",
+    "slug": "pink-gin-ricetta",
+    "cocktailId": "1386"
+  },
+  {
+    "lang": "en",
+    "slug": "aqueduct-recipe",
+    "cocktailId": "1387"
+  },
+  {
+    "lang": "es",
+    "slug": "aqueduct-receta",
+    "cocktailId": "1387"
+  },
+  {
+    "lang": "it",
+    "slug": "aqueduct-ricetta",
+    "cocktailId": "1387"
+  },
+  {
+    "lang": "en",
+    "slug": "picasso-recipe",
+    "cocktailId": "1388"
+  },
+  {
+    "lang": "es",
+    "slug": "picasso-receta",
+    "cocktailId": "1388"
+  },
+  {
+    "lang": "it",
+    "slug": "picasso-ricetta",
+    "cocktailId": "1388"
+  },
+  {
+    "lang": "en",
+    "slug": "scotch-lady-recipe",
+    "cocktailId": "1389"
+  },
+  {
+    "lang": "es",
+    "slug": "scotch-lady-receta",
+    "cocktailId": "1389"
+  },
+  {
+    "lang": "it",
+    "slug": "scotch-lady-ricetta",
+    "cocktailId": "1389"
+  },
+  {
+    "lang": "en",
+    "slug": "banana-bomber-recipe",
+    "cocktailId": "1390"
+  },
+  {
+    "lang": "es",
+    "slug": "banana-bomber-receta",
+    "cocktailId": "1390"
+  },
+  {
+    "lang": "it",
+    "slug": "banana-bomber-ricetta",
+    "cocktailId": "1390"
+  },
+  {
+    "lang": "en",
+    "slug": "kamikaze-shot-recipe",
+    "cocktailId": "1391"
+  },
+  {
+    "lang": "es",
+    "slug": "kamikaze-shot-receta",
+    "cocktailId": "1391"
+  },
+  {
+    "lang": "it",
+    "slug": "kamikaze-shot-ricetta",
+    "cocktailId": "1391"
+  },
+  {
+    "lang": "en",
+    "slug": "woo-woo-recipe",
+    "cocktailId": "1392"
+  },
+  {
+    "lang": "es",
+    "slug": "woo-woo-receta",
+    "cocktailId": "1392"
+  },
+  {
+    "lang": "it",
+    "slug": "woo-woo-ricetta",
+    "cocktailId": "1392"
+  },
+  {
+    "lang": "en",
+    "slug": "whiskey-smash-recipe",
+    "cocktailId": "1393"
+  },
+  {
+    "lang": "es",
+    "slug": "whiskey-smash-receta",
+    "cocktailId": "1393"
+  },
+  {
+    "lang": "it",
+    "slug": "whiskey-smash-ricetta",
+    "cocktailId": "1393"
+  },
+  {
+    "lang": "en",
+    "slug": "french-76-recipe",
+    "cocktailId": "1394"
+  },
+  {
+    "lang": "es",
+    "slug": "french-76-receta",
+    "cocktailId": "1394"
+  },
+  {
+    "lang": "it",
+    "slug": "french-76-ricetta",
+    "cocktailId": "1394"
+  },
+  {
+    "lang": "en",
+    "slug": "san-francisco-recipe",
+    "cocktailId": "1395"
+  },
+  {
+    "lang": "es",
+    "slug": "san-francisco-receta",
+    "cocktailId": "1395"
+  },
+  {
+    "lang": "it",
+    "slug": "san-francisco-ricetta",
+    "cocktailId": "1395"
+  },
+  {
+    "lang": "en",
+    "slug": "orgasm-recipe",
+    "cocktailId": "1396"
+  },
+  {
+    "lang": "es",
+    "slug": "orgasm-receta",
+    "cocktailId": "1396"
+  },
+  {
+    "lang": "it",
+    "slug": "orgasm-ricetta",
+    "cocktailId": "1396"
+  },
+  {
+    "lang": "en",
+    "slug": "rum-runner-recipe",
+    "cocktailId": "1397"
+  },
+  {
+    "lang": "es",
+    "slug": "rum-runner-receta",
+    "cocktailId": "1397"
+  },
+  {
+    "lang": "it",
+    "slug": "rum-runner-ricetta",
+    "cocktailId": "1397"
+  },
+  {
+    "lang": "en",
+    "slug": "purple-hooter-recipe",
+    "cocktailId": "1398"
+  },
+  {
+    "lang": "es",
+    "slug": "purple-hooter-receta",
+    "cocktailId": "1398"
+  },
+  {
+    "lang": "it",
+    "slug": "purple-hooter-ricetta",
+    "cocktailId": "1398"
+  },
+  {
+    "lang": "en",
+    "slug": "cosmos-recipe",
+    "cocktailId": "1399"
+  },
+  {
+    "lang": "es",
+    "slug": "cosmos-receta",
+    "cocktailId": "1399"
+  },
+  {
+    "lang": "it",
+    "slug": "cosmos-ricetta",
+    "cocktailId": "1399"
+  },
+  {
+    "lang": "en",
+    "slug": "melon-ball-recipe",
+    "cocktailId": "1400"
+  },
+  {
+    "lang": "es",
+    "slug": "melon-ball-receta",
+    "cocktailId": "1400"
+  },
+  {
+    "lang": "it",
+    "slug": "melon-ball-ricetta",
+    "cocktailId": "1400"
+  },
+  {
+    "lang": "en",
+    "slug": "woops-recipe",
+    "cocktailId": "1401"
+  },
+  {
+    "lang": "es",
+    "slug": "woops-receta",
+    "cocktailId": "1401"
+  },
+  {
+    "lang": "it",
+    "slug": "woops-ricetta",
+    "cocktailId": "1401"
+  },
+  {
+    "lang": "en",
+    "slug": "lobotomy-recipe",
+    "cocktailId": "1402"
+  },
+  {
+    "lang": "es",
+    "slug": "lobotomy-receta",
+    "cocktailId": "1402"
+  },
+  {
+    "lang": "it",
+    "slug": "lobotomy-ricetta",
+    "cocktailId": "1402"
+  },
+  {
+    "lang": "en",
+    "slug": "morning-star-recipe",
+    "cocktailId": "1403"
+  },
+  {
+    "lang": "es",
+    "slug": "morning-star-receta",
+    "cocktailId": "1403"
+  },
+  {
+    "lang": "it",
+    "slug": "morning-star-ricetta",
+    "cocktailId": "1403"
+  },
+  {
+    "lang": "en",
+    "slug": "fancy-nancy-recipe",
+    "cocktailId": "1404"
+  },
+  {
+    "lang": "es",
+    "slug": "fancy-nancy-receta",
+    "cocktailId": "1404"
+  },
+  {
+    "lang": "it",
+    "slug": "fancy-nancy-ricetta",
+    "cocktailId": "1404"
+  },
+  {
+    "lang": "en",
+    "slug": "fuzzy-navel-recipe",
+    "cocktailId": "1405"
+  },
+  {
+    "lang": "es",
+    "slug": "fuzzy-navel-receta",
+    "cocktailId": "1405"
+  },
+  {
+    "lang": "it",
+    "slug": "fuzzy-navel-ricetta",
+    "cocktailId": "1405"
+  },
+  {
+    "lang": "en",
+    "slug": "hairy-navel-recipe",
+    "cocktailId": "1406"
+  },
+  {
+    "lang": "es",
+    "slug": "hairy-navel-receta",
+    "cocktailId": "1406"
+  },
+  {
+    "lang": "it",
+    "slug": "hairy-navel-ricetta",
+    "cocktailId": "1406"
+  },
+  {
+    "lang": "en",
+    "slug": "french-connection-recipe",
+    "cocktailId": "1407"
+  },
+  {
+    "lang": "es",
+    "slug": "french-connection-receta",
+    "cocktailId": "1407"
+  },
+  {
+    "lang": "it",
+    "slug": "french-connection-ricetta",
+    "cocktailId": "1407"
+  },
+  {
+    "lang": "en",
+    "slug": "scorpion-recipe",
+    "cocktailId": "1408"
+  },
+  {
+    "lang": "es",
+    "slug": "scorpion-receta",
+    "cocktailId": "1408"
+  },
+  {
+    "lang": "it",
+    "slug": "scorpion-ricetta",
+    "cocktailId": "1408"
+  },
+  {
+    "lang": "en",
+    "slug": "treacle-recipe",
+    "cocktailId": "1409"
+  },
+  {
+    "lang": "es",
+    "slug": "treacle-receta",
+    "cocktailId": "1409"
+  },
+  {
+    "lang": "it",
+    "slug": "treacle-ricetta",
+    "cocktailId": "1409"
+  },
+  {
+    "lang": "en",
+    "slug": "rum-mule-recipe",
+    "cocktailId": "1410"
+  },
+  {
+    "lang": "es",
+    "slug": "rum-mule-receta",
+    "cocktailId": "1410"
+  },
+  {
+    "lang": "it",
+    "slug": "rum-mule-ricetta",
+    "cocktailId": "1410"
+  },
+  {
+    "lang": "en",
+    "slug": "planter's-punch-recipe",
+    "cocktailId": "1411"
+  },
+  {
+    "lang": "es",
+    "slug": "planter's-punch-receta",
+    "cocktailId": "1411"
+  },
+  {
+    "lang": "it",
+    "slug": "planter's-punch-ricetta",
+    "cocktailId": "1411"
+  },
+  {
+    "lang": "en",
+    "slug": "white-bat-recipe",
+    "cocktailId": "1413"
+  },
+  {
+    "lang": "es",
+    "slug": "white-bat-receta",
+    "cocktailId": "1413"
+  },
+  {
+    "lang": "it",
+    "slug": "white-bat-ricetta",
+    "cocktailId": "1413"
+  },
+  {
+    "lang": "en",
+    "slug": "whiskey-cobbler-recipe",
+    "cocktailId": "1414"
+  },
+  {
+    "lang": "es",
+    "slug": "whiskey-cobbler-receta",
+    "cocktailId": "1414"
+  },
+  {
+    "lang": "it",
+    "slug": "whiskey-cobbler-ricetta",
+    "cocktailId": "1414"
+  },
+  {
+    "lang": "en",
+    "slug": "young-man-recipe",
+    "cocktailId": "1415"
+  },
+  {
+    "lang": "es",
+    "slug": "young-man-receta",
+    "cocktailId": "1415"
+  },
+  {
+    "lang": "it",
+    "slug": "young-man-ricetta",
+    "cocktailId": "1415"
+  },
+  {
+    "lang": "en",
+    "slug": "p.s.-i-love-you-recipe",
+    "cocktailId": "1416"
+  },
+  {
+    "lang": "es",
+    "slug": "p.s.-i-love-you-receta",
+    "cocktailId": "1416"
+  },
+  {
+    "lang": "it",
+    "slug": "p.s.-i-love-you-ricetta",
+    "cocktailId": "1416"
+  },
+  {
+    "lang": "en",
+    "slug": "union-club-recipe",
+    "cocktailId": "1417"
+  },
+  {
+    "lang": "es",
+    "slug": "union-club-receta",
+    "cocktailId": "1417"
+  },
+  {
+    "lang": "it",
+    "slug": "union-club-ricetta",
+    "cocktailId": "1417"
+  },
+  {
+    "lang": "en",
+    "slug": "unión-recipe",
+    "cocktailId": "1418"
+  },
+  {
+    "lang": "es",
+    "slug": "unión-receta",
+    "cocktailId": "1418"
+  },
+  {
+    "lang": "it",
+    "slug": "unión-ricetta",
+    "cocktailId": "1418"
+  },
+  {
+    "lang": "en",
+    "slug": "ritz-recipe",
+    "cocktailId": "1419"
+  },
+  {
+    "lang": "es",
+    "slug": "ritz-receta",
+    "cocktailId": "1419"
+  },
+  {
+    "lang": "it",
+    "slug": "ritz-ricetta",
+    "cocktailId": "1419"
+  },
+  {
+    "lang": "en",
+    "slug": "pendennis-recipe",
+    "cocktailId": "1420"
+  },
+  {
+    "lang": "es",
+    "slug": "pendennis-receta",
+    "cocktailId": "1420"
+  },
+  {
+    "lang": "it",
+    "slug": "pendennis-ricetta",
+    "cocktailId": "1420"
+  },
+  {
+    "lang": "en",
+    "slug": "mexican-martini-recipe",
+    "cocktailId": "1421"
+  },
+  {
+    "lang": "es",
+    "slug": "mexican-martini-receta",
+    "cocktailId": "1421"
+  },
+  {
+    "lang": "it",
+    "slug": "mexican-martini-ricetta",
+    "cocktailId": "1421"
+  },
+  {
+    "lang": "en",
+    "slug": "warsaw-recipe",
+    "cocktailId": "1422"
+  },
+  {
+    "lang": "es",
+    "slug": "warsaw-receta",
+    "cocktailId": "1422"
+  },
+  {
+    "lang": "it",
+    "slug": "warsaw-ricetta",
+    "cocktailId": "1422"
+  },
+  {
+    "lang": "en",
+    "slug": "thai-lady-recipe",
+    "cocktailId": "1423"
+  },
+  {
+    "lang": "es",
+    "slug": "thai-lady-receta",
+    "cocktailId": "1423"
+  },
+  {
+    "lang": "it",
+    "slug": "thai-lady-ricetta",
+    "cocktailId": "1423"
+  },
+  {
+    "lang": "en",
+    "slug": "sloppy-joe-recipe",
+    "cocktailId": "1424"
+  },
+  {
+    "lang": "es",
+    "slug": "sloppy-joe-receta",
+    "cocktailId": "1424"
+  },
+  {
+    "lang": "it",
+    "slug": "sloppy-joe-ricetta",
+    "cocktailId": "1424"
+  },
+  {
+    "lang": "en",
+    "slug": "queen-mary-recipe",
+    "cocktailId": "1425"
+  },
+  {
+    "lang": "es",
+    "slug": "queen-mary-receta",
+    "cocktailId": "1425"
+  },
+  {
+    "lang": "it",
+    "slug": "queen-mary-ricetta",
+    "cocktailId": "1425"
+  },
+  {
+    "lang": "en",
+    "slug": "boston-sour-recipe",
+    "cocktailId": "1426"
+  },
+  {
+    "lang": "es",
+    "slug": "boston-sour-receta",
+    "cocktailId": "1426"
+  },
+  {
+    "lang": "it",
+    "slug": "boston-sour-ricetta",
+    "cocktailId": "1426"
+  },
+  {
+    "lang": "en",
+    "slug": "blinker-recipe",
+    "cocktailId": "1427"
+  },
+  {
+    "lang": "es",
+    "slug": "blinker-receta",
+    "cocktailId": "1427"
+  },
+  {
+    "lang": "it",
+    "slug": "blinker-ricetta",
+    "cocktailId": "1427"
+  },
+  {
+    "lang": "en",
+    "slug": "gold-rush-recipe",
+    "cocktailId": "1428"
+  },
+  {
+    "lang": "es",
+    "slug": "gold-rush-receta",
+    "cocktailId": "1428"
+  },
+  {
+    "lang": "it",
+    "slug": "gold-rush-ricetta",
+    "cocktailId": "1428"
+  },
+  {
+    "lang": "en",
+    "slug": "jack-in-black-recipe",
+    "cocktailId": "1429"
+  },
+  {
+    "lang": "es",
+    "slug": "jack-in-black-receta",
+    "cocktailId": "1429"
+  },
+  {
+    "lang": "it",
+    "slug": "jack-in-black-ricetta",
+    "cocktailId": "1429"
+  },
+  {
+    "lang": "en",
+    "slug": "manhattan-dry-recipe",
+    "cocktailId": "1430"
+  },
+  {
+    "lang": "es",
+    "slug": "manhattan-dry-receta",
+    "cocktailId": "1430"
+  },
+  {
+    "lang": "it",
+    "slug": "manhattan-dry-ricetta",
+    "cocktailId": "1430"
+  },
+  {
+    "lang": "en",
+    "slug": "maple-leaf-recipe",
+    "cocktailId": "1431"
+  },
+  {
+    "lang": "es",
+    "slug": "maple-leaf-receta",
+    "cocktailId": "1431"
+  },
+  {
+    "lang": "it",
+    "slug": "maple-leaf-ricetta",
+    "cocktailId": "1431"
+  },
+  {
+    "lang": "en",
+    "slug": "adam-and-eve-recipe",
+    "cocktailId": "1432"
+  },
+  {
+    "lang": "es",
+    "slug": "adam-and-eve-receta",
+    "cocktailId": "1432"
+  },
+  {
+    "lang": "it",
+    "slug": "adam-and-eve-ricetta",
+    "cocktailId": "1432"
+  },
+  {
+    "lang": "en",
+    "slug": "new-yorker-recipe",
+    "cocktailId": "1433"
+  },
+  {
+    "lang": "es",
+    "slug": "new-yorker-receta",
+    "cocktailId": "1433"
+  },
+  {
+    "lang": "it",
+    "slug": "new-yorker-ricetta",
+    "cocktailId": "1433"
+  },
+  {
+    "lang": "en",
+    "slug": "blue-moon-recipe",
+    "cocktailId": "1434"
+  },
+  {
+    "lang": "es",
+    "slug": "blue-moon-receta",
+    "cocktailId": "1434"
+  },
+  {
+    "lang": "it",
+    "slug": "blue-moon-ricetta",
+    "cocktailId": "1434"
+  },
+  {
+    "lang": "en",
+    "slug": "bossa-nova-recipe",
+    "cocktailId": "1435"
+  },
+  {
+    "lang": "es",
+    "slug": "bossa-nova-receta",
+    "cocktailId": "1435"
+  },
+  {
+    "lang": "it",
+    "slug": "bossa-nova-ricetta",
+    "cocktailId": "1435"
+  },
+  {
+    "lang": "en",
+    "slug": "jockey-club-recipe",
+    "cocktailId": "1436"
+  },
+  {
+    "lang": "es",
+    "slug": "jockey-club-receta",
+    "cocktailId": "1436"
+  },
+  {
+    "lang": "it",
+    "slug": "jockey-club-ricetta",
+    "cocktailId": "1436"
+  },
+  {
+    "lang": "en",
+    "slug": "stiletto-recipe",
+    "cocktailId": "1437"
+  },
+  {
+    "lang": "es",
+    "slug": "stiletto-receta",
+    "cocktailId": "1437"
+  },
+  {
+    "lang": "it",
+    "slug": "stiletto-ricetta",
+    "cocktailId": "1437"
+  },
+  {
+    "lang": "en",
+    "slug": "tangaroa-recipe",
+    "cocktailId": "1438"
+  },
+  {
+    "lang": "es",
+    "slug": "tangaroa-receta",
+    "cocktailId": "1438"
+  },
+  {
+    "lang": "it",
+    "slug": "tangaroa-ricetta",
+    "cocktailId": "1438"
+  },
+  {
+    "lang": "en",
+    "slug": "toasted-almond-recipe",
+    "cocktailId": "1439"
+  },
+  {
+    "lang": "es",
+    "slug": "toasted-almond-receta",
+    "cocktailId": "1439"
+  },
+  {
+    "lang": "it",
+    "slug": "toasted-almond-ricetta",
+    "cocktailId": "1439"
+  },
+  {
+    "lang": "en",
+    "slug": "212-recipe",
+    "cocktailId": "1440"
+  },
+  {
+    "lang": "es",
+    "slug": "212-receta",
+    "cocktailId": "1440"
+  },
+  {
+    "lang": "it",
+    "slug": "212-ricetta",
+    "cocktailId": "1440"
+  },
+  {
+    "lang": "en",
+    "slug": "cloyster-recipe",
+    "cocktailId": "1441"
+  },
+  {
+    "lang": "es",
+    "slug": "cloyster-receta",
+    "cocktailId": "1441"
+  },
+  {
+    "lang": "it",
+    "slug": "cloyster-ricetta",
+    "cocktailId": "1441"
+  },
+  {
+    "lang": "en",
+    "slug": "cuzco-recipe",
+    "cocktailId": "1442"
+  },
+  {
+    "lang": "es",
+    "slug": "cuzco-receta",
+    "cocktailId": "1442"
+  },
+  {
+    "lang": "it",
+    "slug": "cuzco-ricetta",
+    "cocktailId": "1442"
+  },
+  {
+    "lang": "en",
+    "slug": "moonwalk-recipe",
+    "cocktailId": "1443"
+  },
+  {
+    "lang": "es",
+    "slug": "moonwalk-receta",
+    "cocktailId": "1443"
+  },
+  {
+    "lang": "it",
+    "slug": "moonwalk-ricetta",
+    "cocktailId": "1443"
+  },
+  {
+    "lang": "en",
+    "slug": "paper-plane-recipe",
+    "cocktailId": "1444"
+  },
+  {
+    "lang": "es",
+    "slug": "paper-plane-receta",
+    "cocktailId": "1444"
+  },
+  {
+    "lang": "it",
+    "slug": "paper-plane-ricetta",
+    "cocktailId": "1444"
+  },
+  {
+    "lang": "en",
+    "slug": "english-rose-recipe",
+    "cocktailId": "1445"
+  },
+  {
+    "lang": "es",
+    "slug": "english-rose-receta",
+    "cocktailId": "1445"
+  },
+  {
+    "lang": "it",
+    "slug": "english-rose-ricetta",
+    "cocktailId": "1445"
+  },
+  {
+    "lang": "en",
+    "slug": "spumoni-recipe",
+    "cocktailId": "1446"
+  },
+  {
+    "lang": "es",
+    "slug": "spumoni-receta",
+    "cocktailId": "1446"
+  },
+  {
+    "lang": "it",
+    "slug": "spumoni-ricetta",
+    "cocktailId": "1446"
+  },
+  {
+    "lang": "en",
+    "slug": "cynar-spritz-recipe",
+    "cocktailId": "1447"
+  },
+  {
+    "lang": "es",
+    "slug": "cynar-spritz-receta",
+    "cocktailId": "1447"
+  },
+  {
+    "lang": "it",
+    "slug": "cynar-spritz-ricetta",
+    "cocktailId": "1447"
+  },
+  {
+    "lang": "en",
+    "slug": "fanciulli-recipe",
+    "cocktailId": "1448"
+  },
+  {
+    "lang": "es",
+    "slug": "fanciulli-receta",
+    "cocktailId": "1448"
+  },
+  {
+    "lang": "it",
+    "slug": "fanciulli-ricetta",
+    "cocktailId": "1448"
+  },
+  {
+    "lang": "en",
+    "slug": "contessa-recipe",
+    "cocktailId": "1449"
+  },
+  {
+    "lang": "es",
+    "slug": "contessa-receta",
+    "cocktailId": "1449"
+  },
+  {
+    "lang": "it",
+    "slug": "contessa-ricetta",
+    "cocktailId": "1449"
+  },
+  {
+    "lang": "en",
+    "slug": "banshee-recipe",
+    "cocktailId": "1450"
+  },
+  {
+    "lang": "es",
+    "slug": "banshee-receta",
+    "cocktailId": "1450"
+  },
+  {
+    "lang": "it",
+    "slug": "banshee-ricetta",
+    "cocktailId": "1450"
+  },
+  {
+    "lang": "en",
+    "slug": "bocce-ball-recipe",
+    "cocktailId": "1451"
+  },
+  {
+    "lang": "es",
+    "slug": "bocce-ball-receta",
+    "cocktailId": "1451"
+  },
+  {
+    "lang": "it",
+    "slug": "bocce-ball-ricetta",
+    "cocktailId": "1451"
+  },
+  {
+    "lang": "en",
+    "slug": "boxcar-recipe",
+    "cocktailId": "1452"
+  },
+  {
+    "lang": "es",
+    "slug": "boxcar-receta",
+    "cocktailId": "1452"
+  },
+  {
+    "lang": "it",
+    "slug": "boxcar-ricetta",
+    "cocktailId": "1452"
+  },
+  {
+    "lang": "en",
+    "slug": "chilcano-recipe",
+    "cocktailId": "1453"
+  },
+  {
+    "lang": "es",
+    "slug": "chilcano-receta",
+    "cocktailId": "1453"
+  },
+  {
+    "lang": "it",
+    "slug": "chilcano-ricetta",
+    "cocktailId": "1453"
+  },
+  {
+    "lang": "en",
+    "slug": "bella-donna-recipe",
+    "cocktailId": "1454"
+  },
+  {
+    "lang": "es",
+    "slug": "bella-donna-receta",
+    "cocktailId": "1454"
+  },
+  {
+    "lang": "it",
+    "slug": "bella-donna-ricetta",
+    "cocktailId": "1454"
+  },
+  {
+    "lang": "en",
+    "slug": "pan-am-recipe",
+    "cocktailId": "1455"
+  },
+  {
+    "lang": "es",
+    "slug": "pan-am-receta",
+    "cocktailId": "1455"
+  },
+  {
+    "lang": "it",
+    "slug": "pan-am-ricetta",
+    "cocktailId": "1455"
+  },
+  {
+    "lang": "en",
+    "slug": "parasol-recipe",
+    "cocktailId": "1456"
+  },
+  {
+    "lang": "es",
+    "slug": "parasol-receta",
+    "cocktailId": "1456"
+  },
+  {
+    "lang": "it",
+    "slug": "parasol-ricetta",
+    "cocktailId": "1456"
+  },
+  {
+    "lang": "en",
+    "slug": "brave-bull-recipe",
+    "cocktailId": "1457"
+  },
+  {
+    "lang": "es",
+    "slug": "brave-bull-receta",
+    "cocktailId": "1457"
+  },
+  {
+    "lang": "it",
+    "slug": "brave-bull-ricetta",
+    "cocktailId": "1457"
+  },
+  {
+    "lang": "en",
+    "slug": "death-flip-recipe",
+    "cocktailId": "1458"
+  },
+  {
+    "lang": "es",
+    "slug": "death-flip-receta",
+    "cocktailId": "1458"
+  },
+  {
+    "lang": "it",
+    "slug": "death-flip-ricetta",
+    "cocktailId": "1458"
+  },
+  {
+    "lang": "en",
+    "slug": "prado-recipe",
+    "cocktailId": "1459"
+  },
+  {
+    "lang": "es",
+    "slug": "prado-receta",
+    "cocktailId": "1459"
+  },
+  {
+    "lang": "it",
+    "slug": "prado-ricetta",
+    "cocktailId": "1459"
+  },
+  {
+    "lang": "en",
+    "slug": "china-white-recipe",
+    "cocktailId": "1460"
+  },
+  {
+    "lang": "es",
+    "slug": "china-white-receta",
+    "cocktailId": "1460"
+  },
+  {
+    "lang": "it",
+    "slug": "china-white-ricetta",
+    "cocktailId": "1460"
+  },
+  {
+    "lang": "en",
+    "slug": "chi-chi-recipe",
+    "cocktailId": "1461"
+  },
+  {
+    "lang": "es",
+    "slug": "chi-chi-receta",
+    "cocktailId": "1461"
+  },
+  {
+    "lang": "it",
+    "slug": "chi-chi-ricetta",
+    "cocktailId": "1461"
+  },
+  {
+    "lang": "en",
+    "slug": "red-snapper-recipe",
+    "cocktailId": "1462"
+  },
+  {
+    "lang": "es",
+    "slug": "red-snapper-receta",
+    "cocktailId": "1462"
+  },
+  {
+    "lang": "it",
+    "slug": "red-snapper-ricetta",
+    "cocktailId": "1462"
+  },
+  {
+    "lang": "en",
+    "slug": "sunflower-recipe",
+    "cocktailId": "1463"
+  },
+  {
+    "lang": "es",
+    "slug": "sunflower-receta",
+    "cocktailId": "1463"
+  },
+  {
+    "lang": "it",
+    "slug": "sunflower-ricetta",
+    "cocktailId": "1463"
+  },
+  {
+    "lang": "en",
+    "slug": "fallen-angel-recipe",
+    "cocktailId": "1464"
+  },
+  {
+    "lang": "es",
+    "slug": "fallen-angel-receta",
+    "cocktailId": "1464"
+  },
+  {
+    "lang": "it",
+    "slug": "fallen-angel-ricetta",
+    "cocktailId": "1464"
+  },
+  {
+    "lang": "en",
+    "slug": "chocolate-martini-recipe",
+    "cocktailId": "1465"
+  },
+  {
+    "lang": "es",
+    "slug": "chocolate-martini-receta",
+    "cocktailId": "1465"
+  },
+  {
+    "lang": "it",
+    "slug": "chocolate-martini-ricetta",
+    "cocktailId": "1465"
+  },
+  {
+    "lang": "en",
+    "slug": "mamie-taylor-recipe",
+    "cocktailId": "1466"
+  },
+  {
+    "lang": "es",
+    "slug": "mamie-taylor-receta",
+    "cocktailId": "1466"
+  },
+  {
+    "lang": "it",
+    "slug": "mamie-taylor-ricetta",
+    "cocktailId": "1466"
+  },
+  {
+    "lang": "en",
+    "slug": "ace-cocktail-recipe",
+    "cocktailId": "1467"
+  },
+  {
+    "lang": "es",
+    "slug": "ace-cocktail-receta",
+    "cocktailId": "1467"
+  },
+  {
+    "lang": "it",
+    "slug": "ace-cocktail-ricetta",
+    "cocktailId": "1467"
+  },
+  {
+    "lang": "en",
+    "slug": "alabazam-recipe",
+    "cocktailId": "1468"
+  },
+  {
+    "lang": "es",
+    "slug": "alabazam-receta",
+    "cocktailId": "1468"
+  },
+  {
+    "lang": "it",
+    "slug": "alabazam-ricetta",
+    "cocktailId": "1468"
+  },
+  {
+    "lang": "en",
+    "slug": "ambrosia-recipe",
+    "cocktailId": "1469"
+  },
+  {
+    "lang": "es",
+    "slug": "ambrosia-receta",
+    "cocktailId": "1469"
+  },
+  {
+    "lang": "it",
+    "slug": "ambrosia-ricetta",
+    "cocktailId": "1469"
+  },
+  {
+    "lang": "en",
+    "slug": "atta-boy-recipe",
+    "cocktailId": "1470"
+  },
+  {
+    "lang": "es",
+    "slug": "atta-boy-receta",
+    "cocktailId": "1470"
+  },
+  {
+    "lang": "it",
+    "slug": "atta-boy-ricetta",
+    "cocktailId": "1470"
+  },
+  {
+    "lang": "en",
+    "slug": "bee's-knees-recipe",
+    "cocktailId": "1471"
+  },
+  {
+    "lang": "es",
+    "slug": "bee's-knees-receta",
+    "cocktailId": "1471"
+  },
+  {
+    "lang": "it",
+    "slug": "bee's-knees-ricetta",
+    "cocktailId": "1471"
+  },
+  {
+    "lang": "en",
+    "slug": "blackthorn-recipe",
+    "cocktailId": "1472"
+  },
+  {
+    "lang": "es",
+    "slug": "blackthorn-receta",
+    "cocktailId": "1472"
+  },
+  {
+    "lang": "it",
+    "slug": "blackthorn-ricetta",
+    "cocktailId": "1472"
+  },
+  {
+    "lang": "en",
+    "slug": "bloodhound-recipe",
+    "cocktailId": "1473"
+  },
+  {
+    "lang": "es",
+    "slug": "bloodhound-receta",
+    "cocktailId": "1473"
+  },
+  {
+    "lang": "it",
+    "slug": "bloodhound-ricetta",
+    "cocktailId": "1473"
+  },
+  {
+    "lang": "en",
+    "slug": "deshler-recipe",
+    "cocktailId": "1474"
+  },
+  {
+    "lang": "es",
+    "slug": "deshler-receta",
+    "cocktailId": "1474"
+  },
+  {
+    "lang": "it",
+    "slug": "deshler-ricetta",
+    "cocktailId": "1474"
+  },
+  {
+    "lang": "en",
+    "slug": "absinthe-cocktail-recipe",
+    "cocktailId": "1475"
+  },
+  {
+    "lang": "es",
+    "slug": "absinthe-cocktail-receta",
+    "cocktailId": "1475"
+  },
+  {
+    "lang": "it",
+    "slug": "absinthe-cocktail-ricetta",
+    "cocktailId": "1475"
+  },
+  {
+    "lang": "en",
+    "slug": "corpse-reviver-no.-2-recipe",
+    "cocktailId": "1476"
+  },
+  {
+    "lang": "es",
+    "slug": "corpse-reviver-no.-2-receta",
+    "cocktailId": "1476"
+  },
+  {
+    "lang": "it",
+    "slug": "corpse-reviver-no.-2-ricetta",
+    "cocktailId": "1476"
+  },
+  {
+    "lang": "en",
+    "slug": "rattlesnake-recipe",
+    "cocktailId": "1477"
+  },
+  {
+    "lang": "es",
+    "slug": "rattlesnake-receta",
+    "cocktailId": "1477"
+  },
+  {
+    "lang": "it",
+    "slug": "rattlesnake-ricetta",
+    "cocktailId": "1477"
+  },
+  {
+    "lang": "en",
+    "slug": "obituary-cocktail-recipe",
+    "cocktailId": "1478"
+  },
+  {
+    "lang": "es",
+    "slug": "obituary-cocktail-receta",
+    "cocktailId": "1478"
+  },
+  {
+    "lang": "it",
+    "slug": "obituary-cocktail-ricetta",
+    "cocktailId": "1478"
+  },
+  {
+    "lang": "en",
+    "slug": "joy-division-recipe",
+    "cocktailId": "1479"
+  },
+  {
+    "lang": "es",
+    "slug": "joy-division-receta",
+    "cocktailId": "1479"
+  },
+  {
+    "lang": "it",
+    "slug": "joy-division-ricetta",
+    "cocktailId": "1479"
+  },
+  {
+    "lang": "en",
+    "slug": "caipirinha-recipe",
+    "cocktailId": "1480"
+  },
+  {
+    "lang": "es",
+    "slug": "caipirinha-receta",
+    "cocktailId": "1480"
+  },
+  {
+    "lang": "it",
+    "slug": "caipirinha-ricetta",
+    "cocktailId": "1480"
+  },
+  {
+    "lang": "en",
+    "slug": "caipirissima-recipe",
+    "cocktailId": "1481"
+  },
+  {
+    "lang": "es",
+    "slug": "caipirissima-receta",
+    "cocktailId": "1481"
+  },
+  {
+    "lang": "it",
+    "slug": "caipirissima-ricetta",
+    "cocktailId": "1481"
+  },
+  {
+    "lang": "en",
+    "slug": "caipiroska-recipe",
+    "cocktailId": "1482"
+  },
+  {
+    "lang": "es",
+    "slug": "caipiroska-receta",
+    "cocktailId": "1482"
+  },
+  {
+    "lang": "it",
+    "slug": "caipiroska-ricetta",
+    "cocktailId": "1482"
+  },
+  {
+    "lang": "en",
+    "slug": "tailspin-recipe",
+    "cocktailId": "1483"
+  },
+  {
+    "lang": "es",
+    "slug": "tailspin-receta",
+    "cocktailId": "1483"
+  },
+  {
+    "lang": "it",
+    "slug": "tailspin-ricetta",
+    "cocktailId": "1483"
+  },
+  {
+    "lang": "en",
+    "slug": "blue-train-recipe",
+    "cocktailId": "1484"
+  },
+  {
+    "lang": "es",
+    "slug": "blue-train-receta",
+    "cocktailId": "1484"
+  },
+  {
+    "lang": "it",
+    "slug": "blue-train-ricetta",
+    "cocktailId": "1484"
+  },
+  {
+    "lang": "en",
+    "slug": "parisian-recipe",
+    "cocktailId": "1485"
+  },
+  {
+    "lang": "es",
+    "slug": "parisian-receta",
+    "cocktailId": "1485"
+  },
+  {
+    "lang": "it",
+    "slug": "parisian-ricetta",
+    "cocktailId": "1485"
+  },
+  {
+    "lang": "en",
+    "slug": "pompier-recipe",
+    "cocktailId": "1486"
+  },
+  {
+    "lang": "es",
+    "slug": "pompier-receta",
+    "cocktailId": "1486"
+  },
+  {
+    "lang": "it",
+    "slug": "pompier-ricetta",
+    "cocktailId": "1486"
+  },
+  {
+    "lang": "en",
+    "slug": "rosarita-recipe",
+    "cocktailId": "1487"
+  },
+  {
+    "lang": "es",
+    "slug": "rosarita-receta",
+    "cocktailId": "1487"
+  },
+  {
+    "lang": "it",
+    "slug": "rosarita-ricetta",
+    "cocktailId": "1487"
+  },
+  {
+    "lang": "en",
+    "slug": "revolver-recipe",
+    "cocktailId": "1488"
+  },
+  {
+    "lang": "es",
+    "slug": "revolver-receta",
+    "cocktailId": "1488"
+  },
+  {
+    "lang": "it",
+    "slug": "revolver-ricetta",
+    "cocktailId": "1488"
+  },
+  {
+    "lang": "en",
+    "slug": "colorado-bulldog-recipe",
+    "cocktailId": "1489"
+  },
+  {
+    "lang": "es",
+    "slug": "colorado-bulldog-receta",
+    "cocktailId": "1489"
+  },
+  {
+    "lang": "it",
+    "slug": "colorado-bulldog-ricetta",
+    "cocktailId": "1489"
+  },
+  {
+    "lang": "en",
+    "slug": "tequila-manhattan-recipe",
+    "cocktailId": "1490"
+  },
+  {
+    "lang": "es",
+    "slug": "tequila-manhattan-receta",
+    "cocktailId": "1490"
+  },
+  {
+    "lang": "it",
+    "slug": "tequila-manhattan-ricetta",
+    "cocktailId": "1490"
+  },
+  {
+    "lang": "en",
+    "slug": "intercontinental-recipe",
+    "cocktailId": "1491"
+  },
+  {
+    "lang": "es",
+    "slug": "intercontinental-receta",
+    "cocktailId": "1491"
+  },
+  {
+    "lang": "it",
+    "slug": "intercontinental-ricetta",
+    "cocktailId": "1491"
+  },
+  {
+    "lang": "en",
+    "slug": "vampire-kiss-recipe",
+    "cocktailId": "1492"
+  },
+  {
+    "lang": "es",
+    "slug": "vampire-kiss-receta",
+    "cocktailId": "1492"
+  },
+  {
+    "lang": "it",
+    "slug": "vampire-kiss-ricetta",
+    "cocktailId": "1492"
+  },
+  {
+    "lang": "en",
+    "slug": "widow's-kiss-recipe",
+    "cocktailId": "1493"
+  },
+  {
+    "lang": "es",
+    "slug": "widow's-kiss-receta",
+    "cocktailId": "1493"
+  },
+  {
+    "lang": "it",
+    "slug": "widow's-kiss-ricetta",
+    "cocktailId": "1493"
+  },
+  {
+    "lang": "en",
+    "slug": "vodka-martini-recipe",
+    "cocktailId": "1494"
+  },
+  {
+    "lang": "es",
+    "slug": "vodka-martini-receta",
+    "cocktailId": "1494"
+  },
+  {
+    "lang": "it",
+    "slug": "vodka-martini-ricetta",
+    "cocktailId": "1494"
+  },
+  {
+    "lang": "en",
+    "slug": "tegroni-recipe",
+    "cocktailId": "1495"
+  },
+  {
+    "lang": "es",
+    "slug": "tegroni-receta",
+    "cocktailId": "1495"
+  },
+  {
+    "lang": "it",
+    "slug": "tegroni-ricetta",
+    "cocktailId": "1495"
+  },
+  {
+    "lang": "en",
+    "slug": "valentino-recipe",
+    "cocktailId": "1496"
+  },
+  {
+    "lang": "es",
+    "slug": "valentino-receta",
+    "cocktailId": "1496"
+  },
+  {
+    "lang": "it",
+    "slug": "valentino-ricetta",
+    "cocktailId": "1496"
+  },
+  {
+    "lang": "en",
+    "slug": "marguerite-recipe",
+    "cocktailId": "1497"
+  },
+  {
+    "lang": "es",
+    "slug": "marguerite-receta",
+    "cocktailId": "1497"
+  },
+  {
+    "lang": "it",
+    "slug": "marguerite-ricetta",
+    "cocktailId": "1497"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-sonic-recipe",
+    "cocktailId": "1498"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-sonic-receta",
+    "cocktailId": "1498"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-sonic-ricetta",
+    "cocktailId": "1498"
+  },
+  {
+    "lang": "en",
+    "slug": "saison-highball-recipe",
+    "cocktailId": "1499"
+  },
+  {
+    "lang": "es",
+    "slug": "saison-highball-receta",
+    "cocktailId": "1499"
+  },
+  {
+    "lang": "it",
+    "slug": "saison-highball-ricetta",
+    "cocktailId": "1499"
+  },
+  {
+    "lang": "en",
+    "slug": "reverse-manhattan-recipe",
+    "cocktailId": "1500"
+  },
+  {
+    "lang": "es",
+    "slug": "reverse-manhattan-receta",
+    "cocktailId": "1500"
+  },
+  {
+    "lang": "it",
+    "slug": "reverse-manhattan-ricetta",
+    "cocktailId": "1500"
+  },
+  {
+    "lang": "en",
+    "slug": "big-berry-martini-recipe",
+    "cocktailId": "1501"
+  },
+  {
+    "lang": "es",
+    "slug": "big-berry-martini-receta",
+    "cocktailId": "1501"
+  },
+  {
+    "lang": "it",
+    "slug": "big-berry-martini-ricetta",
+    "cocktailId": "1501"
+  },
+  {
+    "lang": "en",
+    "slug": "nutty-martini-recipe",
+    "cocktailId": "1502"
+  },
+  {
+    "lang": "es",
+    "slug": "nutty-martini-receta",
+    "cocktailId": "1502"
+  },
+  {
+    "lang": "it",
+    "slug": "nutty-martini-ricetta",
+    "cocktailId": "1502"
+  },
+  {
+    "lang": "en",
+    "slug": "licorice-martini-recipe",
+    "cocktailId": "1503"
+  },
+  {
+    "lang": "es",
+    "slug": "licorice-martini-receta",
+    "cocktailId": "1503"
+  },
+  {
+    "lang": "it",
+    "slug": "licorice-martini-ricetta",
+    "cocktailId": "1503"
+  },
+  {
+    "lang": "en",
+    "slug": "irish-eyes-recipe",
+    "cocktailId": "1504"
+  },
+  {
+    "lang": "es",
+    "slug": "irish-eyes-receta",
+    "cocktailId": "1504"
+  },
+  {
+    "lang": "it",
+    "slug": "irish-eyes-ricetta",
+    "cocktailId": "1504"
+  },
+  {
+    "lang": "en",
+    "slug": "velvet-hammer-recipe",
+    "cocktailId": "1505"
+  },
+  {
+    "lang": "es",
+    "slug": "velvet-hammer-receta",
+    "cocktailId": "1505"
+  },
+  {
+    "lang": "it",
+    "slug": "velvet-hammer-ricetta",
+    "cocktailId": "1505"
+  },
+  {
+    "lang": "en",
+    "slug": "eau-de-lavender-recipe",
+    "cocktailId": "1506"
+  },
+  {
+    "lang": "es",
+    "slug": "eau-de-lavender-receta",
+    "cocktailId": "1506"
+  },
+  {
+    "lang": "it",
+    "slug": "eau-de-lavender-ricetta",
+    "cocktailId": "1506"
+  },
+  {
+    "lang": "en",
+    "slug": "blenton-cocktail-recipe",
+    "cocktailId": "1507"
+  },
+  {
+    "lang": "es",
+    "slug": "blenton-cocktail-receta",
+    "cocktailId": "1507"
+  },
+  {
+    "lang": "it",
+    "slug": "blenton-cocktail-ricetta",
+    "cocktailId": "1507"
+  },
+  {
+    "lang": "en",
+    "slug": "testarossa-recipe",
+    "cocktailId": "1508"
+  },
+  {
+    "lang": "es",
+    "slug": "testarossa-receta",
+    "cocktailId": "1508"
+  },
+  {
+    "lang": "it",
+    "slug": "testarossa-ricetta",
+    "cocktailId": "1508"
+  },
+  {
+    "lang": "en",
+    "slug": "bijou-recipe",
+    "cocktailId": "1509"
+  },
+  {
+    "lang": "es",
+    "slug": "bijou-receta",
+    "cocktailId": "1509"
+  },
+  {
+    "lang": "it",
+    "slug": "bijou-ricetta",
+    "cocktailId": "1509"
+  },
+  {
+    "lang": "en",
+    "slug": "50-50-recipe",
+    "cocktailId": "1510"
+  },
+  {
+    "lang": "es",
+    "slug": "50-50-receta",
+    "cocktailId": "1510"
+  },
+  {
+    "lang": "it",
+    "slug": "50-50-ricetta",
+    "cocktailId": "1510"
+  },
+  {
+    "lang": "en",
+    "slug": "roosvelt-recipe",
+    "cocktailId": "1511"
+  },
+  {
+    "lang": "es",
+    "slug": "roosvelt-receta",
+    "cocktailId": "1511"
+  },
+  {
+    "lang": "it",
+    "slug": "roosvelt-ricetta",
+    "cocktailId": "1511"
+  },
+  {
+    "lang": "en",
+    "slug": "banana-daiquiri-recipe",
+    "cocktailId": "1512"
+  },
+  {
+    "lang": "es",
+    "slug": "banana-daiquiri-receta",
+    "cocktailId": "1512"
+  },
+  {
+    "lang": "it",
+    "slug": "banana-daiquiri-ricetta",
+    "cocktailId": "1512"
+  },
+  {
+    "lang": "en",
+    "slug": "caruso-cocktail-recipe",
+    "cocktailId": "1513"
+  },
+  {
+    "lang": "es",
+    "slug": "caruso-cocktail-receta",
+    "cocktailId": "1513"
+  },
+  {
+    "lang": "it",
+    "slug": "caruso-cocktail-ricetta",
+    "cocktailId": "1513"
+  },
+  {
+    "lang": "en",
+    "slug": "roselyn-cocktail-recipe",
+    "cocktailId": "1514"
+  },
+  {
+    "lang": "es",
+    "slug": "roselyn-cocktail-receta",
+    "cocktailId": "1514"
+  },
+  {
+    "lang": "it",
+    "slug": "roselyn-cocktail-ricetta",
+    "cocktailId": "1514"
+  },
+  {
+    "lang": "en",
+    "slug": "snyder-cocktail-recipe",
+    "cocktailId": "1515"
+  },
+  {
+    "lang": "es",
+    "slug": "snyder-cocktail-receta",
+    "cocktailId": "1515"
+  },
+  {
+    "lang": "it",
+    "slug": "snyder-cocktail-ricetta",
+    "cocktailId": "1515"
+  },
+  {
+    "lang": "en",
+    "slug": "illegal-recipe",
+    "cocktailId": "1516"
+  },
+  {
+    "lang": "es",
+    "slug": "illegal-receta",
+    "cocktailId": "1516"
+  },
+  {
+    "lang": "it",
+    "slug": "illegal-ricetta",
+    "cocktailId": "1516"
+  },
+  {
+    "lang": "en",
+    "slug": "bazooka-joe-recipe",
+    "cocktailId": "1517"
+  },
+  {
+    "lang": "es",
+    "slug": "bazooka-joe-receta",
+    "cocktailId": "1517"
+  },
+  {
+    "lang": "it",
+    "slug": "bazooka-joe-ricetta",
+    "cocktailId": "1517"
+  },
+  {
+    "lang": "en",
+    "slug": "polar-bear-shot-recipe",
+    "cocktailId": "1518"
+  },
+  {
+    "lang": "es",
+    "slug": "polar-bear-shot-receta",
+    "cocktailId": "1518"
+  },
+  {
+    "lang": "it",
+    "slug": "polar-bear-shot-ricetta",
+    "cocktailId": "1518"
+  },
+  {
+    "lang": "en",
+    "slug": "melon-ball-shot-recipe",
+    "cocktailId": "1519"
+  },
+  {
+    "lang": "es",
+    "slug": "melon-ball-shot-receta",
+    "cocktailId": "1519"
+  },
+  {
+    "lang": "it",
+    "slug": "melon-ball-shot-ricetta",
+    "cocktailId": "1519"
+  },
+  {
+    "lang": "en",
+    "slug": "snowball-shooter-recipe",
+    "cocktailId": "1520"
+  },
+  {
+    "lang": "es",
+    "slug": "snowball-shooter-receta",
+    "cocktailId": "1520"
+  },
+  {
+    "lang": "it",
+    "slug": "snowball-shooter-ricetta",
+    "cocktailId": "1520"
+  },
+  {
+    "lang": "en",
+    "slug": "snowshoe-shooter-recipe",
+    "cocktailId": "1521"
+  },
+  {
+    "lang": "es",
+    "slug": "snowshoe-shooter-receta",
+    "cocktailId": "1521"
+  },
+  {
+    "lang": "it",
+    "slug": "snowshoe-shooter-ricetta",
+    "cocktailId": "1521"
+  },
+  {
+    "lang": "en",
+    "slug": "stinger-shooter-recipe",
+    "cocktailId": "1522"
+  },
+  {
+    "lang": "es",
+    "slug": "stinger-shooter-receta",
+    "cocktailId": "1522"
+  },
+  {
+    "lang": "it",
+    "slug": "stinger-shooter-ricetta",
+    "cocktailId": "1522"
+  },
+  {
+    "lang": "en",
+    "slug": "hula-hula-recipe",
+    "cocktailId": "1523"
+  },
+  {
+    "lang": "es",
+    "slug": "hula-hula-receta",
+    "cocktailId": "1523"
+  },
+  {
+    "lang": "it",
+    "slug": "hula-hula-ricetta",
+    "cocktailId": "1523"
+  },
+  {
+    "lang": "en",
+    "slug": "colonial-cocktail-recipe",
+    "cocktailId": "1524"
+  },
+  {
+    "lang": "es",
+    "slug": "colonial-cocktail-receta",
+    "cocktailId": "1524"
+  },
+  {
+    "lang": "it",
+    "slug": "colonial-cocktail-ricetta",
+    "cocktailId": "1524"
+  },
+  {
+    "lang": "en",
+    "slug": "opera-recipe",
+    "cocktailId": "1525"
+  },
+  {
+    "lang": "es",
+    "slug": "opera-receta",
+    "cocktailId": "1525"
+  },
+  {
+    "lang": "it",
+    "slug": "opera-ricetta",
+    "cocktailId": "1525"
+  },
+  {
+    "lang": "en",
+    "slug": "napoleon-recipe",
+    "cocktailId": "1526"
+  },
+  {
+    "lang": "es",
+    "slug": "napoleon-receta",
+    "cocktailId": "1526"
+  },
+  {
+    "lang": "it",
+    "slug": "napoleon-ricetta",
+    "cocktailId": "1526"
+  },
+  {
+    "lang": "en",
+    "slug": "vieux-carré-recipe",
+    "cocktailId": "1527"
+  },
+  {
+    "lang": "es",
+    "slug": "vieux-carré-receta",
+    "cocktailId": "1527"
+  },
+  {
+    "lang": "it",
+    "slug": "vieux-carré-ricetta",
+    "cocktailId": "1527"
+  },
+  {
+    "lang": "en",
+    "slug": "pink-negroni-recipe",
+    "cocktailId": "1528"
+  },
+  {
+    "lang": "es",
+    "slug": "pink-negroni-receta",
+    "cocktailId": "1528"
+  },
+  {
+    "lang": "it",
+    "slug": "pink-negroni-ricetta",
+    "cocktailId": "1528"
+  },
+  {
+    "lang": "en",
+    "slug": "ginger-rogers-recipe",
+    "cocktailId": "1529"
+  },
+  {
+    "lang": "es",
+    "slug": "ginger-rogers-receta",
+    "cocktailId": "1529"
+  },
+  {
+    "lang": "it",
+    "slug": "ginger-rogers-ricetta",
+    "cocktailId": "1529"
+  },
+  {
+    "lang": "en",
+    "slug": "gypsy-queen-recipe",
+    "cocktailId": "1530"
+  },
+  {
+    "lang": "es",
+    "slug": "gypsy-queen-receta",
+    "cocktailId": "1530"
+  },
+  {
+    "lang": "it",
+    "slug": "gypsy-queen-ricetta",
+    "cocktailId": "1530"
+  },
+  {
+    "lang": "en",
+    "slug": "peach-me-recipe",
+    "cocktailId": "1531"
+  },
+  {
+    "lang": "es",
+    "slug": "peach-me-receta",
+    "cocktailId": "1531"
+  },
+  {
+    "lang": "it",
+    "slug": "peach-me-ricetta",
+    "cocktailId": "1531"
+  },
+  {
+    "lang": "en",
+    "slug": "smoky-whisky-sour-recipe",
+    "cocktailId": "1532"
+  },
+  {
+    "lang": "es",
+    "slug": "smoky-whisky-sour-receta",
+    "cocktailId": "1532"
+  },
+  {
+    "lang": "it",
+    "slug": "smoky-whisky-sour-ricetta",
+    "cocktailId": "1532"
+  },
+  {
+    "lang": "en",
+    "slug": "forbidden-sour-recipe",
+    "cocktailId": "1533"
+  },
+  {
+    "lang": "es",
+    "slug": "forbidden-sour-receta",
+    "cocktailId": "1533"
+  },
+  {
+    "lang": "it",
+    "slug": "forbidden-sour-ricetta",
+    "cocktailId": "1533"
+  },
+  {
+    "lang": "en",
+    "slug": "jean-harlow-recipe",
+    "cocktailId": "1534"
+  },
+  {
+    "lang": "es",
+    "slug": "jean-harlow-receta",
+    "cocktailId": "1534"
+  },
+  {
+    "lang": "it",
+    "slug": "jean-harlow-ricetta",
+    "cocktailId": "1534"
+  },
+  {
+    "lang": "en",
+    "slug": "preakness-recipe",
+    "cocktailId": "1535"
+  },
+  {
+    "lang": "es",
+    "slug": "preakness-receta",
+    "cocktailId": "1535"
+  },
+  {
+    "lang": "it",
+    "slug": "preakness-ricetta",
+    "cocktailId": "1535"
+  },
+  {
+    "lang": "en",
+    "slug": "waldorf-recipe",
+    "cocktailId": "1536"
+  },
+  {
+    "lang": "es",
+    "slug": "waldorf-receta",
+    "cocktailId": "1536"
+  },
+  {
+    "lang": "it",
+    "slug": "waldorf-ricetta",
+    "cocktailId": "1536"
+  },
+  {
+    "lang": "en",
+    "slug": "bushwacker-recipe",
+    "cocktailId": "1537"
+  },
+  {
+    "lang": "es",
+    "slug": "bushwacker-receta",
+    "cocktailId": "1537"
+  },
+  {
+    "lang": "it",
+    "slug": "bushwacker-ricetta",
+    "cocktailId": "1537"
+  },
+  {
+    "lang": "en",
+    "slug": "frozen-negroni-recipe",
+    "cocktailId": "1538"
+  },
+  {
+    "lang": "es",
+    "slug": "frozen-negroni-receta",
+    "cocktailId": "1538"
+  },
+  {
+    "lang": "it",
+    "slug": "frozen-negroni-ricetta",
+    "cocktailId": "1538"
+  },
+  {
+    "lang": "en",
+    "slug": "frozen-margarita-recipe",
+    "cocktailId": "1539"
+  },
+  {
+    "lang": "es",
+    "slug": "frozen-margarita-receta",
+    "cocktailId": "1539"
+  },
+  {
+    "lang": "it",
+    "slug": "frozen-margarita-ricetta",
+    "cocktailId": "1539"
+  },
+  {
+    "lang": "en",
+    "slug": "frozen-lime-daiquiri-recipe",
+    "cocktailId": "1540"
+  },
+  {
+    "lang": "es",
+    "slug": "frozen-lime-daiquiri-receta",
+    "cocktailId": "1540"
+  },
+  {
+    "lang": "it",
+    "slug": "frozen-lime-daiquiri-ricetta",
+    "cocktailId": "1540"
+  },
+  {
+    "lang": "en",
+    "slug": "strawberry-daiquiri-recipe",
+    "cocktailId": "1541"
+  },
+  {
+    "lang": "es",
+    "slug": "strawberry-daiquiri-receta",
+    "cocktailId": "1541"
+  },
+  {
+    "lang": "it",
+    "slug": "strawberry-daiquiri-ricetta",
+    "cocktailId": "1541"
+  },
+  {
+    "lang": "en",
+    "slug": "blue-lagoon-recipe",
+    "cocktailId": "1542"
+  },
+  {
+    "lang": "es",
+    "slug": "blue-lagoon-receta",
+    "cocktailId": "1542"
+  },
+  {
+    "lang": "it",
+    "slug": "blue-lagoon-ricetta",
+    "cocktailId": "1542"
+  },
+  {
+    "lang": "en",
+    "slug": "piña-colada-recipe",
+    "cocktailId": "1543"
+  },
+  {
+    "lang": "es",
+    "slug": "piña-colada-receta",
+    "cocktailId": "1543"
+  },
+  {
+    "lang": "it",
+    "slug": "piña-colada-ricetta",
+    "cocktailId": "1543"
+  },
+  {
+    "lang": "en",
+    "slug": "frozen-strawberry-margarita-recipe",
+    "cocktailId": "1544"
+  },
+  {
+    "lang": "es",
+    "slug": "frozen-strawberry-margarita-receta",
+    "cocktailId": "1544"
+  },
+  {
+    "lang": "it",
+    "slug": "frozen-strawberry-margarita-ricetta",
+    "cocktailId": "1544"
+  },
+  {
+    "lang": "en",
+    "slug": "bull's-blood-recipe",
+    "cocktailId": "1545"
+  },
+  {
+    "lang": "es",
+    "slug": "bull's-blood-receta",
+    "cocktailId": "1545"
+  },
+  {
+    "lang": "it",
+    "slug": "bull's-blood-ricetta",
+    "cocktailId": "1545"
+  },
+  {
+    "lang": "en",
+    "slug": "cape-cod-recipe",
+    "cocktailId": "1546"
+  },
+  {
+    "lang": "es",
+    "slug": "cape-cod-receta",
+    "cocktailId": "1546"
+  },
+  {
+    "lang": "it",
+    "slug": "cape-cod-ricetta",
+    "cocktailId": "1546"
+  },
+  {
+    "lang": "en",
+    "slug": "zipper-recipe",
+    "cocktailId": "1547"
+  },
+  {
+    "lang": "es",
+    "slug": "zipper-receta",
+    "cocktailId": "1547"
+  },
+  {
+    "lang": "it",
+    "slug": "zipper-ricetta",
+    "cocktailId": "1547"
+  },
+  {
+    "lang": "en",
+    "slug": "elderflower-martini-recipe",
+    "cocktailId": "1548"
+  },
+  {
+    "lang": "es",
+    "slug": "elderflower-martini-receta",
+    "cocktailId": "1548"
+  },
+  {
+    "lang": "it",
+    "slug": "elderflower-martini-ricetta",
+    "cocktailId": "1548"
+  },
+  {
+    "lang": "en",
+    "slug": "pall-mall-recipe",
+    "cocktailId": "1549"
+  },
+  {
+    "lang": "es",
+    "slug": "pall-mall-receta",
+    "cocktailId": "1549"
+  },
+  {
+    "lang": "it",
+    "slug": "pall-mall-ricetta",
+    "cocktailId": "1549"
+  },
+  {
+    "lang": "en",
+    "slug": "palm-beach-recipe",
+    "cocktailId": "1550"
+  },
+  {
+    "lang": "es",
+    "slug": "palm-beach-receta",
+    "cocktailId": "1550"
+  },
+  {
+    "lang": "it",
+    "slug": "palm-beach-ricetta",
+    "cocktailId": "1550"
+  },
+  {
+    "lang": "en",
+    "slug": "bahía-breeze-recipe",
+    "cocktailId": "1551"
+  },
+  {
+    "lang": "es",
+    "slug": "bahía-breeze-receta",
+    "cocktailId": "1551"
+  },
+  {
+    "lang": "it",
+    "slug": "bahía-breeze-ricetta",
+    "cocktailId": "1551"
+  },
+  {
+    "lang": "en",
+    "slug": "freddie-fudpucker-recipe",
+    "cocktailId": "1552"
+  },
+  {
+    "lang": "es",
+    "slug": "freddie-fudpucker-receta",
+    "cocktailId": "1552"
+  },
+  {
+    "lang": "it",
+    "slug": "freddie-fudpucker-ricetta",
+    "cocktailId": "1552"
+  },
+  {
+    "lang": "en",
+    "slug": "cadillac-margarita-recipe",
+    "cocktailId": "1553"
+  },
+  {
+    "lang": "es",
+    "slug": "cadillac-margarita-receta",
+    "cocktailId": "1553"
+  },
+  {
+    "lang": "it",
+    "slug": "cadillac-margarita-ricetta",
+    "cocktailId": "1553"
+  },
+  {
+    "lang": "en",
+    "slug": "vodka-sidecar-recipe",
+    "cocktailId": "1554"
+  },
+  {
+    "lang": "es",
+    "slug": "vodka-sidecar-receta",
+    "cocktailId": "1554"
+  },
+  {
+    "lang": "it",
+    "slug": "vodka-sidecar-ricetta",
+    "cocktailId": "1554"
+  },
+  {
+    "lang": "en",
+    "slug": "limoncello-martini-recipe",
+    "cocktailId": "1555"
+  },
+  {
+    "lang": "es",
+    "slug": "limoncello-martini-receta",
+    "cocktailId": "1555"
+  },
+  {
+    "lang": "it",
+    "slug": "limoncello-martini-ricetta",
+    "cocktailId": "1555"
+  },
+  {
+    "lang": "en",
+    "slug": "canary-flip-recipe",
+    "cocktailId": "1556"
+  },
+  {
+    "lang": "es",
+    "slug": "canary-flip-receta",
+    "cocktailId": "1556"
+  },
+  {
+    "lang": "it",
+    "slug": "canary-flip-ricetta",
+    "cocktailId": "1556"
+  },
+  {
+    "lang": "en",
+    "slug": "cuban-island-recipe",
+    "cocktailId": "1557"
+  },
+  {
+    "lang": "es",
+    "slug": "cuban-island-receta",
+    "cocktailId": "1557"
+  },
+  {
+    "lang": "it",
+    "slug": "cuban-island-ricetta",
+    "cocktailId": "1557"
+  },
+  {
+    "lang": "en",
+    "slug": "derby-daiquiri-recipe",
+    "cocktailId": "1558"
+  },
+  {
+    "lang": "es",
+    "slug": "derby-daiquiri-receta",
+    "cocktailId": "1558"
+  },
+  {
+    "lang": "it",
+    "slug": "derby-daiquiri-ricetta",
+    "cocktailId": "1558"
+  },
+  {
+    "lang": "en",
+    "slug": "el-floridita-recipe",
+    "cocktailId": "1559"
+  },
+  {
+    "lang": "es",
+    "slug": "el-floridita-receta",
+    "cocktailId": "1559"
+  },
+  {
+    "lang": "it",
+    "slug": "el-floridita-ricetta",
+    "cocktailId": "1559"
+  },
+  {
+    "lang": "en",
+    "slug": "skinny-margarita-recipe",
+    "cocktailId": "1560"
+  },
+  {
+    "lang": "es",
+    "slug": "skinny-margarita-receta",
+    "cocktailId": "1560"
+  },
+  {
+    "lang": "it",
+    "slug": "skinny-margarita-ricetta",
+    "cocktailId": "1560"
+  },
+  {
+    "lang": "en",
+    "slug": "ampersand-recipe",
+    "cocktailId": "1561"
+  },
+  {
+    "lang": "es",
+    "slug": "ampersand-receta",
+    "cocktailId": "1561"
+  },
+  {
+    "lang": "it",
+    "slug": "ampersand-ricetta",
+    "cocktailId": "1561"
+  },
+  {
+    "lang": "en",
+    "slug": "peach-margarita-recipe",
+    "cocktailId": "1562"
+  },
+  {
+    "lang": "es",
+    "slug": "peach-margarita-receta",
+    "cocktailId": "1562"
+  },
+  {
+    "lang": "it",
+    "slug": "peach-margarita-ricetta",
+    "cocktailId": "1562"
+  },
+  {
+    "lang": "en",
+    "slug": "pineapple-margarita-recipe",
+    "cocktailId": "1563"
+  },
+  {
+    "lang": "es",
+    "slug": "pineapple-margarita-receta",
+    "cocktailId": "1563"
+  },
+  {
+    "lang": "it",
+    "slug": "pineapple-margarita-ricetta",
+    "cocktailId": "1563"
+  },
+  {
+    "lang": "en",
+    "slug": "italian-margarita-recipe",
+    "cocktailId": "1564"
+  },
+  {
+    "lang": "es",
+    "slug": "italian-margarita-receta",
+    "cocktailId": "1564"
+  },
+  {
+    "lang": "it",
+    "slug": "italian-margarita-ricetta",
+    "cocktailId": "1564"
+  },
+  {
+    "lang": "en",
+    "slug": "jungle-bird-recipe",
+    "cocktailId": "1565"
+  },
+  {
+    "lang": "es",
+    "slug": "jungle-bird-receta",
+    "cocktailId": "1565"
+  },
+  {
+    "lang": "it",
+    "slug": "jungle-bird-ricetta",
+    "cocktailId": "1565"
+  },
+  {
+    "lang": "en",
+    "slug": "cin-cyn-recipe",
+    "cocktailId": "1566"
+  },
+  {
+    "lang": "es",
+    "slug": "cin-cyn-receta",
+    "cocktailId": "1566"
+  },
+  {
+    "lang": "it",
+    "slug": "cin-cyn-ricetta",
+    "cocktailId": "1566"
+  },
+  {
+    "lang": "en",
+    "slug": "trident-recipe",
+    "cocktailId": "1567"
+  },
+  {
+    "lang": "es",
+    "slug": "trident-receta",
+    "cocktailId": "1567"
+  },
+  {
+    "lang": "it",
+    "slug": "trident-ricetta",
+    "cocktailId": "1567"
+  },
+  {
+    "lang": "en",
+    "slug": "creole-cocktail-recipe",
+    "cocktailId": "1568"
+  },
+  {
+    "lang": "es",
+    "slug": "creole-cocktail-receta",
+    "cocktailId": "1568"
+  },
+  {
+    "lang": "it",
+    "slug": "creole-cocktail-ricetta",
+    "cocktailId": "1568"
+  },
+  {
+    "lang": "en",
+    "slug": "nevada-cocktail-recipe",
+    "cocktailId": "1569"
+  },
+  {
+    "lang": "es",
+    "slug": "nevada-cocktail-receta",
+    "cocktailId": "1569"
+  },
+  {
+    "lang": "it",
+    "slug": "nevada-cocktail-ricetta",
+    "cocktailId": "1569"
+  },
+  {
+    "lang": "en",
+    "slug": "nightcap-recipe",
+    "cocktailId": "1570"
+  },
+  {
+    "lang": "es",
+    "slug": "nightcap-receta",
+    "cocktailId": "1570"
+  },
+  {
+    "lang": "it",
+    "slug": "nightcap-ricetta",
+    "cocktailId": "1570"
+  },
+  {
+    "lang": "en",
+    "slug": "moulin-rouge-recipe",
+    "cocktailId": "1571"
+  },
+  {
+    "lang": "es",
+    "slug": "moulin-rouge-receta",
+    "cocktailId": "1571"
+  },
+  {
+    "lang": "it",
+    "slug": "moulin-rouge-ricetta",
+    "cocktailId": "1571"
+  },
+  {
+    "lang": "en",
+    "slug": "peter-pan-recipe",
+    "cocktailId": "1572"
+  },
+  {
+    "lang": "es",
+    "slug": "peter-pan-receta",
+    "cocktailId": "1572"
+  },
+  {
+    "lang": "it",
+    "slug": "peter-pan-ricetta",
+    "cocktailId": "1572"
+  },
+  {
+    "lang": "en",
+    "slug": "imperial-recipe",
+    "cocktailId": "1573"
+  },
+  {
+    "lang": "es",
+    "slug": "imperial-receta",
+    "cocktailId": "1573"
+  },
+  {
+    "lang": "it",
+    "slug": "imperial-ricetta",
+    "cocktailId": "1573"
+  },
+  {
+    "lang": "en",
+    "slug": "harlem-recipe",
+    "cocktailId": "1574"
+  },
+  {
+    "lang": "es",
+    "slug": "harlem-receta",
+    "cocktailId": "1574"
+  },
+  {
+    "lang": "it",
+    "slug": "harlem-ricetta",
+    "cocktailId": "1574"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-alexander-recipe",
+    "cocktailId": "1575"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-alexander-receta",
+    "cocktailId": "1575"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-alexander-ricetta",
+    "cocktailId": "1575"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-rickey-recipe",
+    "cocktailId": "1576"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-rickey-receta",
+    "cocktailId": "1576"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-rickey-ricetta",
+    "cocktailId": "1576"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-sidecar-recipe",
+    "cocktailId": "1577"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-sidecar-receta",
+    "cocktailId": "1577"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-sidecar-ricetta",
+    "cocktailId": "1577"
+  },
+  {
+    "lang": "en",
+    "slug": "froth-blower-recipe",
+    "cocktailId": "1578"
+  },
+  {
+    "lang": "es",
+    "slug": "froth-blower-receta",
+    "cocktailId": "1578"
+  },
+  {
+    "lang": "it",
+    "slug": "froth-blower-ricetta",
+    "cocktailId": "1578"
+  },
+  {
+    "lang": "en",
+    "slug": "fine-&-dandy-recipe",
+    "cocktailId": "1579"
+  },
+  {
+    "lang": "es",
+    "slug": "fine-&-dandy-receta",
+    "cocktailId": "1579"
+  },
+  {
+    "lang": "it",
+    "slug": "fine-&-dandy-ricetta",
+    "cocktailId": "1579"
+  },
+  {
+    "lang": "en",
+    "slug": "bolero-recipe",
+    "cocktailId": "1580"
+  },
+  {
+    "lang": "es",
+    "slug": "bolero-receta",
+    "cocktailId": "1580"
+  },
+  {
+    "lang": "it",
+    "slug": "bolero-ricetta",
+    "cocktailId": "1580"
+  },
+  {
+    "lang": "en",
+    "slug": "barbary-coast-recipe",
+    "cocktailId": "1581"
+  },
+  {
+    "lang": "es",
+    "slug": "barbary-coast-receta",
+    "cocktailId": "1581"
+  },
+  {
+    "lang": "it",
+    "slug": "barbary-coast-ricetta",
+    "cocktailId": "1581"
+  },
+  {
+    "lang": "en",
+    "slug": "bennet-cocktail-recipe",
+    "cocktailId": "1582"
+  },
+  {
+    "lang": "es",
+    "slug": "bennet-cocktail-receta",
+    "cocktailId": "1582"
+  },
+  {
+    "lang": "it",
+    "slug": "bennet-cocktail-ricetta",
+    "cocktailId": "1582"
+  },
+  {
+    "lang": "en",
+    "slug": "royal-smile-recipe",
+    "cocktailId": "1583"
+  },
+  {
+    "lang": "es",
+    "slug": "royal-smile-receta",
+    "cocktailId": "1583"
+  },
+  {
+    "lang": "it",
+    "slug": "royal-smile-ricetta",
+    "cocktailId": "1583"
+  },
+  {
+    "lang": "en",
+    "slug": "quaker-cocktail-recipe",
+    "cocktailId": "1584"
+  },
+  {
+    "lang": "es",
+    "slug": "quaker-cocktail-receta",
+    "cocktailId": "1584"
+  },
+  {
+    "lang": "it",
+    "slug": "quaker-cocktail-ricetta",
+    "cocktailId": "1584"
+  },
+  {
+    "lang": "en",
+    "slug": "princeton-recipe",
+    "cocktailId": "1585"
+  },
+  {
+    "lang": "es",
+    "slug": "princeton-receta",
+    "cocktailId": "1585"
+  },
+  {
+    "lang": "it",
+    "slug": "princeton-ricetta",
+    "cocktailId": "1585"
+  },
+  {
+    "lang": "en",
+    "slug": "santiago-recipe",
+    "cocktailId": "1586"
+  },
+  {
+    "lang": "es",
+    "slug": "santiago-receta",
+    "cocktailId": "1586"
+  },
+  {
+    "lang": "it",
+    "slug": "santiago-ricetta",
+    "cocktailId": "1586"
+  },
+  {
+    "lang": "en",
+    "slug": "savoy-tango-recipe",
+    "cocktailId": "1587"
+  },
+  {
+    "lang": "es",
+    "slug": "savoy-tango-receta",
+    "cocktailId": "1587"
+  },
+  {
+    "lang": "it",
+    "slug": "savoy-tango-ricetta",
+    "cocktailId": "1587"
+  },
+  {
+    "lang": "en",
+    "slug": "silver-king-recipe",
+    "cocktailId": "1588"
+  },
+  {
+    "lang": "es",
+    "slug": "silver-king-receta",
+    "cocktailId": "1588"
+  },
+  {
+    "lang": "it",
+    "slug": "silver-king-ricetta",
+    "cocktailId": "1588"
+  },
+  {
+    "lang": "en",
+    "slug": "sir-walter-recipe",
+    "cocktailId": "1589"
+  },
+  {
+    "lang": "es",
+    "slug": "sir-walter-receta",
+    "cocktailId": "1589"
+  },
+  {
+    "lang": "it",
+    "slug": "sir-walter-ricetta",
+    "cocktailId": "1589"
+  },
+  {
+    "lang": "en",
+    "slug": "shangai-recipe",
+    "cocktailId": "1590"
+  },
+  {
+    "lang": "es",
+    "slug": "shangai-receta",
+    "cocktailId": "1590"
+  },
+  {
+    "lang": "it",
+    "slug": "shangai-ricetta",
+    "cocktailId": "1590"
+  },
+  {
+    "lang": "en",
+    "slug": "tnt-recipe",
+    "cocktailId": "1591"
+  },
+  {
+    "lang": "es",
+    "slug": "tnt-receta",
+    "cocktailId": "1591"
+  },
+  {
+    "lang": "it",
+    "slug": "tnt-ricetta",
+    "cocktailId": "1591"
+  },
+  {
+    "lang": "en",
+    "slug": "valencia-cocktail-recipe",
+    "cocktailId": "1592"
+  },
+  {
+    "lang": "es",
+    "slug": "valencia-cocktail-receta",
+    "cocktailId": "1592"
+  },
+  {
+    "lang": "it",
+    "slug": "valencia-cocktail-ricetta",
+    "cocktailId": "1592"
+  },
+  {
+    "lang": "en",
+    "slug": "ulysses-recipe",
+    "cocktailId": "1593"
+  },
+  {
+    "lang": "es",
+    "slug": "ulysses-receta",
+    "cocktailId": "1593"
+  },
+  {
+    "lang": "it",
+    "slug": "ulysses-ricetta",
+    "cocktailId": "1593"
+  },
+  {
+    "lang": "en",
+    "slug": "vanderbilt-recipe",
+    "cocktailId": "1594"
+  },
+  {
+    "lang": "es",
+    "slug": "vanderbilt-receta",
+    "cocktailId": "1594"
+  },
+  {
+    "lang": "it",
+    "slug": "vanderbilt-ricetta",
+    "cocktailId": "1594"
+  },
+  {
+    "lang": "en",
+    "slug": "washington-recipe",
+    "cocktailId": "1595"
+  },
+  {
+    "lang": "es",
+    "slug": "washington-receta",
+    "cocktailId": "1595"
+  },
+  {
+    "lang": "it",
+    "slug": "washington-ricetta",
+    "cocktailId": "1595"
+  },
+  {
+    "lang": "en",
+    "slug": "irish-rose-recipe",
+    "cocktailId": "1596"
+  },
+  {
+    "lang": "es",
+    "slug": "irish-rose-receta",
+    "cocktailId": "1596"
+  },
+  {
+    "lang": "it",
+    "slug": "irish-rose-ricetta",
+    "cocktailId": "1596"
+  },
+  {
+    "lang": "en",
+    "slug": "japanese-cocktail-recipe",
+    "cocktailId": "1597"
+  },
+  {
+    "lang": "es",
+    "slug": "japanese-cocktail-receta",
+    "cocktailId": "1597"
+  },
+  {
+    "lang": "it",
+    "slug": "japanese-cocktail-ricetta",
+    "cocktailId": "1597"
+  },
+  {
+    "lang": "en",
+    "slug": "kalimotxo-recipe",
+    "cocktailId": "1598"
+  },
+  {
+    "lang": "es",
+    "slug": "kalimotxo-receta",
+    "cocktailId": "1598"
+  },
+  {
+    "lang": "it",
+    "slug": "kalimotxo-ricetta",
+    "cocktailId": "1598"
+  },
+  {
+    "lang": "en",
+    "slug": "butterfly-recipe",
+    "cocktailId": "1599"
+  },
+  {
+    "lang": "es",
+    "slug": "butterfly-receta",
+    "cocktailId": "1599"
+  },
+  {
+    "lang": "it",
+    "slug": "butterfly-ricetta",
+    "cocktailId": "1599"
+  },
+  {
+    "lang": "en",
+    "slug": "red-rover-recipe",
+    "cocktailId": "1600"
+  },
+  {
+    "lang": "es",
+    "slug": "red-rover-receta",
+    "cocktailId": "1600"
+  },
+  {
+    "lang": "it",
+    "slug": "red-rover-ricetta",
+    "cocktailId": "1600"
+  },
+  {
+    "lang": "en",
+    "slug": "alice-recipe",
+    "cocktailId": "1601"
+  },
+  {
+    "lang": "es",
+    "slug": "alice-receta",
+    "cocktailId": "1601"
+  },
+  {
+    "lang": "it",
+    "slug": "alice-ricetta",
+    "cocktailId": "1601"
+  },
+  {
+    "lang": "en",
+    "slug": "afterglow-recipe",
+    "cocktailId": "1602"
+  },
+  {
+    "lang": "es",
+    "slug": "afterglow-receta",
+    "cocktailId": "1602"
+  },
+  {
+    "lang": "it",
+    "slug": "afterglow-ricetta",
+    "cocktailId": "1602"
+  },
+  {
+    "lang": "en",
+    "slug": "apple-spritzer-recipe",
+    "cocktailId": "1603"
+  },
+  {
+    "lang": "es",
+    "slug": "apple-spritzer-receta",
+    "cocktailId": "1603"
+  },
+  {
+    "lang": "it",
+    "slug": "apple-spritzer-ricetta",
+    "cocktailId": "1603"
+  },
+  {
+    "lang": "en",
+    "slug": "vodka-sunset-recipe",
+    "cocktailId": "1604"
+  },
+  {
+    "lang": "es",
+    "slug": "vodka-sunset-receta",
+    "cocktailId": "1604"
+  },
+  {
+    "lang": "it",
+    "slug": "vodka-sunset-ricetta",
+    "cocktailId": "1604"
+  },
+  {
+    "lang": "en",
+    "slug": "vesuvio-recipe",
+    "cocktailId": "1605"
+  },
+  {
+    "lang": "es",
+    "slug": "vesuvio-receta",
+    "cocktailId": "1605"
+  },
+  {
+    "lang": "it",
+    "slug": "vesuvio-ricetta",
+    "cocktailId": "1605"
+  },
+  {
+    "lang": "en",
+    "slug": "veteran-cocktail-recipe",
+    "cocktailId": "1606"
+  },
+  {
+    "lang": "es",
+    "slug": "veteran-cocktail-receta",
+    "cocktailId": "1606"
+  },
+  {
+    "lang": "it",
+    "slug": "veteran-cocktail-ricetta",
+    "cocktailId": "1606"
+  },
+  {
+    "lang": "en",
+    "slug": "vermouth-cassis-recipe",
+    "cocktailId": "1607"
+  },
+  {
+    "lang": "es",
+    "slug": "vermouth-cassis-receta",
+    "cocktailId": "1607"
+  },
+  {
+    "lang": "it",
+    "slug": "vermouth-cassis-ricetta",
+    "cocktailId": "1607"
+  },
+  {
+    "lang": "en",
+    "slug": "sweet-martini-recipe",
+    "cocktailId": "1608"
+  },
+  {
+    "lang": "es",
+    "slug": "sweet-martini-receta",
+    "cocktailId": "1608"
+  },
+  {
+    "lang": "it",
+    "slug": "sweet-martini-ricetta",
+    "cocktailId": "1608"
+  },
+  {
+    "lang": "en",
+    "slug": "tequila-martini-recipe",
+    "cocktailId": "1609"
+  },
+  {
+    "lang": "es",
+    "slug": "tequila-martini-receta",
+    "cocktailId": "1609"
+  },
+  {
+    "lang": "it",
+    "slug": "tequila-martini-ricetta",
+    "cocktailId": "1609"
+  },
+  {
+    "lang": "en",
+    "slug": "sake-martini-recipe",
+    "cocktailId": "1610"
+  },
+  {
+    "lang": "es",
+    "slug": "sake-martini-receta",
+    "cocktailId": "1610"
+  },
+  {
+    "lang": "it",
+    "slug": "sake-martini-ricetta",
+    "cocktailId": "1610"
+  },
+  {
+    "lang": "en",
+    "slug": "rum-martini-recipe",
+    "cocktailId": "1611"
+  },
+  {
+    "lang": "es",
+    "slug": "rum-martini-receta",
+    "cocktailId": "1611"
+  },
+  {
+    "lang": "it",
+    "slug": "rum-martini-ricetta",
+    "cocktailId": "1611"
+  },
+  {
+    "lang": "en",
+    "slug": "angelo-azzurro-recipe",
+    "cocktailId": "1612"
+  },
+  {
+    "lang": "es",
+    "slug": "angelo-azzurro-receta",
+    "cocktailId": "1612"
+  },
+  {
+    "lang": "it",
+    "slug": "angelo-azzurro-ricetta",
+    "cocktailId": "1612"
+  },
+  {
+    "lang": "en",
+    "slug": "red-vodka-martini-recipe",
+    "cocktailId": "1613"
+  },
+  {
+    "lang": "es",
+    "slug": "red-vodka-martini-receta",
+    "cocktailId": "1613"
+  },
+  {
+    "lang": "it",
+    "slug": "red-vodka-martini-ricetta",
+    "cocktailId": "1613"
+  },
+  {
+    "lang": "en",
+    "slug": "irish-martini-recipe",
+    "cocktailId": "1614"
+  },
+  {
+    "lang": "es",
+    "slug": "irish-martini-receta",
+    "cocktailId": "1614"
+  },
+  {
+    "lang": "it",
+    "slug": "irish-martini-ricetta",
+    "cocktailId": "1614"
+  },
+  {
+    "lang": "en",
+    "slug": "grappatini-recipe",
+    "cocktailId": "1615"
+  },
+  {
+    "lang": "es",
+    "slug": "grappatini-receta",
+    "cocktailId": "1615"
+  },
+  {
+    "lang": "it",
+    "slug": "grappatini-ricetta",
+    "cocktailId": "1615"
+  },
+  {
+    "lang": "en",
+    "slug": "alessandro-recipe",
+    "cocktailId": "1616"
+  },
+  {
+    "lang": "es",
+    "slug": "alessandro-receta",
+    "cocktailId": "1616"
+  },
+  {
+    "lang": "it",
+    "slug": "alessandro-ricetta",
+    "cocktailId": "1616"
+  },
+  {
+    "lang": "en",
+    "slug": "amsterdam-cocktail-recipe",
+    "cocktailId": "1617"
+  },
+  {
+    "lang": "es",
+    "slug": "amsterdam-cocktail-receta",
+    "cocktailId": "1617"
+  },
+  {
+    "lang": "it",
+    "slug": "amsterdam-cocktail-ricetta",
+    "cocktailId": "1617"
+  },
+  {
+    "lang": "en",
+    "slug": "annabelle-special-recipe",
+    "cocktailId": "1618"
+  },
+  {
+    "lang": "es",
+    "slug": "annabelle-special-receta",
+    "cocktailId": "1618"
+  },
+  {
+    "lang": "it",
+    "slug": "annabelle-special-ricetta",
+    "cocktailId": "1618"
+  },
+  {
+    "lang": "en",
+    "slug": "arena-recipe",
+    "cocktailId": "1619"
+  },
+  {
+    "lang": "es",
+    "slug": "arena-receta",
+    "cocktailId": "1619"
+  },
+  {
+    "lang": "it",
+    "slug": "arena-ricetta",
+    "cocktailId": "1619"
+  },
+  {
+    "lang": "en",
+    "slug": "army-&-navy-recipe",
+    "cocktailId": "1620"
+  },
+  {
+    "lang": "es",
+    "slug": "army-&-navy-receta",
+    "cocktailId": "1620"
+  },
+  {
+    "lang": "it",
+    "slug": "army-&-navy-ricetta",
+    "cocktailId": "1620"
+  },
+  {
+    "lang": "en",
+    "slug": "arnaud-recipe",
+    "cocktailId": "1621"
+  },
+  {
+    "lang": "es",
+    "slug": "arnaud-receta",
+    "cocktailId": "1621"
+  },
+  {
+    "lang": "it",
+    "slug": "arnaud-ricetta",
+    "cocktailId": "1621"
+  },
+  {
+    "lang": "en",
+    "slug": "baron-cocktail-recipe",
+    "cocktailId": "1622"
+  },
+  {
+    "lang": "es",
+    "slug": "baron-cocktail-receta",
+    "cocktailId": "1622"
+  },
+  {
+    "lang": "it",
+    "slug": "baron-cocktail-ricetta",
+    "cocktailId": "1622"
+  },
+  {
+    "lang": "en",
+    "slug": "bernardo-recipe",
+    "cocktailId": "1623"
+  },
+  {
+    "lang": "es",
+    "slug": "bernardo-receta",
+    "cocktailId": "1623"
+  },
+  {
+    "lang": "it",
+    "slug": "bernardo-ricetta",
+    "cocktailId": "1623"
+  },
+  {
+    "lang": "en",
+    "slug": "blue-angel-recipe",
+    "cocktailId": "1624"
+  },
+  {
+    "lang": "es",
+    "slug": "blue-angel-receta",
+    "cocktailId": "1624"
+  },
+  {
+    "lang": "it",
+    "slug": "blue-angel-ricetta",
+    "cocktailId": "1624"
+  },
+  {
+    "lang": "en",
+    "slug": "blue-bird-recipe",
+    "cocktailId": "1625"
+  },
+  {
+    "lang": "es",
+    "slug": "blue-bird-receta",
+    "cocktailId": "1625"
+  },
+  {
+    "lang": "it",
+    "slug": "blue-bird-ricetta",
+    "cocktailId": "1625"
+  },
+  {
+    "lang": "en",
+    "slug": "blue-monday-recipe",
+    "cocktailId": "1626"
+  },
+  {
+    "lang": "es",
+    "slug": "blue-monday-receta",
+    "cocktailId": "1626"
+  },
+  {
+    "lang": "it",
+    "slug": "blue-monday-ricetta",
+    "cocktailId": "1626"
+  },
+  {
+    "lang": "en",
+    "slug": "aventura-recipe",
+    "cocktailId": "1627"
+  },
+  {
+    "lang": "es",
+    "slug": "aventura-receta",
+    "cocktailId": "1627"
+  },
+  {
+    "lang": "it",
+    "slug": "aventura-ricetta",
+    "cocktailId": "1627"
+  },
+  {
+    "lang": "en",
+    "slug": "cubata-recipe",
+    "cocktailId": "1628"
+  },
+  {
+    "lang": "es",
+    "slug": "cubata-receta",
+    "cocktailId": "1628"
+  },
+  {
+    "lang": "it",
+    "slug": "cubata-ricetta",
+    "cocktailId": "1628"
+  },
+  {
+    "lang": "en",
+    "slug": "apple-manhattan-recipe",
+    "cocktailId": "1629"
+  },
+  {
+    "lang": "es",
+    "slug": "apple-manhattan-receta",
+    "cocktailId": "1629"
+  },
+  {
+    "lang": "it",
+    "slug": "apple-manhattan-ricetta",
+    "cocktailId": "1629"
+  },
+  {
+    "lang": "en",
+    "slug": "lucien-gaudin-recipe",
+    "cocktailId": "1630"
+  },
+  {
+    "lang": "es",
+    "slug": "lucien-gaudin-receta",
+    "cocktailId": "1630"
+  },
+  {
+    "lang": "it",
+    "slug": "lucien-gaudin-ricetta",
+    "cocktailId": "1630"
+  },
+  {
+    "lang": "en",
+    "slug": "b-&-b-cocktail-recipe",
+    "cocktailId": "1631"
+  },
+  {
+    "lang": "es",
+    "slug": "b-&-b-cocktail-receta",
+    "cocktailId": "1631"
+  },
+  {
+    "lang": "it",
+    "slug": "b-&-b-cocktail-ricetta",
+    "cocktailId": "1631"
+  },
+  {
+    "lang": "en",
+    "slug": "boston-flip-recipe",
+    "cocktailId": "1632"
+  },
+  {
+    "lang": "es",
+    "slug": "boston-flip-receta",
+    "cocktailId": "1632"
+  },
+  {
+    "lang": "it",
+    "slug": "boston-flip-ricetta",
+    "cocktailId": "1632"
+  },
+  {
+    "lang": "en",
+    "slug": "brandy-flip-recipe",
+    "cocktailId": "1633"
+  },
+  {
+    "lang": "es",
+    "slug": "brandy-flip-receta",
+    "cocktailId": "1633"
+  },
+  {
+    "lang": "it",
+    "slug": "brandy-flip-ricetta",
+    "cocktailId": "1633"
+  },
+  {
+    "lang": "en",
+    "slug": "cablegram-recipe",
+    "cocktailId": "1634"
+  },
+  {
+    "lang": "es",
+    "slug": "cablegram-receta",
+    "cocktailId": "1634"
+  },
+  {
+    "lang": "it",
+    "slug": "cablegram-ricetta",
+    "cocktailId": "1634"
+  },
+  {
+    "lang": "en",
+    "slug": "red-hook-recipe",
+    "cocktailId": "1635"
+  },
+  {
+    "lang": "es",
+    "slug": "red-hook-receta",
+    "cocktailId": "1635"
+  },
+  {
+    "lang": "it",
+    "slug": "red-hook-ricetta",
+    "cocktailId": "1635"
+  },
+  {
+    "lang": "en",
+    "slug": "casino-recipe",
+    "cocktailId": "1636"
+  },
+  {
+    "lang": "es",
+    "slug": "casino-receta",
+    "cocktailId": "1636"
+  },
+  {
+    "lang": "it",
+    "slug": "casino-ricetta",
+    "cocktailId": "1636"
+  },
+  {
+    "lang": "en",
+    "slug": "diamondback-recipe",
+    "cocktailId": "1637"
+  },
+  {
+    "lang": "es",
+    "slug": "diamondback-receta",
+    "cocktailId": "1637"
+  },
+  {
+    "lang": "it",
+    "slug": "diamondback-ricetta",
+    "cocktailId": "1637"
+  },
+  {
+    "lang": "en",
+    "slug": "earthquake-recipe",
+    "cocktailId": "1638"
+  },
+  {
+    "lang": "es",
+    "slug": "earthquake-receta",
+    "cocktailId": "1638"
+  },
+  {
+    "lang": "it",
+    "slug": "earthquake-ricetta",
+    "cocktailId": "1638"
+  },
+  {
+    "lang": "en",
+    "slug": "virgin-paloma-recipe",
+    "cocktailId": "1639"
+  },
+  {
+    "lang": "es",
+    "slug": "virgin-paloma-receta",
+    "cocktailId": "1639"
+  },
+  {
+    "lang": "it",
+    "slug": "virgin-paloma-ricetta",
+    "cocktailId": "1639"
+  },
+  {
+    "lang": "en",
+    "slug": "egg-sour-recipe",
+    "cocktailId": "1640"
+  },
+  {
+    "lang": "es",
+    "slug": "egg-sour-receta",
+    "cocktailId": "1640"
+  },
+  {
+    "lang": "it",
+    "slug": "egg-sour-ricetta",
+    "cocktailId": "1640"
+  },
+  {
+    "lang": "en",
+    "slug": "coffee-sour-recipe",
+    "cocktailId": "1641"
+  },
+  {
+    "lang": "es",
+    "slug": "coffee-sour-receta",
+    "cocktailId": "1641"
+  },
+  {
+    "lang": "it",
+    "slug": "coffee-sour-ricetta",
+    "cocktailId": "1641"
+  },
+  {
+    "lang": "en",
+    "slug": "stone-sour-recipe",
+    "cocktailId": "1642"
+  },
+  {
+    "lang": "es",
+    "slug": "stone-sour-receta",
+    "cocktailId": "1642"
+  },
+  {
+    "lang": "it",
+    "slug": "stone-sour-ricetta",
+    "cocktailId": "1642"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-&-it-recipe",
+    "cocktailId": "1643"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-&-it-receta",
+    "cocktailId": "1643"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-&-it-ricetta",
+    "cocktailId": "1643"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-berry-recipe",
+    "cocktailId": "1644"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-berry-receta",
+    "cocktailId": "1644"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-berry-ricetta",
+    "cocktailId": "1644"
+  },
+  {
+    "lang": "en",
+    "slug": "golden-cadillac-recipe",
+    "cocktailId": "1645"
+  },
+  {
+    "lang": "es",
+    "slug": "golden-cadillac-receta",
+    "cocktailId": "1645"
+  },
+  {
+    "lang": "it",
+    "slug": "golden-cadillac-ricetta",
+    "cocktailId": "1645"
+  },
+  {
+    "lang": "en",
+    "slug": "honey-bee-recipe",
+    "cocktailId": "1646"
+  },
+  {
+    "lang": "es",
+    "slug": "honey-bee-receta",
+    "cocktailId": "1646"
+  },
+  {
+    "lang": "it",
+    "slug": "honey-bee-ricetta",
+    "cocktailId": "1646"
+  },
+  {
+    "lang": "en",
+    "slug": "honeysuckle-recipe",
+    "cocktailId": "1647"
+  },
+  {
+    "lang": "es",
+    "slug": "honeysuckle-receta",
+    "cocktailId": "1647"
+  },
+  {
+    "lang": "it",
+    "slug": "honeysuckle-ricetta",
+    "cocktailId": "1647"
+  },
+  {
+    "lang": "en",
+    "slug": "ideal-recipe",
+    "cocktailId": "1648"
+  },
+  {
+    "lang": "es",
+    "slug": "ideal-receta",
+    "cocktailId": "1648"
+  },
+  {
+    "lang": "it",
+    "slug": "ideal-ricetta",
+    "cocktailId": "1648"
+  },
+  {
+    "lang": "en",
+    "slug": "imperial-fizz-recipe",
+    "cocktailId": "1649"
+  },
+  {
+    "lang": "es",
+    "slug": "imperial-fizz-receta",
+    "cocktailId": "1649"
+  },
+  {
+    "lang": "it",
+    "slug": "imperial-fizz-ricetta",
+    "cocktailId": "1649"
+  },
+  {
+    "lang": "en",
+    "slug": "income-tax-recipe",
+    "cocktailId": "1650"
+  },
+  {
+    "lang": "es",
+    "slug": "income-tax-receta",
+    "cocktailId": "1650"
+  },
+  {
+    "lang": "it",
+    "slug": "income-tax-ricetta",
+    "cocktailId": "1650"
+  },
+  {
+    "lang": "en",
+    "slug": "tequila-collins-recipe",
+    "cocktailId": "1651"
+  },
+  {
+    "lang": "es",
+    "slug": "tequila-collins-receta",
+    "cocktailId": "1651"
+  },
+  {
+    "lang": "it",
+    "slug": "tequila-collins-ricetta",
+    "cocktailId": "1651"
+  },
+  {
+    "lang": "en",
+    "slug": "kingston-negroni-recipe",
+    "cocktailId": "1652"
+  },
+  {
+    "lang": "es",
+    "slug": "kingston-negroni-receta",
+    "cocktailId": "1652"
+  },
+  {
+    "lang": "it",
+    "slug": "kingston-negroni-ricetta",
+    "cocktailId": "1652"
+  },
+  {
+    "lang": "en",
+    "slug": "mind-eraser-recipe",
+    "cocktailId": "1653"
+  },
+  {
+    "lang": "es",
+    "slug": "mind-eraser-receta",
+    "cocktailId": "1653"
+  },
+  {
+    "lang": "it",
+    "slug": "mind-eraser-ricetta",
+    "cocktailId": "1653"
+  },
+  {
+    "lang": "en",
+    "slug": "monte-carlo-recipe",
+    "cocktailId": "1654"
+  },
+  {
+    "lang": "es",
+    "slug": "monte-carlo-receta",
+    "cocktailId": "1654"
+  },
+  {
+    "lang": "it",
+    "slug": "monte-carlo-ricetta",
+    "cocktailId": "1654"
+  },
+  {
+    "lang": "en",
+    "slug": "pink-lady-recipe",
+    "cocktailId": "1655"
+  },
+  {
+    "lang": "es",
+    "slug": "pink-lady-receta",
+    "cocktailId": "1655"
+  },
+  {
+    "lang": "it",
+    "slug": "pink-lady-ricetta",
+    "cocktailId": "1655"
+  },
+  {
+    "lang": "en",
+    "slug": "seelbach-recipe",
+    "cocktailId": "1656"
+  },
+  {
+    "lang": "es",
+    "slug": "seelbach-receta",
+    "cocktailId": "1656"
+  },
+  {
+    "lang": "it",
+    "slug": "seelbach-ricetta",
+    "cocktailId": "1656"
+  },
+  {
+    "lang": "en",
+    "slug": "oaxaca-old-fashioned-recipe",
+    "cocktailId": "1657"
+  },
+  {
+    "lang": "es",
+    "slug": "oaxaca-old-fashioned-receta",
+    "cocktailId": "1657"
+  },
+  {
+    "lang": "it",
+    "slug": "oaxaca-old-fashioned-ricetta",
+    "cocktailId": "1657"
+  },
+  {
+    "lang": "en",
+    "slug": "final-ward-recipe",
+    "cocktailId": "1658"
+  },
+  {
+    "lang": "es",
+    "slug": "final-ward-receta",
+    "cocktailId": "1658"
+  },
+  {
+    "lang": "it",
+    "slug": "final-ward-ricetta",
+    "cocktailId": "1658"
+  },
+  {
+    "lang": "en",
+    "slug": "bushwick-recipe",
+    "cocktailId": "1659"
+  },
+  {
+    "lang": "es",
+    "slug": "bushwick-receta",
+    "cocktailId": "1659"
+  },
+  {
+    "lang": "it",
+    "slug": "bushwick-ricetta",
+    "cocktailId": "1659"
+  },
+  {
+    "lang": "en",
+    "slug": "division-bell-recipe",
+    "cocktailId": "1660"
+  },
+  {
+    "lang": "es",
+    "slug": "division-bell-receta",
+    "cocktailId": "1660"
+  },
+  {
+    "lang": "it",
+    "slug": "division-bell-ricetta",
+    "cocktailId": "1660"
+  },
+  {
+    "lang": "en",
+    "slug": "good-cork-recipe",
+    "cocktailId": "1661"
+  },
+  {
+    "lang": "es",
+    "slug": "good-cork-receta",
+    "cocktailId": "1661"
+  },
+  {
+    "lang": "it",
+    "slug": "good-cork-ricetta",
+    "cocktailId": "1661"
+  },
+  {
+    "lang": "en",
+    "slug": "elder-fashion-recipe",
+    "cocktailId": "1662"
+  },
+  {
+    "lang": "es",
+    "slug": "elder-fashion-receta",
+    "cocktailId": "1662"
+  },
+  {
+    "lang": "it",
+    "slug": "elder-fashion-ricetta",
+    "cocktailId": "1662"
+  },
+  {
+    "lang": "en",
+    "slug": "cornwall-negroni-recipe",
+    "cocktailId": "1663"
+  },
+  {
+    "lang": "es",
+    "slug": "cornwall-negroni-receta",
+    "cocktailId": "1663"
+  },
+  {
+    "lang": "it",
+    "slug": "cornwall-negroni-ricetta",
+    "cocktailId": "1663"
+  },
+  {
+    "lang": "en",
+    "slug": "suffering-bastard-recipe",
+    "cocktailId": "1664"
+  },
+  {
+    "lang": "es",
+    "slug": "suffering-bastard-receta",
+    "cocktailId": "1664"
+  },
+  {
+    "lang": "it",
+    "slug": "suffering-bastard-ricetta",
+    "cocktailId": "1664"
+  },
+  {
+    "lang": "en",
+    "slug": "tequila-sunrise-recipe",
+    "cocktailId": "1665"
+  },
+  {
+    "lang": "es",
+    "slug": "tequila-sunrise-receta",
+    "cocktailId": "1665"
+  },
+  {
+    "lang": "it",
+    "slug": "tequila-sunrise-ricetta",
+    "cocktailId": "1665"
+  },
+  {
+    "lang": "en",
+    "slug": "three-miller-recipe",
+    "cocktailId": "1666"
+  },
+  {
+    "lang": "es",
+    "slug": "three-miller-receta",
+    "cocktailId": "1666"
+  },
+  {
+    "lang": "it",
+    "slug": "three-miller-ricetta",
+    "cocktailId": "1666"
+  },
+  {
+    "lang": "en",
+    "slug": "enzoni-recipe",
+    "cocktailId": "1667"
+  },
+  {
+    "lang": "es",
+    "slug": "enzoni-receta",
+    "cocktailId": "1667"
+  },
+  {
+    "lang": "it",
+    "slug": "enzoni-ricetta",
+    "cocktailId": "1667"
+  },
+  {
+    "lang": "en",
+    "slug": "polish-martini-recipe",
+    "cocktailId": "1668"
+  },
+  {
+    "lang": "es",
+    "slug": "polish-martini-receta",
+    "cocktailId": "1668"
+  },
+  {
+    "lang": "it",
+    "slug": "polish-martini-ricetta",
+    "cocktailId": "1668"
+  },
+  {
+    "lang": "en",
+    "slug": "vodka-espresso-recipe",
+    "cocktailId": "1669"
+  },
+  {
+    "lang": "es",
+    "slug": "vodka-espresso-receta",
+    "cocktailId": "1669"
+  },
+  {
+    "lang": "it",
+    "slug": "vodka-espresso-ricetta",
+    "cocktailId": "1669"
+  },
+  {
+    "lang": "en",
+    "slug": "wibble-recipe",
+    "cocktailId": "1670"
+  },
+  {
+    "lang": "es",
+    "slug": "wibble-receta",
+    "cocktailId": "1670"
+  },
+  {
+    "lang": "it",
+    "slug": "wibble-ricetta",
+    "cocktailId": "1670"
+  },
+  {
+    "lang": "en",
+    "slug": "frangelico-sour-recipe",
+    "cocktailId": "1671"
+  },
+  {
+    "lang": "es",
+    "slug": "frangelico-sour-receta",
+    "cocktailId": "1671"
+  },
+  {
+    "lang": "it",
+    "slug": "frangelico-sour-ricetta",
+    "cocktailId": "1671"
+  },
+  {
+    "lang": "en",
+    "slug": "grappa-tonic-recipe",
+    "cocktailId": "1672"
+  },
+  {
+    "lang": "es",
+    "slug": "grappa-tonic-receta",
+    "cocktailId": "1672"
+  },
+  {
+    "lang": "it",
+    "slug": "grappa-tonic-ricetta",
+    "cocktailId": "1672"
+  },
+  {
+    "lang": "en",
+    "slug": "grappa-old-fashioned-recipe",
+    "cocktailId": "1673"
+  },
+  {
+    "lang": "es",
+    "slug": "grappa-old-fashioned-receta",
+    "cocktailId": "1673"
+  },
+  {
+    "lang": "it",
+    "slug": "grappa-old-fashioned-ricetta",
+    "cocktailId": "1673"
+  },
+  {
+    "lang": "en",
+    "slug": "sambucata-recipe",
+    "cocktailId": "1674"
+  },
+  {
+    "lang": "es",
+    "slug": "sambucata-receta",
+    "cocktailId": "1674"
+  },
+  {
+    "lang": "it",
+    "slug": "sambucata-ricetta",
+    "cocktailId": "1674"
+  },
+  {
+    "lang": "en",
+    "slug": "carajillo-recipe",
+    "cocktailId": "1675"
+  },
+  {
+    "lang": "es",
+    "slug": "carajillo-receta",
+    "cocktailId": "1675"
+  },
+  {
+    "lang": "it",
+    "slug": "carajillo-ricetta",
+    "cocktailId": "1675"
+  },
+  {
+    "lang": "en",
+    "slug": "balón-43-recipe",
+    "cocktailId": "1676"
+  },
+  {
+    "lang": "es",
+    "slug": "balón-43-receta",
+    "cocktailId": "1676"
+  },
+  {
+    "lang": "it",
+    "slug": "balón-43-ricetta",
+    "cocktailId": "1676"
+  },
+  {
+    "lang": "en",
+    "slug": "baristo-sour-recipe",
+    "cocktailId": "1677"
+  },
+  {
+    "lang": "es",
+    "slug": "baristo-sour-receta",
+    "cocktailId": "1677"
+  },
+  {
+    "lang": "it",
+    "slug": "baristo-sour-ricetta",
+    "cocktailId": "1677"
+  },
+  {
+    "lang": "en",
+    "slug": "baristo-by-night-recipe",
+    "cocktailId": "1678"
+  },
+  {
+    "lang": "es",
+    "slug": "baristo-by-night-receta",
+    "cocktailId": "1678"
+  },
+  {
+    "lang": "it",
+    "slug": "baristo-by-night-ricetta",
+    "cocktailId": "1678"
+  },
+  {
+    "lang": "en",
+    "slug": "maracuya-43-recipe",
+    "cocktailId": "1679"
+  },
+  {
+    "lang": "es",
+    "slug": "maracuya-43-receta",
+    "cocktailId": "1679"
+  },
+  {
+    "lang": "it",
+    "slug": "maracuya-43-ricetta",
+    "cocktailId": "1679"
+  },
+  {
+    "lang": "en",
+    "slug": "pornstart-43-recipe",
+    "cocktailId": "1680"
+  },
+  {
+    "lang": "es",
+    "slug": "pornstart-43-receta",
+    "cocktailId": "1680"
+  },
+  {
+    "lang": "it",
+    "slug": "pornstart-43-ricetta",
+    "cocktailId": "1680"
+  },
+  {
+    "lang": "en",
+    "slug": "pink-panther-43-recipe",
+    "cocktailId": "1681"
+  },
+  {
+    "lang": "es",
+    "slug": "pink-panther-43-receta",
+    "cocktailId": "1681"
+  },
+  {
+    "lang": "it",
+    "slug": "pink-panther-43-ricetta",
+    "cocktailId": "1681"
+  },
+  {
+    "lang": "en",
+    "slug": "pornstar-martini-recipe",
+    "cocktailId": "1682"
+  },
+  {
+    "lang": "es",
+    "slug": "pornstar-martini-receta",
+    "cocktailId": "1682"
+  },
+  {
+    "lang": "it",
+    "slug": "pornstar-martini-ricetta",
+    "cocktailId": "1682"
+  },
+  {
+    "lang": "en",
+    "slug": "too-soon-recipe",
+    "cocktailId": "1683"
+  },
+  {
+    "lang": "es",
+    "slug": "too-soon-receta",
+    "cocktailId": "1683"
+  },
+  {
+    "lang": "it",
+    "slug": "too-soon-ricetta",
+    "cocktailId": "1683"
+  },
+  {
+    "lang": "en",
+    "slug": "old-maid-recipe",
+    "cocktailId": "1684"
+  },
+  {
+    "lang": "es",
+    "slug": "old-maid-receta",
+    "cocktailId": "1684"
+  },
+  {
+    "lang": "it",
+    "slug": "old-maid-ricetta",
+    "cocktailId": "1684"
+  },
+  {
+    "lang": "en",
+    "slug": "cobble-hill-recipe",
+    "cocktailId": "1685"
+  },
+  {
+    "lang": "es",
+    "slug": "cobble-hill-receta",
+    "cocktailId": "1685"
+  },
+  {
+    "lang": "it",
+    "slug": "cobble-hill-ricetta",
+    "cocktailId": "1685"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-basil-smash-recipe",
+    "cocktailId": "1686"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-basil-smash-receta",
+    "cocktailId": "1686"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-basil-smash-ricetta",
+    "cocktailId": "1686"
+  },
+  {
+    "lang": "en",
+    "slug": "screaming-orgasm-recipe",
+    "cocktailId": "1687"
+  },
+  {
+    "lang": "es",
+    "slug": "screaming-orgasm-receta",
+    "cocktailId": "1687"
+  },
+  {
+    "lang": "it",
+    "slug": "screaming-orgasm-ricetta",
+    "cocktailId": "1687"
+  },
+  {
+    "lang": "en",
+    "slug": "naked-&-famous-recipe",
+    "cocktailId": "1688"
+  },
+  {
+    "lang": "es",
+    "slug": "naked-&-famous-receta",
+    "cocktailId": "1688"
+  },
+  {
+    "lang": "it",
+    "slug": "naked-&-famous-ricetta",
+    "cocktailId": "1688"
+  },
+  {
+    "lang": "en",
+    "slug": "high-king-recipe",
+    "cocktailId": "1689"
+  },
+  {
+    "lang": "es",
+    "slug": "high-king-receta",
+    "cocktailId": "1689"
+  },
+  {
+    "lang": "it",
+    "slug": "high-king-ricetta",
+    "cocktailId": "1689"
+  },
+  {
+    "lang": "en",
+    "slug": "carroll-gardens-recipe",
+    "cocktailId": "1690"
+  },
+  {
+    "lang": "es",
+    "slug": "carroll-gardens-receta",
+    "cocktailId": "1690"
+  },
+  {
+    "lang": "it",
+    "slug": "carroll-gardens-ricetta",
+    "cocktailId": "1690"
+  },
+  {
+    "lang": "en",
+    "slug": "fluffy-duck-recipe",
+    "cocktailId": "1691"
+  },
+  {
+    "lang": "es",
+    "slug": "fluffy-duck-receta",
+    "cocktailId": "1691"
+  },
+  {
+    "lang": "it",
+    "slug": "fluffy-duck-ricetta",
+    "cocktailId": "1691"
+  },
+  {
+    "lang": "en",
+    "slug": "montenegroni-recipe",
+    "cocktailId": "1692"
+  },
+  {
+    "lang": "es",
+    "slug": "montenegroni-receta",
+    "cocktailId": "1692"
+  },
+  {
+    "lang": "it",
+    "slug": "montenegroni-ricetta",
+    "cocktailId": "1692"
+  },
+  {
+    "lang": "en",
+    "slug": "chimayo-recipe",
+    "cocktailId": "1693"
+  },
+  {
+    "lang": "es",
+    "slug": "chimayo-receta",
+    "cocktailId": "1693"
+  },
+  {
+    "lang": "it",
+    "slug": "chimayo-ricetta",
+    "cocktailId": "1693"
+  },
+  {
+    "lang": "en",
+    "slug": "ante-recipe",
+    "cocktailId": "1694"
+  },
+  {
+    "lang": "es",
+    "slug": "ante-receta",
+    "cocktailId": "1694"
+  },
+  {
+    "lang": "it",
+    "slug": "ante-ricetta",
+    "cocktailId": "1694"
+  },
+  {
+    "lang": "en",
+    "slug": "cuban-rose-recipe",
+    "cocktailId": "1695"
+  },
+  {
+    "lang": "es",
+    "slug": "cuban-rose-receta",
+    "cocktailId": "1695"
+  },
+  {
+    "lang": "it",
+    "slug": "cuban-rose-ricetta",
+    "cocktailId": "1695"
+  },
+  {
+    "lang": "en",
+    "slug": "diamond-martini-recipe",
+    "cocktailId": "1696"
+  },
+  {
+    "lang": "es",
+    "slug": "diamond-martini-receta",
+    "cocktailId": "1696"
+  },
+  {
+    "lang": "it",
+    "slug": "diamond-martini-ricetta",
+    "cocktailId": "1696"
+  },
+  {
+    "lang": "en",
+    "slug": "embassy-recipe",
+    "cocktailId": "1697"
+  },
+  {
+    "lang": "es",
+    "slug": "embassy-receta",
+    "cocktailId": "1697"
+  },
+  {
+    "lang": "it",
+    "slug": "embassy-ricetta",
+    "cocktailId": "1697"
+  },
+  {
+    "lang": "en",
+    "slug": "fitzgerald-recipe",
+    "cocktailId": "1698"
+  },
+  {
+    "lang": "es",
+    "slug": "fitzgerald-receta",
+    "cocktailId": "1698"
+  },
+  {
+    "lang": "it",
+    "slug": "fitzgerald-ricetta",
+    "cocktailId": "1698"
+  },
+  {
+    "lang": "en",
+    "slug": "millennium-cocktail-recipe",
+    "cocktailId": "1699"
+  },
+  {
+    "lang": "es",
+    "slug": "millennium-cocktail-receta",
+    "cocktailId": "1699"
+  },
+  {
+    "lang": "it",
+    "slug": "millennium-cocktail-ricetta",
+    "cocktailId": "1699"
+  },
+  {
+    "lang": "en",
+    "slug": "anejo-highball-recipe",
+    "cocktailId": "1700"
+  },
+  {
+    "lang": "es",
+    "slug": "anejo-highball-receta",
+    "cocktailId": "1700"
+  },
+  {
+    "lang": "it",
+    "slug": "anejo-highball-ricetta",
+    "cocktailId": "1700"
+  },
+  {
+    "lang": "en",
+    "slug": "golden-girl-recipe",
+    "cocktailId": "1701"
+  },
+  {
+    "lang": "es",
+    "slug": "golden-girl-receta",
+    "cocktailId": "1701"
+  },
+  {
+    "lang": "it",
+    "slug": "golden-girl-ricetta",
+    "cocktailId": "1701"
+  },
+  {
+    "lang": "en",
+    "slug": "south-beach-recipe",
+    "cocktailId": "1702"
+  },
+  {
+    "lang": "es",
+    "slug": "south-beach-receta",
+    "cocktailId": "1702"
+  },
+  {
+    "lang": "it",
+    "slug": "south-beach-ricetta",
+    "cocktailId": "1702"
+  },
+  {
+    "lang": "en",
+    "slug": "pineapple-sage-margarita-recipe",
+    "cocktailId": "1703"
+  },
+  {
+    "lang": "es",
+    "slug": "pineapple-sage-margarita-receta",
+    "cocktailId": "1703"
+  },
+  {
+    "lang": "it",
+    "slug": "pineapple-sage-margarita-ricetta",
+    "cocktailId": "1703"
+  },
+  {
+    "lang": "en",
+    "slug": "sazerac-recipe",
+    "cocktailId": "1704"
+  },
+  {
+    "lang": "es",
+    "slug": "sazerac-receta",
+    "cocktailId": "1704"
+  },
+  {
+    "lang": "it",
+    "slug": "sazerac-ricetta",
+    "cocktailId": "1704"
+  },
+  {
+    "lang": "en",
+    "slug": "all-in-recipe",
+    "cocktailId": "1705"
+  },
+  {
+    "lang": "es",
+    "slug": "all-in-receta",
+    "cocktailId": "1705"
+  },
+  {
+    "lang": "it",
+    "slug": "all-in-ricetta",
+    "cocktailId": "1705"
+  },
+  {
+    "lang": "en",
+    "slug": "three-dots-and-a-dash-recipe",
+    "cocktailId": "1706"
+  },
+  {
+    "lang": "es",
+    "slug": "three-dots-and-a-dash-receta",
+    "cocktailId": "1706"
+  },
+  {
+    "lang": "it",
+    "slug": "three-dots-and-a-dash-ricetta",
+    "cocktailId": "1706"
+  },
+  {
+    "lang": "en",
+    "slug": "spicy-fifty-recipe",
+    "cocktailId": "1707"
+  },
+  {
+    "lang": "es",
+    "slug": "spicy-fifty-receta",
+    "cocktailId": "1707"
+  },
+  {
+    "lang": "it",
+    "slug": "spicy-fifty-ricetta",
+    "cocktailId": "1707"
+  },
+  {
+    "lang": "en",
+    "slug": "kir-recipe",
+    "cocktailId": "1708"
+  },
+  {
+    "lang": "es",
+    "slug": "kir-receta",
+    "cocktailId": "1708"
+  },
+  {
+    "lang": "it",
+    "slug": "kir-ricetta",
+    "cocktailId": "1708"
+  },
+  {
+    "lang": "en",
+    "slug": "champagne-cocktail-recipe",
+    "cocktailId": "1709"
+  },
+  {
+    "lang": "es",
+    "slug": "champagne-cocktail-receta",
+    "cocktailId": "1709"
+  },
+  {
+    "lang": "it",
+    "slug": "champagne-cocktail-ricetta",
+    "cocktailId": "1709"
+  },
+  {
+    "lang": "en",
+    "slug": "gin-fizz-recipe",
+    "cocktailId": "1710"
+  },
+  {
+    "lang": "es",
+    "slug": "gin-fizz-receta",
+    "cocktailId": "1710"
+  },
+  {
+    "lang": "it",
+    "slug": "gin-fizz-ricetta",
+    "cocktailId": "1710"
+  },
+  {
+    "lang": "en",
+    "slug": "new-york-sour-recipe",
+    "cocktailId": "1711"
+  },
+  {
+    "lang": "es",
+    "slug": "new-york-sour-receta",
+    "cocktailId": "1711"
+  },
+  {
+    "lang": "it",
+    "slug": "new-york-sour-ricetta",
+    "cocktailId": "1711"
+  },
+  {
+    "lang": "en",
+    "slug": "bloody-mary-recipe",
+    "cocktailId": "1713"
+  },
+  {
+    "lang": "es",
+    "slug": "bloody-mary-receta",
+    "cocktailId": "1713"
+  },
+  {
+    "lang": "it",
+    "slug": "bloody-mary-ricetta",
+    "cocktailId": "1713"
+  },
+  {
+    "lang": "en",
+    "slug": "moscow-mule-recipe",
+    "cocktailId": "1714"
+  },
+  {
+    "lang": "es",
+    "slug": "moscow-mule-receta",
+    "cocktailId": "1714"
+  },
+  {
+    "lang": "it",
+    "slug": "moscow-mule-ricetta",
+    "cocktailId": "1714"
+  },
+  {
+    "lang": "en",
+    "slug": "sex-on-the-beach-recipe",
+    "cocktailId": "1715"
+  },
+  {
+    "lang": "es",
+    "slug": "sex-on-the-beach-receta",
+    "cocktailId": "1715"
+  },
+  {
+    "lang": "it",
+    "slug": "sex-on-the-beach-ricetta",
+    "cocktailId": "1715"
+  },
+  {
+    "lang": "en",
+    "slug": "russian-spring-punch-recipe",
+    "cocktailId": "1716"
+  },
+  {
+    "lang": "es",
+    "slug": "russian-spring-punch-receta",
+    "cocktailId": "1716"
+  },
+  {
+    "lang": "it",
+    "slug": "russian-spring-punch-ricetta",
+    "cocktailId": "1716"
+  },
+  {
+    "lang": "en",
+    "slug": "canchanchara-recipe",
+    "cocktailId": "1717"
+  },
+  {
+    "lang": "es",
+    "slug": "canchanchara-receta",
+    "cocktailId": "1717"
+  },
+  {
+    "lang": "it",
+    "slug": "canchanchara-ricetta",
+    "cocktailId": "1717"
+  },
+  {
+    "lang": "en",
+    "slug": "old-fashioned-recipe",
+    "cocktailId": "1718"
+  },
+  {
+    "lang": "es",
+    "slug": "old-fashioned-receta",
+    "cocktailId": "1718"
+  },
+  {
+    "lang": "it",
+    "slug": "old-fashioned-ricetta",
+    "cocktailId": "1718"
+  },
+  {
+    "lang": "en",
+    "slug": "irish-coffee-recipe",
+    "cocktailId": "1719"
+  },
+  {
+    "lang": "es",
+    "slug": "irish-coffee-receta",
+    "cocktailId": "1719"
+  },
+  {
+    "lang": "it",
+    "slug": "irish-coffee-ricetta",
+    "cocktailId": "1719"
+  },
+  {
+    "lang": "en",
+    "slug": "sherry-flip-recipe",
+    "cocktailId": "1720"
+  },
+  {
+    "lang": "es",
+    "slug": "sherry-flip-receta",
+    "cocktailId": "1720"
+  },
+  {
+    "lang": "it",
+    "slug": "sherry-flip-ricetta",
+    "cocktailId": "1720"
+  },
+  {
+    "lang": "en",
+    "slug": "21st-century-recipe",
+    "cocktailId": "1721"
+  },
+  {
+    "lang": "es",
+    "slug": "21st-century-receta",
+    "cocktailId": "1721"
+  },
+  {
+    "lang": "it",
+    "slug": "21st-century-ricetta",
+    "cocktailId": "1721"
+  },
+  {
+    "lang": "en",
+    "slug": "siesta-recipe",
+    "cocktailId": "1722"
+  },
+  {
+    "lang": "es",
+    "slug": "siesta-receta",
+    "cocktailId": "1722"
+  },
+  {
+    "lang": "it",
+    "slug": "siesta-ricetta",
+    "cocktailId": "1722"
+  },
+  {
+    "lang": "en",
+    "slug": "champs-elysees-recipe",
+    "cocktailId": "1723"
+  },
+  {
+    "lang": "es",
+    "slug": "champs-elysees-receta",
+    "cocktailId": "1723"
+  },
+  {
+    "lang": "it",
+    "slug": "champs-elysees-ricetta",
+    "cocktailId": "1723"
+  },
+  {
+    "lang": "en",
+    "slug": "metropole-recipe",
+    "cocktailId": "1724"
+  },
+  {
+    "lang": "es",
+    "slug": "metropole-receta",
+    "cocktailId": "1724"
+  },
+  {
+    "lang": "it",
+    "slug": "metropole-ricetta",
+    "cocktailId": "1724"
+  },
+  {
+    "lang": "en",
+    "slug": "breakfast-martini-recipe",
+    "cocktailId": "1725"
+  },
+  {
+    "lang": "es",
+    "slug": "breakfast-martini-receta",
+    "cocktailId": "1725"
+  },
+  {
+    "lang": "it",
+    "slug": "breakfast-martini-ricetta",
+    "cocktailId": "1725"
+  },
+  {
+    "lang": "en",
+    "slug": "quill-recipe",
+    "cocktailId": "1726"
+  },
+  {
+    "lang": "es",
+    "slug": "quill-receta",
+    "cocktailId": "1726"
+  },
+  {
+    "lang": "it",
+    "slug": "quill-ricetta",
+    "cocktailId": "1726"
+  },
+  {
+    "lang": "en",
+    "slug": "negroni-sbagliato-recipe",
+    "cocktailId": "1727"
+  },
+  {
+    "lang": "es",
+    "slug": "negroni-sbagliato-receta",
+    "cocktailId": "1727"
+  },
+  {
+    "lang": "it",
+    "slug": "negroni-sbagliato-ricetta",
+    "cocktailId": "1727"
+  },
+  {
+    "lang": "en",
+    "slug": "royal-bermuda-yacth-club-recipe",
+    "cocktailId": "1728"
+  },
+  {
+    "lang": "es",
+    "slug": "royal-bermuda-yacth-club-receta",
+    "cocktailId": "1728"
+  },
+  {
+    "lang": "it",
+    "slug": "royal-bermuda-yacth-club-ricetta",
+    "cocktailId": "1728"
+  },
+  {
+    "lang": "en",
+    "slug": "navy-grog-recipe",
+    "cocktailId": "1729"
+  },
+  {
+    "lang": "es",
+    "slug": "navy-grog-receta",
+    "cocktailId": "1729"
+  },
+  {
+    "lang": "it",
+    "slug": "navy-grog-ricetta",
+    "cocktailId": "1729"
+  },
+  {
+    "lang": "en",
+    "slug": "algonquin-recipe",
+    "cocktailId": "1730"
+  },
+  {
+    "lang": "es",
+    "slug": "algonquin-receta",
+    "cocktailId": "1730"
+  },
+  {
+    "lang": "it",
+    "slug": "algonquin-ricetta",
+    "cocktailId": "1730"
+  },
+  {
+    "lang": "en",
+    "slug": "cameron's-kick-recipe",
+    "cocktailId": "1731"
+  },
+  {
+    "lang": "es",
+    "slug": "cameron's-kick-receta",
+    "cocktailId": "1731"
+  },
+  {
+    "lang": "it",
+    "slug": "cameron's-kick-ricetta",
+    "cocktailId": "1731"
+  },
+  {
+    "lang": "en",
+    "slug": "de-la-louisiane-recipe",
+    "cocktailId": "1732"
+  },
+  {
+    "lang": "es",
+    "slug": "de-la-louisiane-receta",
+    "cocktailId": "1732"
+  },
+  {
+    "lang": "it",
+    "slug": "de-la-louisiane-ricetta",
+    "cocktailId": "1732"
+  },
+  {
+    "lang": "en",
+    "slug": "remember-the-maine-recipe",
+    "cocktailId": "1733"
+  },
+  {
+    "lang": "es",
+    "slug": "remember-the-maine-receta",
+    "cocktailId": "1733"
+  },
+  {
+    "lang": "it",
+    "slug": "remember-the-maine-ricetta",
+    "cocktailId": "1733"
+  },
+  {
+    "lang": "en",
+    "slug": "improved-whiskey-cocktail-recipe",
+    "cocktailId": "1734"
+  },
+  {
+    "lang": "es",
+    "slug": "improved-whiskey-cocktail-receta",
+    "cocktailId": "1734"
+  },
+  {
+    "lang": "it",
+    "slug": "improved-whiskey-cocktail-ricetta",
+    "cocktailId": "1734"
+  },
+  {
+    "lang": "en",
+    "slug": "presbyterian-recipe",
+    "cocktailId": "1735"
+  },
+  {
+    "lang": "es",
+    "slug": "presbyterian-receta",
+    "cocktailId": "1735"
+  },
+  {
+    "lang": "it",
+    "slug": "presbyterian-ricetta",
+    "cocktailId": "1735"
+  },
+  {
+    "lang": "en",
+    "slug": "old-hickory-recipe",
+    "cocktailId": "1736"
+  },
+  {
+    "lang": "es",
+    "slug": "old-hickory-receta",
+    "cocktailId": "1736"
+  },
+  {
+    "lang": "it",
+    "slug": "old-hickory-ricetta",
+    "cocktailId": "1736"
+  },
+  {
+    "lang": "en",
+    "slug": "salvamento-recipe",
+    "cocktailId": "1737"
+  },
+  {
+    "lang": "es",
+    "slug": "salvamento-receta",
+    "cocktailId": "1737"
+  },
+  {
+    "lang": "it",
+    "slug": "salvamento-ricetta",
+    "cocktailId": "1737"
+  },
+  {
+    "lang": "en",
+    "slug": "sal's-stinger-recipe",
+    "cocktailId": "1738"
+  },
+  {
+    "lang": "es",
+    "slug": "sal's-stinger-receta",
+    "cocktailId": "1738"
+  },
+  {
+    "lang": "it",
+    "slug": "sal's-stinger-ricetta",
+    "cocktailId": "1738"
+  },
+  {
+    "lang": "en",
+    "slug": "spritzer-fresco-recipe",
+    "cocktailId": "1739"
+  },
+  {
+    "lang": "es",
+    "slug": "spritzer-fresco-receta",
+    "cocktailId": "1739"
+  },
+  {
+    "lang": "it",
+    "slug": "spritzer-fresco-ricetta",
+    "cocktailId": "1739"
+  },
+  {
+    "lang": "en",
+    "slug": "acqua-bianca-sour-recipe",
+    "cocktailId": "1740"
+  },
+  {
+    "lang": "es",
+    "slug": "acqua-bianca-sour-receta",
+    "cocktailId": "1740"
+  },
+  {
+    "lang": "it",
+    "slug": "acqua-bianca-sour-ricetta",
+    "cocktailId": "1740"
+  },
+  {
+    "lang": "en",
+    "slug": "white-spider-recipe",
+    "cocktailId": "1741"
+  },
+  {
+    "lang": "es",
+    "slug": "white-spider-receta",
+    "cocktailId": "1741"
+  },
+  {
+    "lang": "it",
+    "slug": "white-spider-ricetta",
+    "cocktailId": "1741"
+  },
+  {
+    "lang": "en",
+    "slug": "dempsey-recipe",
+    "cocktailId": "1744"
+  },
+  {
+    "lang": "es",
+    "slug": "dempsey-receta",
+    "cocktailId": "1744"
+  },
+  {
+    "lang": "it",
+    "slug": "dempsey-ricetta",
+    "cocktailId": "1744"
+  },
+  {
+    "lang": "en",
+    "slug": "dandy-cocktail-recipe",
+    "cocktailId": "1745"
+  },
+  {
+    "lang": "es",
+    "slug": "dandy-cocktail-receta",
+    "cocktailId": "1745"
+  },
+  {
+    "lang": "it",
+    "slug": "dandy-cocktail-ricetta",
+    "cocktailId": "1745"
+  },
+  {
+    "lang": "en",
+    "slug": "bernice-recipe",
+    "cocktailId": "1746"
+  },
+  {
+    "lang": "es",
+    "slug": "bernice-receta",
+    "cocktailId": "1746"
+  },
+  {
+    "lang": "it",
+    "slug": "bernice-ricetta",
+    "cocktailId": "1746"
+  },
+  {
+    "lang": "en",
+    "slug": "fur-collar-recipe",
+    "cocktailId": "1747"
+  },
+  {
+    "lang": "es",
+    "slug": "fur-collar-receta",
+    "cocktailId": "1747"
+  },
+  {
+    "lang": "it",
+    "slug": "fur-collar-ricetta",
+    "cocktailId": "1747"
+  },
+  {
+    "lang": "en",
+    "slug": "irish-blackthorn-recipe",
+    "cocktailId": "1748"
+  },
+  {
+    "lang": "es",
+    "slug": "irish-blackthorn-receta",
+    "cocktailId": "1748"
+  },
+  {
+    "lang": "it",
+    "slug": "irish-blackthorn-ricetta",
+    "cocktailId": "1748"
+  },
+  {
+    "lang": "en",
+    "slug": "east-india-recipe",
+    "cocktailId": "1749"
+  },
+  {
+    "lang": "es",
+    "slug": "east-india-receta",
+    "cocktailId": "1749"
+  },
+  {
+    "lang": "it",
+    "slug": "east-india-ricetta",
+    "cocktailId": "1749"
+  },
+  {
+    "lang": "en",
+    "slug": "mezcal-pineapple-sour-recipe",
+    "cocktailId": "1750"
+  },
+  {
+    "lang": "es",
+    "slug": "mezcal-pineapple-sour-receta",
+    "cocktailId": "1750"
+  },
+  {
+    "lang": "it",
+    "slug": "mezcal-pineapple-sour-ricetta",
+    "cocktailId": "1750"
+  },
+  {
+    "lang": "en",
+    "slug": "ramos-fizz-recipe",
+    "cocktailId": "1751"
+  },
+  {
+    "lang": "es",
+    "slug": "ramos-fizz-receta",
+    "cocktailId": "1751"
+  },
+  {
+    "lang": "it",
+    "slug": "ramos-fizz-ricetta",
+    "cocktailId": "1751"
+  },
+  {
+    "lang": "en",
+    "slug": "hi-ladies-recipe",
+    "cocktailId": "1752"
+  },
+  {
+    "lang": "es",
+    "slug": "hi-ladies-receta",
+    "cocktailId": "1752"
+  },
+  {
+    "lang": "it",
+    "slug": "hi-ladies-ricetta",
+    "cocktailId": "1752"
+  },
+  {
+    "lang": "en",
+    "slug": "tokyo-iced-tea-recipe",
+    "cocktailId": "1753"
+  },
+  {
+    "lang": "es",
+    "slug": "tokyo-iced-tea-receta",
+    "cocktailId": "1753"
+  },
+  {
+    "lang": "it",
+    "slug": "tokyo-iced-tea-ricetta",
+    "cocktailId": "1753"
+  },
+  {
+    "lang": "en",
+    "slug": "devil's-soul-recipe",
+    "cocktailId": "1754"
+  },
+  {
+    "lang": "es",
+    "slug": "devil's-soul-receta",
+    "cocktailId": "1754"
+  },
+  {
+    "lang": "it",
+    "slug": "devil's-soul-ricetta",
+    "cocktailId": "1754"
+  },
+  {
+    "lang": "en",
+    "slug": "purgatory-recipe",
+    "cocktailId": "1755"
+  },
+  {
+    "lang": "es",
+    "slug": "purgatory-receta",
+    "cocktailId": "1755"
+  },
+  {
+    "lang": "it",
+    "slug": "purgatory-ricetta",
+    "cocktailId": "1755"
+  },
+  {
+    "lang": "en",
+    "slug": "pearl-of-puebla-recipe",
+    "cocktailId": "1756"
+  },
+  {
+    "lang": "es",
+    "slug": "pearl-of-puebla-receta",
+    "cocktailId": "1756"
+  },
+  {
+    "lang": "it",
+    "slug": "pearl-of-puebla-ricetta",
+    "cocktailId": "1756"
+  },
+  {
+    "lang": "en",
+    "slug": "pura-vida-recipe",
+    "cocktailId": "1757"
+  },
+  {
+    "lang": "es",
+    "slug": "pura-vida-receta",
+    "cocktailId": "1757"
+  },
+  {
+    "lang": "it",
+    "slug": "pura-vida-ricetta",
+    "cocktailId": "1757"
+  },
+  {
+    "lang": "en",
+    "slug": "1910-recipe",
+    "cocktailId": "1758"
+  },
+  {
+    "lang": "es",
+    "slug": "1910-receta",
+    "cocktailId": "1758"
+  },
+  {
+    "lang": "it",
+    "slug": "1910-ricetta",
+    "cocktailId": "1758"
+  },
+  {
+    "lang": "en",
+    "slug": "conquistador-recipe",
+    "cocktailId": "1760"
+  },
+  {
+    "lang": "es",
+    "slug": "conquistador-receta",
+    "cocktailId": "1760"
+  },
+  {
+    "lang": "it",
+    "slug": "conquistador-ricetta",
+    "cocktailId": "1760"
+  },
+  {
+    "lang": "en",
+    "slug": "adriatique-recipe",
+    "cocktailId": "1762"
+  },
+  {
+    "lang": "es",
+    "slug": "adriatique-receta",
+    "cocktailId": "1762"
+  },
+  {
+    "lang": "it",
+    "slug": "adriatique-ricetta",
+    "cocktailId": "1762"
+  },
+  {
+    "lang": "en",
+    "slug": "mollymock-recipe",
+    "cocktailId": "1763"
+  },
+  {
+    "lang": "es",
+    "slug": "mollymock-receta",
+    "cocktailId": "1763"
+  },
+  {
+    "lang": "it",
+    "slug": "mollymock-ricetta",
+    "cocktailId": "1763"
+  },
+  {
+    "lang": "en",
+    "slug": "old-friend-recipe",
+    "cocktailId": "1764"
+  },
+  {
+    "lang": "es",
+    "slug": "old-friend-receta",
+    "cocktailId": "1764"
+  },
+  {
+    "lang": "it",
+    "slug": "old-friend-ricetta",
+    "cocktailId": "1764"
+  },
+  {
+    "lang": "en",
+    "slug": "rabo-de-galo-recipe",
+    "cocktailId": "1765"
+  },
+  {
+    "lang": "es",
+    "slug": "rabo-de-galo-receta",
+    "cocktailId": "1765"
+  },
+  {
+    "lang": "it",
+    "slug": "rabo-de-galo-ricetta",
+    "cocktailId": "1765"
+  },
+  {
+    "lang": "en",
+    "slug": "five-keys-recipe",
+    "cocktailId": "1767"
+  },
+  {
+    "lang": "es",
+    "slug": "five-keys-receta",
+    "cocktailId": "1767"
+  },
+  {
+    "lang": "it",
+    "slug": "five-keys-ricetta",
+    "cocktailId": "1767"
+  },
+  {
+    "lang": "en",
+    "slug": "man-about-town-recipe",
+    "cocktailId": "1768"
+  },
+  {
+    "lang": "es",
+    "slug": "man-about-town-receta",
+    "cocktailId": "1768"
+  },
+  {
+    "lang": "it",
+    "slug": "man-about-town-ricetta",
+    "cocktailId": "1768"
+  },
+  {
+    "lang": "en",
+    "slug": "bosom-caresser-recipe",
+    "cocktailId": "1769"
+  },
+  {
+    "lang": "es",
+    "slug": "bosom-caresser-receta",
+    "cocktailId": "1769"
+  },
+  {
+    "lang": "it",
+    "slug": "bosom-caresser-ricetta",
+    "cocktailId": "1769"
+  },
+  {
+    "lang": "en",
+    "slug": "brandy-milk-punch-recipe",
+    "cocktailId": "1770"
+  },
+  {
+    "lang": "es",
+    "slug": "brandy-milk-punch-receta",
+    "cocktailId": "1770"
+  },
+  {
+    "lang": "it",
+    "slug": "brandy-milk-punch-ricetta",
+    "cocktailId": "1770"
+  },
+  {
+    "lang": "en",
+    "slug": "charlie-chaplin-recipe",
+    "cocktailId": "1771"
+  },
+  {
+    "lang": "es",
+    "slug": "charlie-chaplin-receta",
+    "cocktailId": "1771"
+  },
+  {
+    "lang": "it",
+    "slug": "charlie-chaplin-ricetta",
+    "cocktailId": "1771"
+  },
+  {
+    "lang": "en",
+    "slug": "club-cocktail-recipe",
+    "cocktailId": "1772"
+  },
+  {
+    "lang": "es",
+    "slug": "club-cocktail-receta",
+    "cocktailId": "1772"
+  },
+  {
+    "lang": "it",
+    "slug": "club-cocktail-ricetta",
+    "cocktailId": "1772"
+  },
+  {
+    "lang": "en",
+    "slug": "cosmopolitan-delight-recipe",
+    "cocktailId": "1773"
+  },
+  {
+    "lang": "es",
+    "slug": "cosmopolitan-delight-receta",
+    "cocktailId": "1773"
+  },
+  {
+    "lang": "it",
+    "slug": "cosmopolitan-delight-ricetta",
+    "cocktailId": "1773"
+  },
+  {
+    "lang": "en",
+    "slug": "orange-whip-recipe",
+    "cocktailId": "1774"
+  },
+  {
+    "lang": "es",
+    "slug": "orange-whip-receta",
+    "cocktailId": "1774"
+  },
+  {
+    "lang": "it",
+    "slug": "orange-whip-ricetta",
+    "cocktailId": "1774"
+  },
+  {
+    "lang": "en",
+    "slug": "rosemary-gin-fizz-recipe",
+    "cocktailId": "1777"
+  },
+  {
+    "lang": "es",
+    "slug": "rosemary-gin-fizz-receta",
+    "cocktailId": "1777"
+  },
+  {
+    "lang": "it",
+    "slug": "rosemary-gin-fizz-ricetta",
+    "cocktailId": "1777"
+  },
+  {
+    "lang": "en",
+    "slug": "passion-fruit-martini-recipe",
+    "cocktailId": "1778"
+  },
+  {
+    "lang": "es",
+    "slug": "passion-fruit-martini-receta",
+    "cocktailId": "1778"
+  },
+  {
+    "lang": "it",
+    "slug": "passion-fruit-martini-ricetta",
+    "cocktailId": "1778"
+  },
+  {
+    "lang": "en",
+    "slug": "sloe-royale-recipe",
+    "cocktailId": "1779"
+  },
+  {
+    "lang": "es",
+    "slug": "sloe-royale-receta",
+    "cocktailId": "1779"
+  },
+  {
+    "lang": "it",
+    "slug": "sloe-royale-ricetta",
+    "cocktailId": "1779"
+  },
+  {
+    "lang": "en",
+    "slug": "mc-gavin-cocktail-recipe",
+    "cocktailId": "1780"
+  },
+  {
+    "lang": "es",
+    "slug": "mc-gavin-cocktail-receta",
+    "cocktailId": "1780"
+  },
+  {
+    "lang": "it",
+    "slug": "mc-gavin-cocktail-ricetta",
+    "cocktailId": "1780"
+  },
+  {
+    "lang": "en",
+    "slug": "whiskey-highball-recipe",
+    "cocktailId": "1781"
+  },
+  {
+    "lang": "es",
+    "slug": "whiskey-highball-receta",
+    "cocktailId": "1781"
+  },
+  {
+    "lang": "it",
+    "slug": "whiskey-highball-ricetta",
+    "cocktailId": "1781"
+  },
+  {
+    "lang": "en",
+    "slug": "water-lily-recipe",
+    "cocktailId": "1782"
+  },
+  {
+    "lang": "es",
+    "slug": "water-lily-receta",
+    "cocktailId": "1782"
+  },
+  {
+    "lang": "it",
+    "slug": "water-lily-ricetta",
+    "cocktailId": "1782"
+  },
+  {
+    "lang": "en",
+    "slug": "archangel-recipe",
+    "cocktailId": "1783"
+  },
+  {
+    "lang": "es",
+    "slug": "archangel-receta",
+    "cocktailId": "1783"
+  },
+  {
+    "lang": "it",
+    "slug": "archangel-ricetta",
+    "cocktailId": "1783"
+  },
+  {
+    "lang": "en",
+    "slug": "claridge-cocktail-recipe",
+    "cocktailId": "1784"
+  },
+  {
+    "lang": "es",
+    "slug": "claridge-cocktail-receta",
+    "cocktailId": "1784"
+  },
+  {
+    "lang": "it",
+    "slug": "claridge-cocktail-ricetta",
+    "cocktailId": "1784"
+  },
+  {
+    "lang": "en",
+    "slug": "golden-fizz-recipe",
+    "cocktailId": "1786"
+  },
+  {
+    "lang": "es",
+    "slug": "golden-fizz-receta",
+    "cocktailId": "1786"
+  },
+  {
+    "lang": "it",
+    "slug": "golden-fizz-ricetta",
+    "cocktailId": "1786"
+  },
+  {
+    "lang": "en",
+    "slug": "french-kiss-recipe",
+    "cocktailId": "1787"
+  },
+  {
+    "lang": "es",
+    "slug": "french-kiss-receta",
+    "cocktailId": "1787"
+  },
+  {
+    "lang": "it",
+    "slug": "french-kiss-ricetta",
+    "cocktailId": "1787"
+  },
+  {
+    "lang": "en",
+    "slug": "honolulu-cocktail-recipe",
+    "cocktailId": "1788"
+  },
+  {
+    "lang": "es",
+    "slug": "honolulu-cocktail-receta",
+    "cocktailId": "1788"
+  },
+  {
+    "lang": "it",
+    "slug": "honolulu-cocktail-ricetta",
+    "cocktailId": "1788"
+  },
+  {
+    "lang": "en",
+    "slug": "hummer-recipe",
+    "cocktailId": "1789"
+  },
+  {
+    "lang": "es",
+    "slug": "hummer-receta",
+    "cocktailId": "1789"
+  },
+  {
+    "lang": "it",
+    "slug": "hummer-ricetta",
+    "cocktailId": "1789"
+  },
+  {
+    "lang": "en",
+    "slug": "stork-club-recipe",
+    "cocktailId": "1790"
+  },
+  {
+    "lang": "es",
+    "slug": "stork-club-receta",
+    "cocktailId": "1790"
+  },
+  {
+    "lang": "it",
+    "slug": "stork-club-ricetta",
+    "cocktailId": "1790"
+  },
+  {
+    "lang": "en",
+    "slug": "hair-of-the-dog-recipe",
+    "cocktailId": "1791"
+  },
+  {
+    "lang": "es",
+    "slug": "hair-of-the-dog-receta",
+    "cocktailId": "1791"
+  },
+  {
+    "lang": "it",
+    "slug": "hair-of-the-dog-ricetta",
+    "cocktailId": "1791"
+  },
+  {
+    "lang": "en",
+    "slug": "white-dragon-recipe",
+    "cocktailId": "1795"
+  },
+  {
+    "lang": "es",
+    "slug": "white-dragon-receta",
+    "cocktailId": "1795"
+  },
+  {
+    "lang": "it",
+    "slug": "white-dragon-ricetta",
+    "cocktailId": "1795"
+  },
+  {
+    "lang": "en",
+    "slug": "vieux-mot-recipe",
+    "cocktailId": "1798"
+  },
+  {
+    "lang": "es",
+    "slug": "vieux-mot-receta",
+    "cocktailId": "1798"
+  },
+  {
+    "lang": "it",
+    "slug": "vieux-mot-ricetta",
+    "cocktailId": "1798"
+  },
+  {
+    "lang": "en",
+    "slug": "persephone-recipe",
+    "cocktailId": "1799"
+  },
+  {
+    "lang": "es",
+    "slug": "persephone-receta",
+    "cocktailId": "1799"
+  },
+  {
+    "lang": "it",
+    "slug": "persephone-ricetta",
+    "cocktailId": "1799"
+  },
+  {
+    "lang": "en",
+    "slug": "naughty-german-recipe",
+    "cocktailId": "1956"
+  },
+  {
+    "lang": "es",
+    "slug": "naughty-german-receta",
+    "cocktailId": "1956"
+  },
+  {
+    "lang": "it",
+    "slug": "naughty-german-ricetta",
+    "cocktailId": "1956"
+  },
+  {
+    "lang": "en",
+    "slug": "happy-thanksgiving-recipe",
+    "cocktailId": "2061"
+  },
+  {
+    "lang": "es",
+    "slug": "happy-thanksgiving-receta",
+    "cocktailId": "2061"
+  },
+  {
+    "lang": "it",
+    "slug": "happy-thanksgiving-ricetta",
+    "cocktailId": "2061"
+  },
+  {
+    "lang": "en",
+    "slug": "green-eyes-gin-recipe",
+    "cocktailId": "2063"
+  },
+  {
+    "lang": "es",
+    "slug": "green-eyes-gin-receta",
+    "cocktailId": "2063"
+  },
+  {
+    "lang": "it",
+    "slug": "green-eyes-gin-ricetta",
+    "cocktailId": "2063"
+  },
+  {
+    "lang": "en",
+    "slug": "the-malestrom-recipe",
+    "cocktailId": "2134"
+  },
+  {
+    "lang": "es",
+    "slug": "the-malestrom-receta",
+    "cocktailId": "2134"
+  },
+  {
+    "lang": "it",
+    "slug": "the-malestrom-ricetta",
+    "cocktailId": "2134"
+  },
+  {
+    "lang": "en",
+    "slug": "hugo-recipe",
+    "cocktailId": "2254"
+  },
+  {
+    "lang": "es",
+    "slug": "hugo-receta",
+    "cocktailId": "2254"
+  },
+  {
+    "lang": "it",
+    "slug": "hugo-ricetta",
+    "cocktailId": "2254"
+  },
+  {
+    "lang": "en",
+    "slug": "amaro-sour-recipe",
+    "cocktailId": "2256"
+  },
+  {
+    "lang": "es",
+    "slug": "amaro-sour-receta",
+    "cocktailId": "2256"
+  },
+  {
+    "lang": "it",
+    "slug": "amaro-sour-ricetta",
+    "cocktailId": "2256"
+  },
+  {
+    "lang": "en",
+    "slug": "batanga-recipe",
+    "cocktailId": "2258"
+  },
+  {
+    "lang": "es",
+    "slug": "batanga-receta",
+    "cocktailId": "2258"
+  },
+  {
+    "lang": "it",
+    "slug": "batanga-ricetta",
+    "cocktailId": "2258"
+  },
+  {
+    "lang": "en",
+    "slug": "penicillin-recipe",
+    "cocktailId": "2259"
+  },
+  {
+    "lang": "es",
+    "slug": "penicillin-receta",
+    "cocktailId": "2259"
+  },
+  {
+    "lang": "it",
+    "slug": "penicillin-ricetta",
+    "cocktailId": "2259"
+  },
+  {
+    "lang": "en",
+    "slug": "ve.n.to-recipe",
+    "cocktailId": "2260"
+  },
+  {
+    "lang": "es",
+    "slug": "ve.n.to-receta",
+    "cocktailId": "2260"
+  },
+  {
+    "lang": "it",
+    "slug": "ve.n.to-ricetta",
+    "cocktailId": "2260"
+  },
+  {
+    "lang": "en",
+    "slug": "jager-bomb-recipe",
+    "cocktailId": "3001"
+  },
+  {
+    "lang": "es",
+    "slug": "jager-bomb-receta",
+    "cocktailId": "3001"
+  },
+  {
+    "lang": "it",
+    "slug": "jager-bomb-ricetta",
+    "cocktailId": "3001"
+  },
+  {
+    "lang": "en",
+    "slug": "honey-deuce-recipe",
+    "cocktailId": "3002"
+  },
+  {
+    "lang": "es",
+    "slug": "honey-deuce-receta",
+    "cocktailId": "3002"
+  },
+  {
+    "lang": "it",
+    "slug": "honey-deuce-ricetta",
+    "cocktailId": "3002"
+  },
+  {
+    "lang": "en",
+    "slug": "dirty-shirley-recipe",
+    "cocktailId": "3003"
+  },
+  {
+    "lang": "es",
+    "slug": "dirty-shirley-receta",
+    "cocktailId": "3003"
+  },
+  {
+    "lang": "it",
+    "slug": "dirty-shirley-ricetta",
+    "cocktailId": "3003"
+  },
+  {
+    "lang": "en",
+    "slug": "azalea-recipe",
+    "cocktailId": "3004"
+  },
+  {
+    "lang": "es",
+    "slug": "azalea-receta",
+    "cocktailId": "3004"
+  },
+  {
+    "lang": "it",
+    "slug": "azalea-ricetta",
+    "cocktailId": "3004"
+  },
+  {
+    "lang": "en",
+    "slug": "lychee-martini-recipe",
+    "cocktailId": "3005"
+  },
+  {
+    "lang": "es",
+    "slug": "lychee-martini-receta",
+    "cocktailId": "3005"
+  },
+  {
+    "lang": "it",
+    "slug": "lychee-martini-ricetta",
+    "cocktailId": "3005"
+  },
+  {
+    "lang": "en",
+    "slug": "michelada-recipe",
+    "cocktailId": "3006"
+  },
+  {
+    "lang": "es",
+    "slug": "michelada-receta",
+    "cocktailId": "3006"
+  },
+  {
+    "lang": "it",
+    "slug": "michelada-ricetta",
+    "cocktailId": "3006"
+  },
+  {
+    "lang": "en",
+    "slug": "billionaire-recipe",
+    "cocktailId": "3007"
+  },
+  {
+    "lang": "es",
+    "slug": "billionaire-receta",
+    "cocktailId": "3007"
+  },
+  {
+    "lang": "it",
+    "slug": "billionaire-ricetta",
+    "cocktailId": "3007"
+  },
+  {
+    "lang": "en",
+    "slug": "tom-collins-recipe",
+    "cocktailId": "3008"
+  },
+  {
+    "lang": "es",
+    "slug": "tom-collins-receta",
+    "cocktailId": "3008"
+  },
+  {
+    "lang": "it",
+    "slug": "tom-collins-ricetta",
+    "cocktailId": "3008"
+  },
+  {
+    "lang": "en",
+    "slug": "morning-glory-recipe",
+    "cocktailId": "3009"
+  },
+  {
+    "lang": "es",
+    "slug": "morning-glory-receta",
+    "cocktailId": "3009"
+  },
+  {
+    "lang": "it",
+    "slug": "morning-glory-ricetta",
+    "cocktailId": "3009"
+  },
+  {
+    "lang": "en",
+    "slug": "adios-motherfucker-recipe",
+    "cocktailId": "3010"
+  },
+  {
+    "lang": "es",
+    "slug": "adios-motherfucker-receta",
+    "cocktailId": "3010"
+  },
+  {
+    "lang": "it",
+    "slug": "adios-motherfucker-ricetta",
+    "cocktailId": "3010"
+  },
+  {
+    "lang": "en",
+    "slug": "irish-car-bomb-recipe",
+    "cocktailId": "3011"
+  },
+  {
+    "lang": "es",
+    "slug": "irish-car-bomb-receta",
+    "cocktailId": "3011"
+  },
+  {
+    "lang": "it",
+    "slug": "irish-car-bomb-ricetta",
+    "cocktailId": "3011"
+  },
+  {
+    "lang": "en",
+    "slug": "pantheon-recipe",
+    "cocktailId": "3012"
+  },
+  {
+    "lang": "es",
+    "slug": "pantheon-receta",
+    "cocktailId": "3012"
+  },
+  {
+    "lang": "it",
+    "slug": "pantheon-ricetta",
+    "cocktailId": "3012"
+  },
+  {
+    "lang": "en",
+    "slug": "cardinale-recipe",
+    "cocktailId": "3013"
+  },
+  {
+    "lang": "es",
+    "slug": "cardinale-receta",
+    "cocktailId": "3013"
+  },
+  {
+    "lang": "it",
+    "slug": "cardinale-ricetta",
+    "cocktailId": "3013"
+  },
+  {
+    "lang": "en",
+    "slug": "chartreuse-swizzle-recipe",
+    "cocktailId": "3014"
+  },
+  {
+    "lang": "es",
+    "slug": "chartreuse-swizzle-receta",
+    "cocktailId": "3014"
+  },
+  {
+    "lang": "it",
+    "slug": "chartreuse-swizzle-ricetta",
+    "cocktailId": "3014"
+  },
+  {
+    "lang": "en",
+    "slug": "grand-margarita-recipe",
+    "cocktailId": "3015"
+  },
+  {
+    "lang": "es",
+    "slug": "grand-margarita-receta",
+    "cocktailId": "3015"
+  },
+  {
+    "lang": "it",
+    "slug": "grand-margarita-ricetta",
+    "cocktailId": "3015"
+  },
+  {
+    "lang": "en",
+    "slug": "pisco-punch-recipe",
+    "cocktailId": "3016"
+  },
+  {
+    "lang": "es",
+    "slug": "pisco-punch-receta",
+    "cocktailId": "3016"
+  },
+  {
+    "lang": "it",
+    "slug": "pisco-punch-ricetta",
+    "cocktailId": "3016"
+  },
+  {
+    "lang": "en",
+    "slug": "sherry-cobbler-recipe",
+    "cocktailId": "3017"
+  },
+  {
+    "lang": "es",
+    "slug": "sherry-cobbler-receta",
+    "cocktailId": "3017"
+  },
+  {
+    "lang": "it",
+    "slug": "sherry-cobbler-ricetta",
+    "cocktailId": "3017"
+  },
+  {
+    "lang": "en",
+    "slug": "don's-special-daiquiri-recipe",
+    "cocktailId": "3018"
+  },
+  {
+    "lang": "es",
+    "slug": "don's-special-daiquiri-receta",
+    "cocktailId": "3018"
+  },
+  {
+    "lang": "it",
+    "slug": "don's-special-daiquiri-ricetta",
+    "cocktailId": "3018"
+  },
+  {
+    "lang": "en",
+    "slug": "missionary's-downfall-recipe",
+    "cocktailId": "3019"
+  },
+  {
+    "lang": "es",
+    "slug": "missionary's-downfall-receta",
+    "cocktailId": "3019"
+  },
+  {
+    "lang": "it",
+    "slug": "missionary's-downfall-ricetta",
+    "cocktailId": "3019"
+  },
+  {
+    "lang": "en",
+    "slug": "german-vacation-recipe",
+    "cocktailId": "3020"
+  },
+  {
+    "lang": "es",
+    "slug": "german-vacation-receta",
+    "cocktailId": "3020"
+  },
+  {
+    "lang": "it",
+    "slug": "german-vacation-ricetta",
+    "cocktailId": "3020"
+  },
+  {
+    "lang": "en",
+    "slug": "emerson-recipe",
+    "cocktailId": "3021"
+  },
+  {
+    "lang": "es",
+    "slug": "emerson-receta",
+    "cocktailId": "3021"
+  },
+  {
+    "lang": "it",
+    "slug": "emerson-ricetta",
+    "cocktailId": "3021"
+  },
+  {
+    "lang": "en",
+    "slug": "fog-cutter-recipe",
+    "cocktailId": "3022"
+  },
+  {
+    "lang": "es",
+    "slug": "fog-cutter-receta",
+    "cocktailId": "3022"
+  },
+  {
+    "lang": "it",
+    "slug": "fog-cutter-ricetta",
+    "cocktailId": "3022"
+  },
+  {
+    "lang": "en",
+    "slug": "darkside-recipe",
+    "cocktailId": "3023"
+  },
+  {
+    "lang": "es",
+    "slug": "darkside-receta",
+    "cocktailId": "3023"
+  },
+  {
+    "lang": "it",
+    "slug": "darkside-ricetta",
+    "cocktailId": "3023"
+  },
+  {
+    "lang": "en",
+    "slug": "wet-martini-recipe",
+    "cocktailId": "3024"
+  },
+  {
+    "lang": "es",
+    "slug": "wet-martini-receta",
+    "cocktailId": "3024"
+  },
+  {
+    "lang": "it",
+    "slug": "wet-martini-ricetta",
+    "cocktailId": "3024"
+  },
+  {
+    "lang": "en",
+    "slug": "mezcal-mule-recipe",
+    "cocktailId": "3025"
+  },
+  {
+    "lang": "es",
+    "slug": "mezcal-mule-receta",
+    "cocktailId": "3025"
+  },
+  {
+    "lang": "it",
+    "slug": "mezcal-mule-ricetta",
+    "cocktailId": "3025"
+  },
+  {
+    "lang": "en",
+    "slug": "rum-punch-recipe",
+    "cocktailId": "3026"
+  },
+  {
+    "lang": "es",
+    "slug": "rum-punch-receta",
+    "cocktailId": "3026"
+  },
+  {
+    "lang": "it",
+    "slug": "rum-punch-ricetta",
+    "cocktailId": "3026"
+  },
+  {
+    "lang": "en",
+    "slug": "snakebite-recipe",
+    "cocktailId": "3027"
+  },
+  {
+    "lang": "es",
+    "slug": "snakebite-receta",
+    "cocktailId": "3027"
+  },
+  {
+    "lang": "it",
+    "slug": "snakebite-ricetta",
+    "cocktailId": "3027"
+  },
+  {
+    "lang": "en",
+    "slug": "black-velvet-recipe",
+    "cocktailId": "3028"
+  },
+  {
+    "lang": "es",
+    "slug": "black-velvet-receta",
+    "cocktailId": "3028"
+  },
+  {
+    "lang": "it",
+    "slug": "black-velvet-ricetta",
+    "cocktailId": "3028"
+  },
+  {
+    "lang": "en",
+    "slug": "strawberry-kamikaze-shot-recipe",
+    "cocktailId": "3029"
+  },
+  {
+    "lang": "es",
+    "slug": "strawberry-kamikaze-shot-receta",
+    "cocktailId": "3029"
+  },
+  {
+    "lang": "it",
+    "slug": "strawberry-kamikaze-shot-ricetta",
+    "cocktailId": "3029"
+  },
+  {
+    "lang": "en",
+    "slug": "b-52-shot-recipe",
+    "cocktailId": "3030"
+  },
+  {
+    "lang": "es",
+    "slug": "b-52-shot-receta",
+    "cocktailId": "3030"
+  },
+  {
+    "lang": "it",
+    "slug": "b-52-shot-ricetta",
+    "cocktailId": "3030"
+  },
+  {
+    "lang": "en",
+    "slug": "el-pepino-recipe",
+    "cocktailId": "3031"
+  },
+  {
+    "lang": "es",
+    "slug": "el-pepino-receta",
+    "cocktailId": "3031"
+  },
+  {
+    "lang": "it",
+    "slug": "el-pepino-ricetta",
+    "cocktailId": "3031"
+  },
+  {
+    "lang": "en",
+    "slug": "ferrari-shot-recipe",
+    "cocktailId": "3032"
+  },
+  {
+    "lang": "es",
+    "slug": "ferrari-shot-receta",
+    "cocktailId": "3032"
+  },
+  {
+    "lang": "it",
+    "slug": "ferrari-shot-ricetta",
+    "cocktailId": "3032"
+  },
+  {
+    "lang": "en",
+    "slug": "pink-squirrel-recipe",
+    "cocktailId": "3033"
+  },
+  {
+    "lang": "es",
+    "slug": "pink-squirrel-receta",
+    "cocktailId": "3033"
+  },
+  {
+    "lang": "it",
+    "slug": "pink-squirrel-ricetta",
+    "cocktailId": "3033"
+  },
+  {
+    "lang": "en",
+    "slug": "psycho-killer-recipe",
+    "cocktailId": "3034"
+  },
+  {
+    "lang": "es",
+    "slug": "psycho-killer-receta",
+    "cocktailId": "3034"
+  },
+  {
+    "lang": "it",
+    "slug": "psycho-killer-ricetta",
+    "cocktailId": "3034"
+  },
+  {
+    "lang": "en",
+    "slug": "sgroppino-recipe",
+    "cocktailId": "3035"
+  },
+  {
+    "lang": "es",
+    "slug": "sgroppino-receta",
+    "cocktailId": "3035"
+  },
+  {
+    "lang": "it",
+    "slug": "sgroppino-ricetta",
+    "cocktailId": "3035"
+  },
+  {
+    "lang": "en",
+    "slug": "baby-guiness-recipe",
+    "cocktailId": "3036"
+  },
+  {
+    "lang": "es",
+    "slug": "baby-guiness-receta",
+    "cocktailId": "3036"
+  },
+  {
+    "lang": "it",
+    "slug": "baby-guiness-ricetta",
+    "cocktailId": "3036"
+  },
+  {
+    "lang": "en",
+    "slug": "seven-&-seven-recipe",
+    "cocktailId": "3037"
+  },
+  {
+    "lang": "es",
+    "slug": "seven-&-seven-receta",
+    "cocktailId": "3037"
+  },
+  {
+    "lang": "it",
+    "slug": "seven-&-seven-ricetta",
+    "cocktailId": "3037"
+  },
+  {
+    "lang": "en",
+    "slug": "irish-mule-recipe",
+    "cocktailId": "3038"
+  },
+  {
+    "lang": "es",
+    "slug": "irish-mule-receta",
+    "cocktailId": "3038"
+  },
+  {
+    "lang": "it",
+    "slug": "irish-mule-ricetta",
+    "cocktailId": "3038"
+  },
+  {
+    "lang": "en",
+    "slug": "jack-and-coke-recipe",
+    "cocktailId": "3039"
+  },
+  {
+    "lang": "es",
+    "slug": "jack-and-coke-receta",
+    "cocktailId": "3039"
+  },
+  {
+    "lang": "it",
+    "slug": "jack-and-coke-ricetta",
+    "cocktailId": "3039"
+  },
+  {
+    "lang": "en",
+    "slug": "vodka-red-bull-recipe",
+    "cocktailId": "3040"
+  },
+  {
+    "lang": "es",
+    "slug": "vodka-red-bull-receta",
+    "cocktailId": "3040"
+  },
+  {
+    "lang": "it",
+    "slug": "vodka-red-bull-ricetta",
+    "cocktailId": "3040"
+  },
+  {
+    "lang": "en",
+    "slug": "rum-cooler-recipe",
+    "cocktailId": "3041"
+  },
+  {
+    "lang": "es",
+    "slug": "rum-cooler-receta",
+    "cocktailId": "3041"
+  },
+  {
+    "lang": "it",
+    "slug": "rum-cooler-ricetta",
+    "cocktailId": "3041"
+  },
+  {
+    "lang": "en",
+    "slug": "passoa-mimosa-recipe",
+    "cocktailId": "3042"
+  },
+  {
+    "lang": "es",
+    "slug": "passoa-mimosa-receta",
+    "cocktailId": "3042"
+  },
+  {
+    "lang": "it",
+    "slug": "passoa-mimosa-ricetta",
+    "cocktailId": "3042"
+  },
+  {
+    "lang": "en",
+    "slug": "cement-mixer-recipe",
+    "cocktailId": "3043"
+  },
+  {
+    "lang": "es",
+    "slug": "cement-mixer-receta",
+    "cocktailId": "3043"
+  },
+  {
+    "lang": "it",
+    "slug": "cement-mixer-ricetta",
+    "cocktailId": "3043"
+  },
+  {
+    "lang": "en",
+    "slug": "blow-job-shot-recipe",
+    "cocktailId": "3044"
+  },
+  {
+    "lang": "es",
+    "slug": "blow-job-shot-receta",
+    "cocktailId": "3044"
+  },
+  {
+    "lang": "it",
+    "slug": "blow-job-shot-ricetta",
+    "cocktailId": "3044"
+  },
+  {
+    "lang": "en",
+    "slug": "slippery-nipple-recipe",
+    "cocktailId": "3045"
+  },
+  {
+    "lang": "es",
+    "slug": "slippery-nipple-receta",
+    "cocktailId": "3045"
+  },
+  {
+    "lang": "it",
+    "slug": "slippery-nipple-ricetta",
+    "cocktailId": "3045"
+  }
+]

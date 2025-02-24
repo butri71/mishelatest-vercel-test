@@ -38,7 +38,7 @@ export default function RootLayout({ children }) {
       // console.log("User accepted cookies.");
       setHasConsented(true);
       setShowCookiePopup(false);
-      initializeGoogleAnalytics();
+      // initializeGoogleAnalytics();
     } else if (consent === "rejected") {
       // console.log("User rejected cookies.");
       setHasConsented(false);
