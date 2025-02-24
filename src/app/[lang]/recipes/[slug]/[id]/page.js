@@ -23,6 +23,10 @@ import "../../../components/recipes.css";
 // export const revalidate = 604800;
 // export const dynamic = "force-static";
 
+// export default async function RecipePage({ params }) {
+//     const { lang, slug, id } = params;
+//     const cocktailId = id;
+
 // Helper function to generate SEO content
 function generateSEOContent(
   cocktailData,
@@ -169,132 +173,135 @@ function generateSEOContent(
 // export async function generateMetadata({ params, searchParams }) {
 //   const { lang, slug } = await params;
 //   const cocktailId = searchParams.id;
+export async function generateMetadata({ params }) {
+  const { lang, slug, id } = params;
+  const cocktailId = id;
 
-//   const locals = {
-//     en: "recipe",
-//     es: "receta",
-//     it: "ricetta",
-//     // Add other languages here
-//   };
-//   const getCanonicalSlug = (name, language) => {
-//     return (
-//       name
-//         ?.normalize("NFD") // Normalize to decompose accented characters
-//         .replace(/[\u0300-\u036f]/g, "") // Remove accent marks
-//         .toLowerCase()
-//         .replace(/[^a-z0-9]+/g, "-") // Replace non-alphanumeric characters with dashes
-//         .replace(/^-+|-+$/g, "") + // Remove leading and trailing dashes
-//       "-" +
-//       locals[language]
-//     );
-//   };
+  const locals = {
+    en: "recipe",
+    es: "receta",
+    it: "ricetta",
+    // Add other languages here
+  };
+  const getCanonicalSlug = (name, language) => {
+    return (
+      name
+        ?.normalize("NFD") // Normalize to decompose accented characters
+        .replace(/[\u0300-\u036f]/g, "") // Remove accent marks
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "-") // Replace non-alphanumeric characters with dashes
+        .replace(/^-+|-+$/g, "") + // Remove leading and trailing dashes
+      "-" +
+      locals[language]
+    );
+  };
 
-//   const {
-//     cocktailData,
-//     source,
-//     abv,
-//     calories,
-//     dietaryInfo,
-//     ingredients,
-//     preparation,
-//     dosage,
-//     glassImage,
-//     postImage,
-//     // garnish,
-//     // overallName,
-//     country,
-//     ratingAverage,
-//     ratingVotes,
-//   } = getCocktailData(cocktailId, lang);
-//   // console.log("generateMetadata glassImage: ",glassImage)
+  const {
+    cocktailData,
+    source,
+    abv,
+    calories,
+    dietaryInfo,
+    ingredients,
+    preparation,
+    dosage,
+    glassImage,
+    postImage,
+    // garnish,
+    // overallName,
+    country,
+    ratingAverage,
+    ratingVotes,
+  } = getCocktailData(cocktailId, lang);
+  // console.log("generateMetadata glassImage: ",glassImage)
 
-//   const cocktailName = cocktailData?.all?.overallName;
+  const cocktailName = cocktailData?.all?.overallName;
 
-//   const ing1 = capitalizeWords(ingredients[0], lang);
-//   const ing2 = capitalizeWords(ingredients[1], lang);
-//   const upperCocktail = capitalizeWords(cocktailName, lang);
-//   const localeTitles = {
-//     en: (cocktailName) => `${upperCocktail} drink recipe`,
-//     es: (cocktailName) => `${upperCocktail} | receta cóctel original`,
-//     it: (cocktailName) => `${upperCocktail} | ricetta cocktail originale`,
-//   };
-//   // const localeTitles = {
-//   //     "en": (cocktailName) => `How to Make the cocktail ${upperCocktail}`,
-//   //     "es": (cocktailName) => `Como preparar el cóctel ${upperCocktail}`,
-//   //     "it": (cocktailName) => `Come preparare il cocktail ${upperCocktail}`,
-//   // };
+  const ing1 = capitalizeWords(ingredients[0], lang);
+  const ing2 = capitalizeWords(ingredients[1], lang);
+  const upperCocktail = capitalizeWords(cocktailName, lang);
+  const localeTitles = {
+    en: (cocktailName) => `${upperCocktail} drink recipe`,
+    es: (cocktailName) => `${upperCocktail} | receta cóctel original`,
+    it: (cocktailName) => `${upperCocktail} | ricetta cocktail originale`,
+  };
+  // const localeTitles = {
+  //     "en": (cocktailName) => `How to Make the cocktail ${upperCocktail}`,
+  //     "es": (cocktailName) => `Como preparar el cóctel ${upperCocktail}`,
+  //     "it": (cocktailName) => `Come preparare il cocktail ${upperCocktail}`,
+  // };
 
-//   const pageTitle = localeTitles[lang](cocktailName);
-//   const seoDescriptions = {
-//     en: `Learn how to make the classic cocktail ${upperCocktail} in minutes with ${ing1} and ${ing2}. Follow our easy ${preparation.length} steps recipe for a great drink at home, checking ingredients and calories.`,
-//     es: `Aprende a preparar el clásico cóctel ${upperCocktail} en unos minutos con ${ing1} y ${ing2}. Sigue nuestra sencilla receta de ${preparation.length} pasos para preparar una bebida profesional en casa comprobando ingredientes y calorías.`,
-//     it: `Impara a preparare il cocktail ${upperCocktail} con ${ing1} e ${ing2} in pochi minuti. Segui la nostra ricetta in ${preparation.length} passaggi semplici per preparare un ottimo drink a casa con ingredienti e calorie.`,
-//   };
+  const pageTitle = localeTitles[lang](cocktailName);
+  const seoDescriptions = {
+    en: `Learn how to make the classic cocktail ${upperCocktail} in minutes with ${ing1} and ${ing2}. Follow our easy ${preparation.length} steps recipe for a great drink at home, checking ingredients and calories.`,
+    es: `Aprende a preparar el clásico cóctel ${upperCocktail} en unos minutos con ${ing1} y ${ing2}. Sigue nuestra sencilla receta de ${preparation.length} pasos para preparar una bebida profesional en casa comprobando ingredientes y calorías.`,
+    it: `Impara a preparare il cocktail ${upperCocktail} con ${ing1} e ${ing2} in pochi minuti. Segui la nostra ricetta in ${preparation.length} passaggi semplici per preparare un ottimo drink a casa con ingredienti e calorie.`,
+  };
 
-//   const seoContent = generateSEOContent(
-//     cocktailData,
-//     source,
-//     abv,
-//     calories,
-//     dietaryInfo,
-//     ingredients,
-//     preparation,
-//     dosage,
-//     glassImage,
-//     postImage,
-//     country,
-//     lang,
-//     slug,
-//     ratingAverage,
-//     ratingVotes
-//   );
-//   const baseUrl = getBaseUrl();
+  const seoContent = generateSEOContent(
+    cocktailData,
+    source,
+    abv,
+    calories,
+    dietaryInfo,
+    ingredients,
+    preparation,
+    dosage,
+    glassImage,
+    postImage,
+    country,
+    lang,
+    slug,
+    ratingAverage,
+    ratingVotes
+  );
+  const baseUrl = getBaseUrl();
 
-//   return {
-//     title: pageTitle,
-//     description: seoDescriptions[lang],
-//     keywords: seoContent.keywords,
-//     openGraph: {
-//       title: pageTitle,
-//       description: seoDescriptions[lang],
-//       // type: "article",
-//       locale: lang,
-//       url: `${baseUrl}/${lang}/recipes/${slug}?id=${cocktailId}`,
-//       // images: [
-//       //     {
-//       //         url: `${baseUrl}/images/blog/${post.image}`,
-//       //         width: 900,
-//       //         height: 600,
-//       //         alt: article.title,
-//       //         type: "image/jpeg",
-//       //     },
-//       // ],
-//       siteName: "Mishela Cocktail Recipes",
-//     },
-//     alternates: {
-//       // canonical: `${baseUrl}/${lang}/recipes/${slug}?id=${cocktailId}`,
-//       languages: {
-//         ...Object.keys(locals).reduce((acc, language) => {
-//           acc[language] = `${baseUrl}/${language}/recipes/${getCanonicalSlug(
-//             cocktailName,
-//             language
-//           )}?id=${cocktailId}`;
-//           return acc;
-//         }, {}),
-//         "x-default": `${baseUrl}/en/recipes/${getCanonicalSlug(
-//           cocktailName,
-//           "en"
-//         )}?id=${cocktailId}`,
-//       },
-//       // languages: Object.keys(locals).reduce((acc, language) => {
-//       //     acc[language] = `/${language}/recipes/${getCanonicalSlug(cocktailName, language)}?id=${cocktailId}`;
-//       //     return acc;
-//       // }, {}),
-//     },
-//     // Add this so it can be used in BlogPost
-//     schema: seoContent.schema,
-//   };
-// }
+  return {
+    title: pageTitle,
+    description: seoDescriptions[lang],
+    keywords: seoContent.keywords,
+    openGraph: {
+      title: pageTitle,
+      description: seoDescriptions[lang],
+      // type: "article",
+      locale: lang,
+      url: `${baseUrl}/${lang}/recipes/${slug}?id=${cocktailId}`,
+      // images: [
+      //     {
+      //         url: `${baseUrl}/images/blog/${post.image}`,
+      //         width: 900,
+      //         height: 600,
+      //         alt: article.title,
+      //         type: "image/jpeg",
+      //     },
+      // ],
+      siteName: "Mishela Cocktail Recipes",
+    },
+    alternates: {
+      // canonical: `${baseUrl}/${lang}/recipes/${slug}?id=${cocktailId}`,
+      languages: {
+        ...Object.keys(locals).reduce((acc, language) => {
+          acc[language] = `${baseUrl}/${language}/recipes/${getCanonicalSlug(
+            cocktailName,
+            language
+          )}?id=${cocktailId}`;
+          return acc;
+        }, {}),
+        "x-default": `${baseUrl}/en/recipes/${getCanonicalSlug(
+          cocktailName,
+          "en"
+        )}?id=${cocktailId}`,
+      },
+      // languages: Object.keys(locals).reduce((acc, language) => {
+      //     acc[language] = `/${language}/recipes/${getCanonicalSlug(cocktailName, language)}?id=${cocktailId}`;
+      //     return acc;
+      // }, {}),
+    },
+    // Add this so it can be used in BlogPost
+    schema: seoContent.schema,
+  };
+}
 
 export async function generateStaticParams() {
   return recipeCache.map(({ lang, slug, cocktailId }) => ({
@@ -410,7 +417,7 @@ export default async function RecipePage({ params }) {
                 priority={true}
               />
             </div>
-            <div className="glass-side-wrapper">            
+            <div className="glass-side-wrapper">
               <div className="cocktail-tags">
                 {tags && (
                   <div>
@@ -421,7 +428,7 @@ export default async function RecipePage({ params }) {
                     ))}
                   </div>
                 )}
-              </div>             
+              </div>
               <div className="middle-right">
                 <div className="side-image-container">
                   {iba && (
@@ -459,8 +466,8 @@ export default async function RecipePage({ params }) {
                       votes={ratingCount}
                       message={t("blog.alert_rating_msm")}
                     />
-                  </Suspense> 
-                </div>                
+                  </Suspense>
+                </div>
                 <div className="side-image-container">
                   {isQRcode && <QrCodeGenerator drinkId={cocktailId} />}
                 </div>
