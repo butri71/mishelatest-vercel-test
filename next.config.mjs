@@ -4,6 +4,21 @@ const nextConfig = {
   async headers() {
     return [
       {
+        source: '/:lang/recipes/:slug/:id',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+      {
+        source: '/_next/image(.*)', // Matches image optimization requests
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable, stale-while-revalidate=86400' }
+        ],
+      },
+      {
         source: '/:path*',
         headers: [
           {
@@ -36,13 +51,11 @@ const nextConfig = {
     deviceSizes: [640, 750, 828, 1080, 1200, 1920],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     formats: ['image/avif', 'image/webp'],
-    // Add domains if loading external images
-    // domains: ['example.com'],
+    minimumCacheTTL: 31536000, // Cache images for 1 year 
   },
   // Optional performance optimizations
   experimental: {
-    optimizePackageImports: ['@/components'],
-    // externalDir: true, // Disable API route pre-rendering
+    optimizePackageImports: ['@/components'],    
   },
 }
 
