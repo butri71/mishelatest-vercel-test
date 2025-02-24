@@ -24,7 +24,7 @@ import "./components/cocktail.css";
 
 // export const dynamicParams = true;
 // export const revalidate = 604800; // Cache for 7 days
-// export const dynamic = "force-static";
+export const dynamic = "force-static";
 export async function generateStaticParams() {
   return [{ lang: "en" }, { lang: "es" }, { lang: "it" }];
 }
