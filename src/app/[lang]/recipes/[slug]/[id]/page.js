@@ -461,14 +461,14 @@ export default async function RecipePage({ params }) {
                     />
                   </Suspense> 
                 </div>                
-                {/* <div className="side-image-container">
+                <div className="side-image-container">
                   {isQRcode && <QrCodeGenerator drinkId={cocktailId} />}
-                </div> */}
+                </div>
               </div>
             </div>
           </div>
           {/* BLOG LINK BUTTON */}
-          {/* {postRecord && postRecord[lang]?.slug && (
+          {postRecord && postRecord[lang]?.slug && (
             <div className="blog-banner-container">
               <div className="btnBanner">
                 <Link
@@ -479,7 +479,7 @@ export default async function RecipePage({ params }) {
                 </Link>
               </div>
             </div>
-          )} */}
+          )}
 
           {/* RECIPE*/}
           <div id="recipe-section">
