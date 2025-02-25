@@ -1,6 +1,21 @@
 // src/middleware.js
 export function middleware(request) {
-  const { pathname } = request.nextUrl;
+  // const { pathname } = request.nextUrl;
+  const { pathname, searchParams } = request.nextUrl;
+  // Extract query parameters for old recipe dynamic url
+  const id = searchParams.get("id");
+
+  // Check if URL matches /lang/recipes/slug?id=ID
+  const recipeMatch = pathname.match(/^\/(en|es|it)\/recipes\/([^/]+)$/);
+  if (recipeMatch && id && /^\d+$/.test(id)) {
+    const lang = recipeMatch[1]; // Extract language (en, es, it)
+    const slug = recipeMatch[2]; // Extract recipe slug
+    
+    // Build new static URL
+    const newUrl = new URL(`/${lang}/recipes/${slug}/${id}`, request.url);
+    return Response.redirect(newUrl, 301); // Permanent redirect
+  }
+  
 
   const CRAWLER_PATTERNS = [
     // Google

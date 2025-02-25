@@ -282,21 +282,20 @@ export async function generateMetadata({ params }) {
       // canonical: `${baseUrl}/${lang}/recipes/${slug}?id=${cocktailId}`,
       languages: {
         ...Object.keys(locals).reduce((acc, language) => {
-          acc[language] = `${baseUrl}/${language}/recipes/${getCanonicalSlug(
-            cocktailName,
-            language
-          )}?id=${cocktailId}`;
+        //   acc[language] = `${baseUrl}/${language}/recipes/${getCanonicalSlug(
+        //     cocktailName,
+        //     language
+        //   )}?id=${cocktailId}`;
+          acc[language] = `${baseUrl}/${language}/recipes/${getCanonicalSlug(cocktailName, language)}/${cocktailId}`;
           return acc;
         }, {}),
-        "x-default": `${baseUrl}/en/recipes/${getCanonicalSlug(
-          cocktailName,
-          "en"
-        )}?id=${cocktailId}`,
-      },
-      // languages: Object.keys(locals).reduce((acc, language) => {
-      //     acc[language] = `/${language}/recipes/${getCanonicalSlug(cocktailName, language)}?id=${cocktailId}`;
-      //     return acc;
-      // }, {}),
+        "x-default": `${baseUrl}/en/recipes/${getCanonicalSlug(cocktailName, "en")}/${cocktailId}`,
+      
+        // "x-default": `${baseUrl}/en/recipes/${getCanonicalSlug(
+        //   cocktailName,
+        //   "en"
+        // )}?id=${cocktailId}`,
+      },     
     },
     // Add this so it can be used in BlogPost
     schema: seoContent.schema,

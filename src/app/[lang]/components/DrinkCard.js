@@ -24,7 +24,8 @@ export default function DrinkCard({ bg, glassImage, name, drinkId, locale }) {
   return (
     <div>
       <Link
-        href={`/${locale}/recipes/${cocktailSlug}?id=${drinkId}`}
+        // href={`/${locale}/recipes/${cocktailSlug}?id=${drinkId}`}
+        href={`/${locale}/recipes/${cocktailSlug}/${drinkId}`}
         className="recipe-card-link"
       >
         <div className="drink-card">

@@ -36,6 +36,11 @@ export default function Breadcrumb({ lang }) {
     return null;
   }
 
+  // If the last segment is numeric (ID), remove it
+  if (!isNaN(paths[paths.length - 1])) {
+    paths.pop();
+  }
+  
   const formatLabel = (path) => {
     if (labels[lang][path]) {
       return labels[lang][path];
